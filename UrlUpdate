@@ -1,11 +1,11 @@
 {
-  "Version": "1.0.5",
+  "Version": "1.0.6",
   "ReleaseNotes": "TESTE UPDATE ONLINE",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
-  "EmailFeedback": "kiritosshxd5733@gmail.com",
+  "EmailFeedback": "",
   "UrlContato": "https://t.me/startnetplus",
-  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/termos.html",
   "CheckUser": "true",
   "Udp": [
     {
