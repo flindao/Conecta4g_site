@@ -4,7 +4,7 @@
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
-  "UrlContato": "https://t.me/startnetplus",
+  "UrlContato": "http://painel.startnetplus.xyz/",
   "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/termos.html",
   "CheckUser": "true",
   "Udp": [
