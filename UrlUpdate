@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.8",
+  "Version": "1.0.9",
   "ReleaseNotes": "TESTE UPDATE ONLINE",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -59,7 +59,7 @@
       "TYPE": "premium ",
       "FLAG": "br.png",
       "ServerIP": "br2.startnetplus.xyz",
-      "CheckUser": "209.14.71.190:5454/checkUser",
+      "CheckUser": "http://209.14.71.190:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
