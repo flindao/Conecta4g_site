@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.9",
+  "Version": "1.0.8",
   "ReleaseNotes": "TESTE UPDATE ONLINE",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -51,8 +51,8 @@
       "CheckUser": "http://209.14.137.66:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "startnet",
-      "PASS": "1234"
+      "USER": "",
+      "PASS": ""
     },
     {
       "Name": "SERVIDOR 2 | PLUS",
@@ -80,7 +80,7 @@
       "Name": "SUPORTE | PLUS",
       "TYPE": "free",
       "FLAG": "br.png",
-      "ServerIP": "br1.startnetplus.xyz",
+      "ServerIP": "br4.startnetplus.xyz",
       "CheckUser": "http://191.101.131.58:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
