@@ -1,11 +1,11 @@
 {
   "Version": "1.0.1",
   "ReleaseNotes": "TESTE UPDATE ONLINE",
-  "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/GomesUrlUpdate",
-  "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
+  "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlUpdate",
+  "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlSms",
   "EmailFeedback": "",
   "UrlContato": "http://painel.gomes.sonicvpn.xyz/",
-  "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/termos.html",
+  "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/termos.html",
   "CheckUser": "true",
   "Udp": [
     {
