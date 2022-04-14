@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ReleaseNotes": "TESTE UPDATE ONLINE",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlSms",
@@ -58,8 +58,8 @@
       "Name": "SERVIDOR 2 | PLUS",
       "TYPE": "premium ",
       "FLAG": "br.png",
-      "ServerIP": "gomes.sonicvpn.xyz",
-      "CheckUser": "http://209.14.70.150:5454/checkUser",
+      "ServerIP": "eu.raricknew.online",
+      "CheckUser": "http://193.123.105.232:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
