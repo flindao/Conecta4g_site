@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ReleaseNotes": "TESTE UPDATE ONLINE",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WebNetVpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WebNetVpn/UrlSms",
@@ -47,7 +47,7 @@
       "Name": "SERVIDOR 1 | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "webnetvpn.xyz",
+      "ServerIP": "socketpoct12.tk",
       "CheckUser": "http://168.138.238.93:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
