@@ -4,7 +4,7 @@
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WebNetVpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WebNetVpn/UrlSms",
   "EmailFeedback": "",
-  "UrlContato": "http://painel.internetilimitada.xyz/",
+  "UrlContato": "https://api.whatsapp.com/send?phone=5596991092834",
   "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WebNetVpn/termos.html",
   "CheckUser": "true",
   "Udp": [
