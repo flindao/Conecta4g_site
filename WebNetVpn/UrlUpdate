@@ -47,7 +47,7 @@
       "Name": "SERVIDOR 1 | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "socketpoct12.tk",
+      "ServerIP": "webnetvpn.xyz",
       "CheckUser": "http://168.138.238.93:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -58,12 +58,12 @@
       "Name": "SUPORTE | PLUS",
       "TYPE": "free",
       "FLAG": "br.png",
-      "ServerIP": "socketpoct12.tk",
+      "ServerIP": "br2.webnetvpn.xyz",
       "CheckUser": ".",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "emergencia",
-      "PASS": "1234"
+      "USER": "",
+      "PASS": ""
     }
   ],
   "Networks": [
