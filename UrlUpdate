@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "TESTE UPDATE ONLINE",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -110,7 +110,17 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "TIM PROXY 01",
+      "Name": "TIM TLS 01",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "104.16.19.94",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM PROXY 02",
       "FLAG": "tim",
       "Payload": "GET wss://mobilidade.cloud.caixa.gov.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -119,8 +129,9 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+    
     {
-      "Name": "TIM TLS 02",
+      "Name": "TIM TLS 03",
       "FLAG": "tim",
       "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
       "SNI": "mobilidade.cloud.caixa.gov.br",
@@ -130,7 +141,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "TIM TLS 03",
+      "Name": "TIM TLS 04",
       "FLAG": "tim",
       "Payload": "GET wss://m.timbancavirtual.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "m.timbancavirtual.com.br",
@@ -140,7 +151,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "TIM TLS 04",
+      "Name": "TIM TLS 05",
       "FLAG": "tim",
       "Payload": "GET wss://cdnjs.cloudflare.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "cdnjs.cloudflare.com",
@@ -150,7 +161,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "TIM TLS 05",
+      "Name": "TIM TLS 06",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
