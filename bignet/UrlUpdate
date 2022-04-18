@@ -1,11 +1,11 @@
 {
   "Version": "1.0.1",
   "ReleaseNotes": "TESTE UPDATE ONLINE",
-  "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
-  "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
+  "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/bignet/UrlUpdate",
+  "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main//bignet/UrlSms",
   "EmailFeedback": "",
   "UrlContato": "http://painel.startnetplus.xyz/",
-  "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/termos.html",
+  "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/bignet/termos.html",
   "CheckUser": "true",
   "Udp": [
     {
