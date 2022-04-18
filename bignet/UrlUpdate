@@ -4,10 +4,10 @@
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/bignet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main//bignet/UrlSms",
   "EmailFeedback": "",
-  "UrlContato": "http://painel.startnetplus.xyz/",
+  "UrlContato": "https://wa.me/5571992712551",
   "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/bignet/termos.html",
   "CheckUser": "true",
-  "Udp": [
+    "Udp": [
     {
       "Porta": "7300"
     },
