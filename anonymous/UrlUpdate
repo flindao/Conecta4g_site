@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "TESTE UPDATE ONLINE",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/anonymous/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/anonymous/UrlSms",
@@ -58,8 +58,8 @@
       "Name": "SERVIDOR 2 | PLUS",
       "TYPE": "premium ",
       "FLAG": "br.png",
-      "ServerIP": "sp.paulovpsrj.xyz",
-      "CheckUser": "http://144.22.137.240:5454/checkUser",
+      "ServerIP": "rg.paulovpsrj.xyz",
+      "CheckUser": "http://144.22.252.16:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
