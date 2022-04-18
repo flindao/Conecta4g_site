@@ -56,15 +56,15 @@
     },
     
 	{
-      "Name": "SUPORTE | PLUS",
-      "TYPE": "free",
+      "Name": "SERVIDOR 1 | PLUS",
+      "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "br2.netbig.xyz",
-      "CheckUser": "http://209.14.2.228:5454/checkUser",
+      "ServerIP": "get-net.online",
+      "CheckUser": "http://45.6.98.217:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "emergencia",
-      "PASS": "1234"
+      "USER": "",
+      "PASS": ""
     }
   ],
   "Networks": [
