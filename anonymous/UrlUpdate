@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "TESTE UPDATE ONLINE",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/anonymous/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/anonymous/UrlSms",
@@ -195,9 +195,9 @@
     {
       "Name": "CLARO TLS 01",
       "FLAG": "claro",
-      "Payload": "GET ws://carrorioclaro.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
-      "SNI": "carrorioclaro.com.br",
-      "TlsIP": "carrorioclaro.com.br",
+      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "mobilidade.cloud.caixa.gov.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
