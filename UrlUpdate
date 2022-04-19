@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.4",
-  "ReleaseNotes": "TESTE UPDATE ONLINE",
+  "Version": "1.0.5",
+  "ReleaseNotes": "atualizado a claro",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
@@ -173,15 +173,14 @@
     {
       "Name": "CLARO TLS 01",
       "FLAG": "claro",
-      "Payload": "GET ssl://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: seudominioaqui[crlf]Upgrade: ws[crlf]GET http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf] ",
+      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
       "SNI": "mobilidade.cloud.caixa.gov.br",
       "TlsIP": "mobilidade.cloud.caixa.gov.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
-    },
     {
-      "Name": "CLARO TLS 01",
+      "Name": "CLARO TLS 02",
       "FLAG": "claro",
       "Payload": "GET ws://carrorioclaro.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
       "SNI": "carrorioclaro.com.br",
@@ -191,7 +190,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO TLS 02",
+      "Name": "CLARO TLS 03",
       "FLAG": "claro",
       "Payload": "GET ws://parceirosclaro.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
       "SNI": "parceirosclaro.com.br",
@@ -201,7 +200,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO SSL 03",
+      "Name": "CLARO SSL 04",
       "FLAG": "claro",
       "Payload": "",
       "SNI": "dns.web.whatsapp.com",
@@ -211,7 +210,7 @@
       "Info": "Ssl"
     },
     {
-      "Name": "CLARO SSL 04",
+      "Name": "CLARO SSL 05",
       "FLAG": "claro",
       "Payload": "",
       "SNI": "m.waze.com",
@@ -221,7 +220,7 @@
       "Info": "Ssl"
     },
     {
-      "Name": "CLARO SSL 05",
+      "Name": "CLARO SSL 06",
       "FLAG": "claro",
       "Payload": "",
       "SNI": "web.whatsapp.com",
@@ -231,7 +230,7 @@
       "Info": "Ssl"
     },
     {
-      "Name": "CLARO SSL 06",
+      "Name": "CLARO SSL 07",
       "FLAG": "claro",
       "Payload": "",
       "SNI": "m.twitter.com",
