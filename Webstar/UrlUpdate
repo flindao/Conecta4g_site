@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "TESTE UPDATE ONLINE",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Webstar/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Webstar/UrlSms",
@@ -147,6 +147,16 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM DIRECT 06",
+      "FLAG": "tim",
+      "Payload": "HTTP/GET  [lf]Host: www.googlecloud.net  Connection: User-Agent: host:http://localhost/  [lf][lf]User-Agent:http://",
+      "SNI": "[app_host]",
+      "TlsIP": "104.16.19.94",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Direct"
     },
     {
       "Name": "CLARO TLS 01",
