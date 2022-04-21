@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "TESTE UPDATE ONLINE",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -66,15 +66,15 @@
       "PASS": ""
     },
 	{
-      "Name": "SUPORTE | PLUS",
-      "TYPE": "free",
+      "Name": "PRIVADO | PLUS",
+      "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "buckap.sonicvpn.xyz",
-      "CheckUser": ".",
+      "ServerIP": "viptop.sonicvpn.xyz",
+      "CheckUser": "http://209.14.71.68:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "emergencia",
-      "PASS": "1234"
+      "USER": "",
+      "PASS": ""
     }
   ],
   "Networks": [
