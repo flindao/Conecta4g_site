@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.9",
-  "ReleaseNotes": "TESTE UPDATE ONLINE",
+  "Version": "1.0.10",
+  "ReleaseNotes": "OPCAO TIM 07 ADICIONADO",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
@@ -129,7 +129,6 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-    
     {
       "Name": "TIM TLS 03",
       "FLAG": "tim",
@@ -164,6 +163,16 @@
       "Name": "TIM TLS 06",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "104.16.19.94",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM TLS 07",
+      "FLAG": "tim",
+      "Payload": "GET /? HTTP/1.0[lf]Host: [app_host][lf]Upgrade: websocket[lf]Connection: Keep-AliveUser-Agent: [ua]Referer: [lf][lf]",
       "SNI": "[app_host]",
       "TlsIP": "104.16.19.94",
       "ProxyIP": "",
