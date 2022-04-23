@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.10",
+  "Version": "1.0.11",
   "ReleaseNotes": "OPCAO TIM 07 ADICIONADO",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -84,8 +84,8 @@
       "CheckUser": "http://191.101.131.58:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "startnet",
-      "PASS": "1234"
+      "USER": "",
+      "PASS": ""
     }
   ],
   "Networks": [
