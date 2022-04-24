@@ -1,11 +1,11 @@
 {
-  "Version": "1.0.5",
+  "Version": "1.0.6",
   "ReleaseNotes": "TESTE UPDATE ONLINE",
-  "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/anonymous/UrlUpdate",
-  "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/anonymous/UrlSms",
+  "UrlUpdate": "https://raw.githubusercontent.com/SRANONYMOUS21/Conecta4g_site/main/UrlUpdate",
+  "Sms": "https://raw.githubusercontent.com/SRANONYMOUS21/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
   "UrlContato": "http://31.220.21.207/login.php",
-  "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/anonymous/termos.html",
+  "UrlTermos": "https://raw.githubusercontent.com/SRANONYMOUS21/Conecta4g_site/main/termos.html",
   "CheckUser": "true",
   "Udp": [
     {
