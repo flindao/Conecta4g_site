@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.12",
-  "ReleaseNotes": "ADICIONADO CLARO TLS 04",
+  "Version": "1.0.13",
+  "ReleaseNotes": "ADICIONADO CLARO TLS 04 e 05",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
@@ -215,6 +215,16 @@
       "Payload": "GET wss://no.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "no.descomplica.com.br",
       "TlsIP": "no.descomplica.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO TLS 05",
+      "FLAG": "claro",
+      "Payload": "GET wss://sequisu.claro.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "sequisu.claro.com",
+      "TlsIP": "sequisu.claro.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
