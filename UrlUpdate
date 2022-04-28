@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.14",
-  "ReleaseNotes": "ADICIONADO CLARO TLS 04,05,06",
+  "Version": "1.0.15",
+  "ReleaseNotes": "ADICIONADO SERVIDOR 4",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
@@ -70,7 +70,18 @@
       "TYPE": "premium ",
       "FLAG": "br.png",
       "ServerIP": "br3.startnetplus.xyz",
-      "CheckUser": "http://15.235.33.225.xyz:5454/checkUser",
+      "CheckUser": "http://15.235.33.225:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "SERVIDOR 4 IOS | PLUS",
+      "TYPE": "premium ",
+      "FLAG": "br.png",
+      "ServerIP": "br4.startnetplus.xyz",
+      "CheckUser": "http://209.14.68.83:5454/check/",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
