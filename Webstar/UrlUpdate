@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.5",
-  "ReleaseNotes": "ADICIONADO CLARO TLS 04,05,06",
+  "Version": "1.0.6",
+  "ReleaseNotes": "ADICIONADO SERVIDOR 2 E 3",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Webstar/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Webstar/UrlSms",
   "EmailFeedback": "",
@@ -47,8 +47,8 @@
       "Name": "SERVIDOR 1 | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "internetilimitada.xyz",
-      "CheckUser": "http://209.14.136.160:5454/checkUser",
+      "ServerIP": "br1.internetilimitada.xyz",
+      "CheckUser": "http://209.14.69.149:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -58,23 +58,23 @@
       "Name": "SERVIDOR 2 | PLUS",
       "TYPE": "premium ",
       "FLAG": "br.png",
-      "ServerIP": "internetilimitada.xyz",
-      "CheckUser": "http://209.14.136.160:5454/checkUser",
+      "ServerIP": "br2.internetilimitada.xyz",
+      "CheckUser": "http://209.14.71.196:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
     },
 	{
-      "Name": "SUPORTE | PLUS",
-      "TYPE": "free",
+      "Name": "SERVIDOR 3 | PLUS",
+      "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "internetilimitada.xyz",
-      "CheckUser": ".",
+      "CheckUser": "http://209.14.136.160:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "emergencia",
-      "PASS": "1234"
+      "USER": "",
+      "PASS": ""
     }
   ],
   "Networks": [
