@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.7",
+  "Version": "1.0.8",
   "ReleaseNotes": "ADICIONADO SERVIDOR 2 E 3",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Webstar/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Webstar/UrlSms",
@@ -69,7 +69,7 @@
       "Name": "SERVIDOR 3 | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "internetilimitada.xyz",
+      "ServerIP": "br3.internetilimitada.xyz",
       "CheckUser": "http://209.14.136.160:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
