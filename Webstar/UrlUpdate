@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.8",
-  "ReleaseNotes": "ADICIONADO SERVIDOR 2 E 3",
+  "Version": "1.0.9",
+  "ReleaseNotes": "CRIADO SERVIDOR 2 E 3",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Webstar/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Webstar/UrlSms",
   "EmailFeedback": "",
@@ -55,7 +55,7 @@
       "PASS": ""
     },
     {
-      "Name": "SERVIDOR 2 | PLUS ",
+      "Name": "SERVIDOR 2 | PLUS",
       "TYPE": "premium ",
       "FLAG": "br.png",
       "ServerIP": "br2.internetilimitada.xyz",
