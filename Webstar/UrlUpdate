@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.9",
-  "ReleaseNotes": "CRIADO SERVIDOR 2 E 3",
+  "Version": "1.0.10",
+  "ReleaseNotes": "ALTERADO CONEXOES TIM",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Webstar/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Webstar/UrlSms",
   "EmailFeedback": "",
@@ -99,47 +99,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "TIM PROXY 01",
-      "FLAG": "tim",
-      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.56.6",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "TIM TLS 02",
-      "FLAG": "tim",
-      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "mobilidade.cloud.caixa.gov.br",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "TIM TLS 03",
-      "FLAG": "tim",
-      "Payload": "GET wss://m.timbancavirtual.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "m.timbancavirtual.com.br",
-      "TlsIP": "m.timbancavirtual.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "TIM TLS 04",
-      "FLAG": "tim",
-      "Payload": "GET wss://cdnjs.cloudflare.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "cdnjs.cloudflare.com",
-      "TlsIP": "cdnjs.cloudflare.com",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "TIM TLS 05",
+      "Name": "TIM TLS 01",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
@@ -149,14 +109,64 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "TIM DIRECT 06",
+      "Name": "TIM PROXY 02",
       "FLAG": "tim",
-      "Payload": "HTTP/GET  [lf]Host: www.googlecloud.net  Connection: User-Agent: host:http://localhost/  [lf][lf]User-Agent:http://",
+      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.56.6",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM TLS 03",
+      "FLAG": "tim",
+      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "mobilidade.cloud.caixa.gov.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM TLS 04",
+      "FLAG": "tim",
+      "Payload": "GET wss://m.timbancavirtual.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "m.timbancavirtual.com.br",
+      "TlsIP": "m.timbancavirtual.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM TLS 05",
+      "FLAG": "tim",
+      "Payload": "GET wss://cdnjs.cloudflare.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "cdnjs.cloudflare.com",
+      "TlsIP": "cdnjs.cloudflare.com",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM TLS 06",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "104.16.19.94",
       "ProxyIP": "",
-      "ProxyPort": "80",
-      "Info": "Direct"
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM TLS 07",
+      "FLAG": "tim",
+      "Payload": "GET /? HTTP/1.0[lf]Host: [app_host][lf]Upgrade: websocket[lf]Connection: Keep-AliveUser-Agent: [ua]Referer: [lf][lf]",
+      "SNI": "[app_host]",
+      "TlsIP": "104.16.19.94",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
     },
     {
       "Name": "CLARO TLS 01",
