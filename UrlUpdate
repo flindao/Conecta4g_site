@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.17",
-  "ReleaseNotes": "SERVIDORES 3 E 4 ATUALIZADOS",
+  "Version": "1.0.18",
+  "ReleaseNotes": "ADICIONADO SERVIDOR 5 TESTES",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
@@ -82,6 +82,17 @@
       "FLAG": "br.png",
       "ServerIP": "br4.startnetplus.xyz",
       "CheckUser": "http://15.235.33.225:5454/checkUser/",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "SERVIDOR 5 | PLUS",
+      "TYPE": "premium ",
+      "FLAG": "br.png",
+      "ServerIP": "br5.startnetplus.xyz",
+      "CheckUser": "http://209.14.71.212:5454/checkUser/",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
