@@ -7,7 +7,7 @@
   "UrlContato": "https://t.me/kiritosshxd",
   "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
   "CheckUser": "true",
-  "UdpPort": "7300;7400;7500;7600;7700",
+  "UdpPort": "7300;7400;7500;7600;7700,7100,7200,7294,7295,7296,7297,7298",
   "Servers": [
     {
       "Name": "SERVIDOR 01 | PLUS",
