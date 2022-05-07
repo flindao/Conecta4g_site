@@ -1,11 +1,11 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.1",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/startnet/UrlUpdate101",
-  "Sms": "https://kiritosshxd.github.io/Conecta4g_site/UrlSms",
-  "EmailFeedback": "kiritosshxd5733@gmail.com",
-  "UrlContato": "https://t.me/kiritosshxd",
-  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
+  "EmailFeedback": "",
+  "UrlContato": "http://painel.startnetplus.xyz/",
+  "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/termos.html",
   "CheckUser": "true",
   "UdpPort": "7300;7400;7500;7600;7700,7100,7200,7294,7295,7296,7297,7298",
   "Servers": [
