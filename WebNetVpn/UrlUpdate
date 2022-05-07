@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.6",
-  "ReleaseNotes": "ADICIONADO CLARO TLS 04,05,06",
+  "Version": "1.0.7",
+  "ReleaseNotes": "ADICIONADO CLARO DIRECT 07",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WebNetVpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WebNetVpn/UrlSms",
   "EmailFeedback": "",
@@ -186,6 +186,16 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO DIRECT 07",
+      "FLAG": "claro",
+      "Payload": "GET /? HTTP/1.0[lf]Host: [app_host][lf]Upgrade: websocket[lf]Connection: Keep-AliveUser-Agent: [ua]Referer: [lf][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "80;8080;8880;2052;2082",
+      "Info": "Direct"
     },
     {
       "Name": "CLARO SSL 04",
