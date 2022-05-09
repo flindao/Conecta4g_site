@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.4",
-  "ReleaseNotes": "ADICIONADO SERVIDOR PRIVADO",
+  "Version": "1.0.5",
+  "ReleaseNotes": "ADICIONADO NOVAS OPCOES VIVO",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
   "EmailFeedback": "",
@@ -84,11 +84,41 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
+      "ProxyIP": "104.18.6.80",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO PROXY 02",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.7.80",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO PROXY 03",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
       "ProxyIP": "104.16.56.6",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
+      "Name": "VIVO PROXY 04",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.56.6",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+      {
       "Name": "VIVO TLS 02",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
