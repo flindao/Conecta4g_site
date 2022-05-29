@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.27",
+  "Version": "1.0.28",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -89,7 +89,17 @@
     }
   ],
   "Networks": [
-    {
+   {
+      "Name": "VIVO E TIM",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "104.16.18.94",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },      
+   {
       "Name": "VIVO PROXY 01",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
@@ -159,6 +169,7 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
+    
      {
       "Name": "TIM TLS 01",
       "FLAG": "tim",
@@ -178,6 +189,16 @@
       "ProxyIP": "104.16.56.6",
       "ProxyPort": "80",
       "Info": "Proxy"
+    },
+    {
+      "Name": "TIM OPÇÃO 2",
+      "FLAG": "tim",
+      "Payload": "GET ws://cdnjs.cloudflare.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "cdnjs.cloudflare.com",
+      "TlsIP": "104.16.18.94",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
     },
     {
       "Name": "TIM TLS 03",
@@ -301,6 +322,16 @@
       },
     {
       "Name": "OI PROXY 01",
+      "FLAG": "oi",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.56.6",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+     {
+      "Name": "OI PROXY 02",
       "FLAG": "oi",
       "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
