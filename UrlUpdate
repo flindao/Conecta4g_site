@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.32",
+  "Version": "1.0.33",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -323,10 +323,10 @@
     {
       "Name": "❤️CLARO [SSL 2]",
       "FLAG": "claro",
-      "Payload": "GET wss://a.bomdiane.ml/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "a.bomdiane.ml",
-      "TlsIP": "a.bomdiane.ml",
-      "ProxyIP": "",
+      "Payload": "GET wss://claro-eld-hos.usclaro.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "claro-eld-hos.usclaro.com",
+      "TlsIP": "104.17.225.151",
+      "ProxyIP": "104.17.225.151",
       "ProxyPort": "",
       "Info": "Tlsws"
     },
