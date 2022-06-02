@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.35",
+  "Version": "1.0.36",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -310,6 +310,26 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
       },
+      {
+      "Name": "❤️CLARO [SSL 4]",
+      "FLAG": "claro",
+      "Payload": "GET wss://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] CONNECT [host_port][protocol][crlf][crlf]",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
+      "ProxyIP": "199.60.103.228",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+      },
+       {
+      "Name": "❤️Claro - 04",
+      "FLAG": "claro",
+      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "no.descomplica.com.br",
+      "TlsIP": "no.descomplica.com.br",
+      "ProxyIP": "104.16.89.20",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+      },
      {
       "Name": "CLARO TLS 01",
       "FLAG": "claro",
@@ -355,9 +375,9 @@
       "FLAG": "claro",
       "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "atendimento.descomplica.com.br",
-      "TlsIP": "199.60.103.228",
+      "TlsIP": "atendimento.descomplica.com.br",
       "ProxyIP": "199.60.103.228",
-      "ProxyPort": "",
+      "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
