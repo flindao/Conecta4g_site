@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.40",
+  "Version": "1.0.41",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -66,7 +66,7 @@
       "PASS": ""
     },
 	{
-      "Name": "SERVIDOR 3 IOS E ANDROID| PLUS",
+      "Name": "SERVIDOR 3 | PLUS",
       "TYPE": "premium ",
       "FLAG": "br.png",
       "ServerIP": "br3.startnetplus.xyz",
