@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.37",
+  "Version": "1.0.39",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -320,6 +320,7 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
       },
+      
        {
       "Name": "❤️CLARO [SSL 4a]",
       "FLAG": "claro",
@@ -348,6 +349,26 @@
       "TlsIP": "no.descomplica.com.br",
       "ProxyIP": "104.16.89.20",
       "ProxyPort": "443",
+      "Info": "Tlsws"
+      },
+       {
+     "Name": "CLARO LENTO",
+      "FLAG": "Claro",
+      "Payload": "GET ws://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+      },
+       {
+     "Name": "CLARO LENTO2",
+      "FLAG": "Claro",
+      "Payload": "GET ws://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
+      "ProxyIP": "www.andrewkingadvisorygroup.com",
+      "ProxyPort": "",
       "Info": "Tlsws"
       },
      {
@@ -480,16 +501,7 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
      },
-     {
-     "Name": "CLARO LENTO",
-      "FLAG": "Claro",
-      "Payload": "GET ws://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "content.akross.com.br",
-      "TlsIP": "content.akross.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-      },
+    
     {
       "Name": "OI PROXY 01",
       "FLAG": "oi",
