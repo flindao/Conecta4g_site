@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.40",
+  "Version": "1.0.41",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -348,6 +348,16 @@
       "SNI": "no.descomplica.com.br",
       "TlsIP": "no.descomplica.com.br",
       "ProxyIP": "199.60.103.228",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+     {
+      "Name": "Claro 2",
+      "FLAG": "claro",
+      "Payload": "GET ws://atendimento.descomplica.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "atendimento.descomplica.com.br",
+      "TlsIP": "no.descomplica.com.br",
+      "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
     },
