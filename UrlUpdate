@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.44",
+  "Version": "1.0.45",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -429,7 +429,7 @@
       "TlsIP": "No.descomplica.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "Proxy"
+      "Info": "Tlsws"
     },
      {
       "Name": "CLARO TLS 01",
