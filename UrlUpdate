@@ -90,7 +90,7 @@
   ],
   "Networks": [
     {
-      "Name": "VIVO PROXY TESTE DDD 87",
+      "Name": "VIVO PROXY 01",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -100,7 +100,7 @@
       "Info": "Proxy"
     },
      {
-      "Name": "VIVO PROXY TESTE 2 DDD 87",
+      "Name": "VIVO PROXY 02",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -110,7 +110,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO PROXY 01",
+      "Name": "VIVO PROXY 03",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -120,7 +120,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO PROXY 02",
+      "Name": "VIVO PROXY 04",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -130,7 +130,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO PROXY 03",
+      "Name": "VIVO PROXY 05",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -140,7 +140,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO PROXY 04",
+      "Name": "VIVO PROXY 06",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
