@@ -48,7 +48,7 @@
       "TYPE": "premium ",
       "FLAG": "br.png",
       "ServerIP": "br2.pontonetssh.xyz",
-      "CheckUser": "http://209.14.71.210:5454/checkUser",
+      "CheckUser": "http://45.140.192.162:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
