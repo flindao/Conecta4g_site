@@ -4,7 +4,7 @@
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlUpdateFullnet",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlSms",
   "EmailFeedback": "",
-  "UrlContato": "http://painel.pontonetssh.xyz/",
+  "UrlContato": "http://179.96.121.211",
   "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/termos.html",
   "CheckUser": "true",
   "Udp": [
