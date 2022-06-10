@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.11",
+  "Version": "1.0.12",
   "ReleaseNotes": "ADICIONADO NOVAS OPCOES VIVO DIRECT",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -64,18 +64,7 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    },
-	{
-      "Name": "PRIVADO | PLUS",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "viptop.sonicvpn.xyz",
-      "CheckUser": "http://209.14.71.68:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    }
+    }	
   ],
   "Networks": [
     {
