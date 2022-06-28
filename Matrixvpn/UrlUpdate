@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.13",
+  "Version": "1.0.14",
   "ReleaseNotes": "ADICIONADO NOVAS OPCOES VIVO DIRECT",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -164,6 +164,19 @@
       "Payload": "GET ws://vigia.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "vigia.vivo.com.br",
       "TlsIP": "104.18.7.80",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "Vivo DDD 71 A 77",
+      "FLAG": "vivo",
+      "Payload": "GET wss://api.bitso.com/ HTTP/1.1 [lf]Host: [app_host]
+[If]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf] Connection:
+upgrade[lf] Upgrade: websocket [lf]Sec-Websocket-Extensions:
+superspeed[lf][lf]",
+      "SNI": "api.bitso.com",
+      "TlsIP": "172.64.195.2",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
