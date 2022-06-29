@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.14",
-  "ReleaseNotes": "TESTE UPDATE ONLINE",
+  "Version": "1.0.15",
+  "ReleaseNotes": "ATUALIZACAO DISPONIVEL",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlSms",
   "EmailFeedback": "",
@@ -70,7 +70,7 @@
       "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "gomes.sonicvpn.xyz",
-      "CheckUser": "http://209.14.70.150:5454/checkUser",
+      "CheckUser": "http://150.230.72.174:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "suporte",
