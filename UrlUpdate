@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.57",
+  "Version": "1.0.58",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -89,6 +89,17 @@
     }
   ],
   "Networks": [
+     {
+      "Name": "VIVO PROXY 01 (TESTE)",
+      "FLAG": "vivo",
+      "Payload": "GET wss: //api.bitso.com/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf] Conexão: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+      "SNI": "api.bitso.com",
+      "TlsIP": "",
+      "ProxyIP": "172.64.195.2",
+      "ProxyPort": "443",
+      "Info": "Tlws"
+    },
+    
     {
       "Name": "VIVO PROXY 01",
       "FLAG": "vivo",
