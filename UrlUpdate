@@ -90,7 +90,7 @@
   ],
   "Networks": [
      {
-      "Name": "VIVO PROXY 01 (TESTE)",
+      "Name": "VIVO PROXY 01 TESTE",
       "FLAG": "vivo",
       "Payload": "GET wss: //api.bitso.com/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf] Conexão: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
       "SNI": "api.bitso.com",
