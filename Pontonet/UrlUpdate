@@ -1,10 +1,10 @@
 {
-  "Version": "1.0.14",
+  "Version": "1.0.15",
   "ReleaseNotes": "NOVA ATUALIZACAO DISPONIVEL",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlSms",
   "EmailFeedback": "",
-  "UrlContato": "http://painel.pontonetssh.xyz/",
+  "UrlContato": "https://wa.me/message/QC74GMXS5JRZI1",
   "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/termos.html",
   "CheckUser": "true",
   "Udp": [
