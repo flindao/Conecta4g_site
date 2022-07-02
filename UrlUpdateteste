@@ -143,7 +143,7 @@
       "Name": "Vivo TOP 06",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "br.startnetplus.xyz",
+      "SNI": "[app_host]",
       "TlsIP": "104.21.11.51",
       "ProxyIP": "",
       "ProxyPort": "",
