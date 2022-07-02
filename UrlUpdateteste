@@ -140,7 +140,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "Vivo TOP 06",
+      "Name": "Vivo TOP 06a",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
