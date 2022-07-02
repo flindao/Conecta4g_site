@@ -89,8 +89,9 @@
     }
   ],
   "Networks": [
-    {
-      Name": "VIVO PEGANDO",
+  
+   {
+      "Name": "VIVO PEGANDO",
       "FLAG": "vivo",
       "Payload": "GET ws://cdnjs.cloudflare.com HTTP/1.1\nHost: [app_host] \nUpgrade: ws\n\n",
       "SNI": "",
@@ -109,8 +110,7 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
-    
-    {
+        {
       "Name": "VIVO TOP 1 PROXY",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
