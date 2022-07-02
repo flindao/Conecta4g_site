@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.58",
+  "Version": "1.0.59",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -90,14 +90,24 @@
   ],
   "Networks": [
      {
-      "Name": "VIVO PROXY 01 TESTE",
+      "Name": "VIVO TOP 1 PROXY",
       "FLAG": "vivo",
-      "Payload": "GET wss: //api.bitso.com/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf] Conexão: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
-      "SNI": "api.bitso.com",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "172.64.195.2",
-      "ProxyPort": "443",
-      "Info": "Tlws"
+      "ProxyIP": "vivo1.startnetplus.xyz",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO TOP 2 TLS",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vivo1.startnetplus.xyz HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "vivo1.startnetplus.xyz",
+      "TlsIP": "vivo1.startnetplus.xyz",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
     },
     
     {
