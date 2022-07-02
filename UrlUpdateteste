@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.59",
+  "Version": "1.0.60",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -91,14 +91,14 @@
   "Networks": [
   
    {
-      "Name": "VIVO PEGANDO",
+     "Name": "VIVO 02",
       "FLAG": "vivo",
-      "Payload": "GET ws://cdnjs.cloudflare.com HTTP/1.1\nHost: [app_host] \nUpgrade: ws\n\n",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.18.7.80",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "GET wss://money-staging.infinitepay.io HTTP/1.1[lf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "money-staging.infinitepay.io",
+      "TlsIP": "money-staging.infinitepay.io",
+      "ProxyIP": "104.16.124.175",
+      "ProxyPort": "443",
+      "Info": "SSL"
     },
     {
       "Name": "VIVO SSL 11",
