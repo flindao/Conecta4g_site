@@ -1201,7 +1201,7 @@
    "ProxyIP": "",
    "ProxyPort": "443",
    "Info": "Tlsws"
-  }
+   }, 
     {
       "Name": "OI PROXY 01",
       "FLAG": "oi",
