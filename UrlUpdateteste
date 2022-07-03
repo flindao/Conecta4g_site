@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.61",
+  "Version": "1.0.62",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -205,7 +205,17 @@
        {
       "Name": "VIVO TOP 7 PROXY",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3.ipycxzoqfw4k.cloudfront.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3ipycxzoqfw4k.cloudfront.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "live.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+     {
+      "Name": "VIVO TOP 8 PROXY",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3ipycxzoqfw4k.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "live.vivo.com.br",
