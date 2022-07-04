@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.75",
+  "Version": "1.0.76",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -560,6 +560,15 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.24.10.16",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+     "Name": "VIVO PROXY 08",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "vivo5.startnetplus.xyz",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
