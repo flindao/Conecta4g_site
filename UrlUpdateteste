@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.73",
+  "Version": "1.0.74",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -112,6 +112,16 @@
   ],
   "Networks": [
   {
+      "Name": "💜VIVO [SSL 3]",
+      "FLAG": "vivo",
+      "Payload": "GET wss://bi-router.movistar.com.ar [protocol][crlf]Host: [app_host][crlf] Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
+      "SNI": "bi-router.movistar.com.ar",
+      "TlsIP": "104.24.24.34",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+ {
      "Name": "VIVO [DIRECT D3]",
       "FLAG": "vivo",
       "Payload": "GET wss://[rotate=recarga.vivo.com.br;live.vivo.com.br;planosvivointernet.com.br;mobile.mercadolibre.com;www.oi.com.br;developers.mercadolivre.com;www.assinenet.com.br;hire.indeed.com;accounts.descomplica.com.br;reviews.submarino.com.br] HTTP/1.1[lf]Host: br1.foxnetssh.xyz[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
