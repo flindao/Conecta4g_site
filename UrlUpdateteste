@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.71",
+  "Version": "1.0.72",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -111,6 +111,16 @@
     }
   ],
   "Networks": [
+  {
+   "Name": "INJECT PROXY 1a",
+   "FLAG": "vivo",
+      "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "unpkg.com",
+      "TlsIP": "unpkg.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
   {
       "Name": "🟣VIVO TESTE DDDS 13 E 14",
       "FLAG": "vivo",
