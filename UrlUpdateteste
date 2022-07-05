@@ -121,8 +121,8 @@
       "ProxyPort": "80",
       "Info": "Proxy"
 },
-{
-"Name": "VIVO FUNCIONAL  2",
+    {
+      "Name": "VIVO FUNCIONAL  2",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -170,9 +170,9 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-},
-{
-"Name": "VIVO FUNCIONAL [SSL 05]",
+     },
+     {
+      "Name": "VIVO FUNCIONAL [SSL 05]",
       "FLAG": "vivo",
       "Payload": "GET wss://support.pokemon.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.pokemon.com",
@@ -180,8 +180,8 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-   },
-    {
+     },
+     {
       "Name": "VIVO FUNCIONAL [SSL 06]",
       "FLAG": "vivo",
       "Payload": "GET wss://checkout.mediafire.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
@@ -200,9 +200,9 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-      },
-      {
-"Name": "VIVO FUNCIONAL [SSL 08]",
+     },
+     {
+      "Name": "VIVO FUNCIONAL [SSL 08]",
       "FLAG": "vivo",
       "Payload": "GET wss://www.alura.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
       "SNI": "www.alura.com.br",
@@ -241,7 +241,6 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
-
   {
       "Name": "🟣VIVO 2022 ssl1",
       "FLAG": "vivo",
