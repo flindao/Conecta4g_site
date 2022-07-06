@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.22",
+  "Version": "1.0.23",
   "ReleaseNotes": "ADICIONADO NOVAS OPCOES VIVO DIRECT",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -67,6 +67,76 @@
     }	
   ],
   "Networks": [
+    {
+      "Name": "🟣VIVO LANCAMENTO 1 DDDS: 11,22,51 ",
+      "FLAG": "vivo",
+      "Payload": "GET ws://gedoc.vivo.com.br HTTP/1.1[lf]Host: [app_host][lf]Upgrade: ws[lf][lf]",
+      "SNI": "gedoc.vivo.com.br",
+      "TlsIP": "gedoc.vivo.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "🟣VIVO LANCAMENTO 2 DDDS: 82,51 ",
+      "FLAG": "vivo",
+      "Payload": "GET wss://shop.elliberal.com.ar HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "shop.elliberal.com.ar",
+      "TlsIP": "172.64.194.2",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "🟣VIVO LANCAMENTO 3 DDDS: 11,22,38,51,82 ",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vivomusica.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: wss\n\n",
+      "SNI": "vivomusica.vivo.com.br",
+      "TlsIP": "104.18.7.80",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "🟣VIVO LANCAMENTO 4 DDDS: 51,82 ",
+      "FLAG": "vivo",
+      "Payload": "GET wss://cursofl.formuladelancamento.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "cursofl.formuladelancamento.com.br",
+      "TlsIP": "104.24.25.34",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "🟣VIVO LANCAMENTO 5 DDDS: 51,82,79 ",
+      "FLAG": "vivo",
+      "Payload": "GET wss://cursofl.formuladelancamento.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "cursofl.formuladelancamento.com.br",
+      "TlsIP": "104.24.24.34",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "🟣VIVO LANCAMENTO 6 DDDS: 51,82 ",
+      "FLAG": "vivo",
+      "Payload": "GET wss://support.pokemon.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "support.pokemon.com",
+      "TlsIP": "172.64.130.2",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+     {
+      "Name": "🟣VIVO LANCAMENTO 7 DDDS: 51,82 ",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vivodocdigital.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "vivodocdigital.vivo.com.br",
+      "TlsIP": "104.24.10.16",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
     {
       "Name": "VIVO PROXY 07",
       "TYPE": "premium",
