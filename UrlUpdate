@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.65",
+  "Version": "1.0.66",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -90,7 +90,7 @@
   ],
   "Networks": [
       {
-      "Name": "VIVO FUNCIONAL 1 DDD 21, 27",
+      "Name": "VIVO FUNCIONAL 1 DDD 21,27,28,61,62,71",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
@@ -100,7 +100,7 @@
       "Info": "Proxy"
 },
  {
-	  "Name": "💚VIVO DDD 21 27 - 2",
+	  "Name": "💚VIVO DDD 21,27,28,61,62,77,96 - 2",
       "FLAG": "vivo",
       "Payload": "GET ws://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "",
@@ -110,7 +110,7 @@
       "Info": "Proxy"
 },
  {
-     "Name": "VIVO 02 DDD 21 27",
+     "Name": "VIVO 02 DDD 21,27,28",
       "FLAG": "vivo",
       "Payload": "GET wss://money-staging.infinitepay.io HTTP/1.1[lf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
@@ -119,8 +119,8 @@
       "ProxyPort": "443",
       "Info": "SSL"
     },
-     {
-      "Name": "VIVO TOP 1 PROXY",
+      {
+      "Name": "VIVO TOP 1 PROXY, DDD 27,28,61,62,77",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -129,8 +129,8 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-    {
-      "Name": "VIVO TOP 2 TLS",
+   {
+      "Name": "VIVO TOP 2 TLS DDD 27,28,61,62,71,77",
       "FLAG": "vivo",
       "Payload": "GET wss://vivo1.startnetplus.xyz HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "vivo1.startnetplus.xyz",
@@ -139,8 +139,8 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
-    {
-      "Name": "VIVO TOP 3 PROXY",
+   {
+      "Name": "VIVO TOP 3 PROXY DDD 61,62,71",
       "FLAG": "vivo",
       "Payload": "GET wss://vivo8.startnetplus.xyz/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
@@ -150,7 +150,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO TOP 4 TLS DDD 27",
+      "Name": "VIVO TOP 4 TLS DDD 27,28,61,62,71",
       "FLAG": "vivo",
       "Payload": "GET wss://vivo8.startnetplus.xyz/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vivo8.startnetplus.xyz",
@@ -159,9 +159,48 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
-    
     {
-      "Name": "VIVO 4G - 01",
+   "Name": "VIVO - 10 NOVA DDD 21,71",
+   "FLAG": "vivo",
+      "Payload": "GET wss://support.deezer.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "support.deezer.com",
+      "TlsIP": "172.67.165.43",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "🟣VIVO ONLINE [DIRECT 2022-01] DDD 71,77,91",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.21.11.51",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "💚VIVO [DIRECT 1] DDD 71",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "172.67.165.43",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "Vivo TOP 06a DDD 71",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+   {
+      "Name": "VIVO 4G - 01 DDD 11,15,43,61,62,96 ",
       "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
@@ -169,7 +208,7 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-    },    
+    },   
     {
       "Name": "VIVO PROXY 01",
       "FLAG": "vivo",
@@ -281,8 +320,8 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
-    {
-      "Name": "VIVO TLS TESTE",
+   {
+      "Name": "VIVO TLS TESTE DDD 61,62,71",
       "FLAG": "vivo",
       "Payload": "GET wss://[app_host]/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vivo1.startnetplus.xyz",
