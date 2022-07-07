@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.24",
+  "Version": "1.0.25",
   "ReleaseNotes": "ADICIONADO NOVAS OPCOES VIVO DIRECT",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -67,7 +67,37 @@
     }	
   ],
   "Networks": [
+   {
+      "Name": "VIVO ONLINE DDD 71,75,77,79 TESTAR ",
+      "FLAG": "vivo",
+      "Payload": "GET ws://gedoc.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "gedoc.vivo.com.br",
+      "TlsIP": "104.18.7.80",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
     {
+      "Name": "VIVO ONLINE DDD 71,75,77,79 TESTAR",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.6.80",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+ {
+      "Name": "🟣VIVO ONLINE [DIRECT 2022-01]",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.21.11.51",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+   {
 	  "Name": "VIVO CHIP SEM CADASTRO - 2",
 	  "FLAG": "vivo",
 	  "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
