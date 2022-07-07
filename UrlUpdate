@@ -120,7 +120,7 @@
       "Info": "SSL"
     },
       {
-      "Name": "VIVO TOP 1 PROXY, DDD 27,28,61,62,77",
+      "Name": "VIVO TOP 1 PROXY, DDD 27,28,31,61,62,77",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
