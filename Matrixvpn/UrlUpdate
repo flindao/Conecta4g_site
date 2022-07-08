@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.27",
+  "Version": "1.0.28",
   "ReleaseNotes": "ADICIONADO NOVAS OPCOES VIVO DIRECT",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -88,7 +88,7 @@
       "Info": "Proxy"
     },
  {
-      "Name": "🟣VIVO ONLINE [DIRECT 2022-01]",
+      "Name": "🟣VIVO ONLINE [DIRECT 2022-01] DDD 71,77,79,91"",
       "FLAG": "vivo.png",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -128,7 +128,7 @@
       "Info": "Tlsws"
    },
    {
-   "Name": "VIVO - 10 NOVA DDD 21,71,74",
+   "Name": "VIVO - 10 NOVA DDD 11,21,71,74",
    "FLAG": "vivo",
       "Payload": "GET wss://support.deezer.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.deezer.com",
@@ -249,7 +249,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "INJECT PROXY 1",
+      "Name": "INJECT PROXY 1 DDD 11",
       "FLAG": "vivo",
       "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "unpkg.com",
@@ -259,7 +259,7 @@
       "Info": "Tlsws"
     },
       {
-      "Name": "VIVO TOP 1 PROXY, DDD 27,28,61,62,77",
+      "Name": "VIVO TOP 1 PROXY, DDD 11,27,28,61,62,77",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -269,7 +269,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO TOP 2 TLS DDD 27,28,61,62,71,77",
+      "Name": "VIVO TOP 2 TLS DDD 11,27,28,61,62,71,77",
       "FLAG": "vivo",
       "Payload": "GET wss://vivo1.sonicvpn.xyz HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "vivo1.sonicvpn.xyz",
@@ -393,7 +393,7 @@ superspeed[lf][lf]",
       "Info": "Tlsws"
     },
     {
-      "Name": "VIVO FUNCIONAL 1 DDD 21,27,28,61,62,71",
+      "Name": "VIVO FUNCIONAL 1 DDD 11,21,27,28,61,62,71",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
@@ -403,7 +403,7 @@ superspeed[lf][lf]",
       "Info": "Proxy"
 },
 {
-"Name": "VIVO FUNCIONAL  2",
+"Name": "VIVO FUNCIONAL 2 DDD 11",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
