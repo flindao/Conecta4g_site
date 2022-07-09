@@ -111,26 +111,7 @@
     }
   ],
   "Networks": [
-  {
-      "Name": "VIVO FUTURO DDD 91,92,24,85",
-      "FLAG": "vivo",
-      "Payload": "GET wss://gedoc.vivo.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.18.6.80",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO FUTURO 2 DDD 91,92,24,85",
-      "FLAG": "vivo",
-      "Payload": "GET wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "vpoweb.vivo.com.br",
-      "TlsIP": "",
-      "ProxyIP": "104.18.6.80",
-      "ProxyPort": "443",
-      "Info": "Proxy"
-    },
+  
     { 
       "Name": "🚑 VIVO DDD 91,92,93 e outras  📡", 
       "FLAG": "vivo", 
