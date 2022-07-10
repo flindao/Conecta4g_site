@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.33",
+  "Version": "1.0.34",
   "ReleaseNotes": "NOVAS ATUALIZACOES DISPONIVEIS, NOVAS OPCOES DA VIVO ORGANIZADAS PARA TESTES",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -128,7 +128,7 @@
       "Info": "Proxy"
     },
 {
-      "Name": "💚VIVO SP-PR-PA-AP-ES DDD 11,15,16,27,28,43,61,62,91,96",
+      "Name": "💚VIVO SP-PR-PA-PE-AP-ES-AM-AP DDDS INICIO 8 E 9 11,15,16,27,28,43,61,62,91,96",
       "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
