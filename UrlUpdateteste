@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.88",
+  "Version": "1.0.89",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -346,7 +346,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🟣VIVO LANCAMENTO 4 DDDS: 51,82 ",
+      "Name": "🟣VIVO LANCAMENTO 4 DDDS: 21,51,82 ",
       "FLAG": "vivo",
       "Payload": "GET wss://cursofl.formuladelancamento.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "cursofl.formuladelancamento.com.br",
