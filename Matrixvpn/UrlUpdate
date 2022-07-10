@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.30",
-  "ReleaseNotes": "ADICIONADO NOVAS OPCOES VIVO DIRECT",
+  "Version": "1.0.31",
+  "ReleaseNotes": "NOVAS ATUALIZACOES DISPONIVELS, NOVAS OPCOES DA VIVO ORGANIZADAS PARA TESTES",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
   "EmailFeedback": "",
@@ -67,6 +67,146 @@
     }	
   ],
   "Networks": [
+  {
+      "Name": "💚VIVO AM-PA-AP-RJ 2 DDD 91,92,24,85",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "vpoweb.vivo.com.br",
+      "TlsIP": "",
+      "ProxyIP": "104.18.6.80",
+      "ProxyPort": "443",
+      "Info": "Proxy"
+    },
+	{
+      "Name": "🟣VIVO RJ-RS-AL DDDS: 21,51,82 ",
+      "FLAG": "vivo",
+      "Payload": "GET wss://cursofl.formuladelancamento.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "cursofl.formuladelancamento.com.br",
+      "TlsIP": "104.24.25.34",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+	{
+      "Name": "💚VIVO AM-PA-AP DDD 91,92",
+      "FLAG": "vivo",
+      "Payload": "GET wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "portaljud.vivo.com.br",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+	{
+      "Name": "🟣VIVO SP-DF-GO-PE-CE-RN-ES DDD 11,21,24,27,28,61,62,71,81,82,83,84,85,87,88",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "[app_host]",
+      "ProxyIP": "172.67.165.43",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+},
+   {
+       "Name": "💚VIVO AL-PE-AM-PA-RN-PB-CE 1 DDDS INICIO 8 E 9",
+       "FLAG": "vivo",
+          "Payload": "GET wss://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+          "SNI": "beneficios.vivo.com.br",
+          "TlsIP": "172.67.165.43",
+          "ProxyIP": "",
+          "ProxyPort": "443",
+          "Info": "Tlsws"
+        },
+		{
+      "Name": "🟣VIVO SP-DF-GO-ES-MG-BA DDD 11,27,28,31,61,62,77",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.21.11.51",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+{
+      "Name": "💚VIVO SP-PR-PA-AP DDD 11,15,16,43,61,62,91,96",
+      "FLAG": "vivo",
+      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "carrinho-pos-familia.vivo.com.br",
+      "TlsIP": "172.67.165.43",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    }, 
+{
+      "Name": "🟣VIVO BA-PA-SE-PE-CE-RN-PA-AP DDD 71,77,79,81,82,83,84,85,86,87,88,91",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.21.11.51",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }, 	
+	{
+      "Name": "VIVO AM-PA-AP-RJ 2 DDD 91,92,24,85",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "vpoweb.vivo.com.br",
+      "TlsIP": "",
+      "ProxyIP": "104.18.6.80",
+      "ProxyPort": "443",
+      "Info": "Proxy"
+    },
+ {
+   "Name": "VIVO AL-PE-AM-PA-RN-PB-CE 2 DDDS INICIO 8 E 9",
+   "FLAG": "vivo",
+      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "carrinho-pos-familia.vivo.com.br",
+      "TlsIP": "172.67.165.43",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },	
+{
+     "Name": "VIVO AL-PE-AM-PA-RN-PB-CE 3 DDDS INICIO 8 E 9",
+      "FLAG": "vivo",
+      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "carrinho-pos-familia.vivo.com.br",
+      "TlsIP": "172.67.165.43",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+{
+   "Name": "VIVO AL-PE-AM-PA-RN-PB-CE 4 DDDS INICIO 8 E 9",
+      "FLAG": "vivo",
+      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "carrinho-pos-familia.vivo.com.br",
+      "TlsIP": "172.67.165.43",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+  },
+  {
+   "Name": "VIVO AL-PE-AM-PA-RN-PB-CE 5 DDDS INICIO 8 E 9",
+   "FLAG": "vivo",
+   "Payload": "GET wss://cdnjs.cloudflare.com [protocol][crlf]Host: [app_host][crlf] Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
+   "SNI": "cdnjs.cloudflare.com",
+   "TlsIP": "172.67.165.43",
+   "ProxyIP": "",
+   "ProxyPort": "443",
+   "Info": "Tlsws"
+  },  
+{
+       "Name": "VIVO AL-PE-AM-PA-RN-PB-CE-SP 5 DDDS INICIO 8 E 9 e 11",
+       "FLAG": "vivo",
+          "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "SNI": "unpkg.com",
+          "TlsIP": "172.67.165.43",
+          "ProxyIP": "",
+          "ProxyPort": "443",
+          "Info": "Tlsws"
+        }, 
   {
        "Name": "VIVO MORTO 1 DDDS 81,82,83,84,85,87,88,92",
        "FLAG": "vivo",
