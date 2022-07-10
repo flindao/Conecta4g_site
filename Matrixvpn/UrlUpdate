@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.34",
+  "Version": "1.0.35",
   "ReleaseNotes": "NOVAS ATUALIZACOES DISPONIVEIS, NOVAS OPCOES DA VIVO ORGANIZADAS PARA TESTES",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -88,7 +88,7 @@
       "Info": "Tlsws"
     },
 	{
-      "Name": "💚VIVO AM-PA-AP-ES DDD 27,28,91,92",
+      "Name": "💚VIVO AM-PA-AP-ES-PE DDD 27,28,81A88,91,92",
       "FLAG": "vivo",
       "Payload": "GET wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "portaljud.vivo.com.br",
@@ -118,7 +118,7 @@
           "Info": "Tlsws"
         },
 		{
-      "Name": "🟣VIVO SP-DF-GO-ES-MG-BA DDD 11,27,28,31,61,62,77",
+      "Name": "🟣VIVO SP-DF-GO-ES-MG-BA-PE DDD 11,27,28,31,61,62,71A77,81A88",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -128,7 +128,7 @@
       "Info": "Proxy"
     },
 {
-      "Name": "💚VIVO SP-PR-PA-PE-AP-ES-AM-AP DDDS INICIO 8 E 9 11,15,16,27,28,43,61,62,91,96",
+      "Name": "💚VIVO SP-PR-PA-PE-AP-ES-AM-AP-PE DDDS INICIO 8 E 9 11,15,16,27,28,43,61,62,81A88,91,96",
       "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
@@ -138,7 +138,7 @@
       "Info": "Tlsws"
     }, 
 {
-      "Name": "🟣VIVO BA-PA-SE-PE-CE-RN-PA-AP-ES DDD 27,28,71,77,79,81,82,83,84,85,86,87,88,91",
+      "Name": "🟣VIVO BA-PA-SE-PE-CE-RN-PA-AP-ES DDD 27,28,71A77,79,81,82,83,84,85,86,87,88,91",
       "FLAG": "vivo.png",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
