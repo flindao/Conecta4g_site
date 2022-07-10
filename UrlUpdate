@@ -89,7 +89,26 @@
     }
   ],
   "Networks": [
-    
+    {
+      "Name": "VIVO AM-PA-AP-RJ 2 DDD 91,92,24,85",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "vpoweb.vivo.com.br",
+      "TlsIP": "",
+      "ProxyIP": "104.18.6.80",
+      "ProxyPort": "443",
+      "Info": "Proxy"
+    },
+	{
+      "Name": "🟣VIVO RJ-RS-AL DDDS: 21,51,82 ",
+      "FLAG": "vivo",
+      "Payload": "GET wss://cursofl.formuladelancamento.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "cursofl.formuladelancamento.com.br",
+      "TlsIP": "104.24.25.34",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
 	{
       "Name": "💚VIVO AM-PA-AP DDD 91,92",
       "FLAG": "vivo",
@@ -150,6 +169,16 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     }, 	
+	{
+      "Name": "VIVO AM-PA-AP-RJ 2 DDD 91,92,24,85",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "vpoweb.vivo.com.br",
+      "TlsIP": "",
+      "ProxyIP": "104.18.6.80",
+      "ProxyPort": "443",
+      "Info": "Proxy"
+    },
  {
    "Name": "VIVO AL-PE-AM-PA-RN-PB-CE 2 DDDS INICIO 8 E 9",
    "FLAG": "vivo",
@@ -262,16 +291,7 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-    {
-      "Name": "VIVO FUTURO 2 DDD 91,92,24,85",
-      "FLAG": "vivo",
-      "Payload": "GET wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "vpoweb.vivo.com.br",
-      "TlsIP": "",
-      "ProxyIP": "104.18.6.80",
-      "ProxyPort": "443",
-      "Info": "Proxy"
-    },
+    
    
 {
       "Name": "VIVO FUNCIONAL [SSL 12] DDD 75,85,92 TESTES",
@@ -417,16 +437,7 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
-    {
-      "Name": "🟣VIVO LANCAMENTO 4 DDDS: 21,51,82 ",
-      "FLAG": "vivo",
-      "Payload": "GET wss://cursofl.formuladelancamento.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "cursofl.formuladelancamento.com.br",
-      "TlsIP": "104.24.25.34",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
+    
     {
       "Name": "🟣VIVO LANCAMENTO 5 DDDS: 51,82,79 ",
       "FLAG": "vivo",
