@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.90",
+  "Version": "1.0.91",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -220,7 +220,7 @@
           "Info": "Tlsws"
         },
 		{
-      "Name": "🟣VIVO SP-DF-GO-ES-MG-BA-PE DDD 11,27,28,31,61,62,71A77,81A88",
+      "Name": "🟣VIVO SP-DF-GO-ES-MG-BA-PE DDD 11,13,27,28,31,61,62,71A77,81A88",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -695,7 +695,7 @@
     },
     
    {
-      "Name": "VIVO 4G - 01 DDD 11,15,16,43,61,62,91,96",
+      "Name": "VIVO 4G - 01 DDD 11,13,15,16,43,61,62,91,96",
       "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
