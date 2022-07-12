@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.20",
+  "Version": "1.0.21",
   "ReleaseNotes": "ATUALIZACAO DISPONIVEL",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlSms",
@@ -45,17 +45,6 @@
   "Servers": [
     {
       "Name": "SERVIDOR 1 | PLUS",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "sonic.raricknew.online",
-      "CheckUser": "http://150.230.73.36:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-    {
-      "Name": "SERVIDOR 2 | PLUS",
       "TYPE": "premium ",
       "FLAG": "br.png",
       "ServerIP": "eu.raricknew.online",
@@ -65,17 +54,18 @@
       "USER": "",
       "PASS": ""
     },
-	{
-      "Name": "SUPORTE | PLUS",
-      "TYPE": "free",
+    {
+      "Name": "SERVIDOR 2 | PLUS",
+      "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "gomes.sonicvpn.xyz",
+      "ServerIP": "sonic.raricknew.online",
       "CheckUser": "http://150.230.73.36:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "suporte",
-      "PASS": "1234"
+      "USER": "",
+      "PASS": ""
     }
+    
   ],
   "Networks": [
       {
