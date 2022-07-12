@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.21",
+  "Version": "1.0.22",
   "ReleaseNotes": "ATUALIZACAO DISPONIVEL",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlSms",
@@ -59,6 +59,17 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sonic.raricknew.online",
+      "CheckUser": "http://150.230.73.36:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "SERVIDOR 3 | PLUS",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "eu2.raricknew.online",
       "CheckUser": "http://150.230.73.36:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
