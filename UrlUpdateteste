@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.94",
+  "Version": "1.0.95",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -111,6 +111,16 @@
     }
   ],
   "Networks": [
+   { 
+      "Name": "🟣VIVO DDD 92,93 e outras ", 
+      "FLAG": "vivo", 
+      "Payload": "GET / D.E.U HTTP/1.1\nHost: ca.speedgame.xyz\nUpgrade: H.Y.V.O.Z.I.N\n\n", 
+      "SNI": "", 
+      "TlsIP": "", 
+      "ProxyIP": "172.67.165.43", 
+      "ProxyPort": "80", 
+      "Info": "Proxy"
+      },
    {
       "Name": "🟣VIVO [ DDD 11,31,33,34,42,51,62,81,87,92]",
       "FLAG": "vivo.png",
