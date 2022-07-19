@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.93",
+  "Version": "1.0.94",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -766,7 +766,7 @@
 	  "Info": "Tlsws"
   },
 	  {
-	  "Name": "💚VIVO DDD 21,27,28,61,62,77,96 - 2",
+	  "Name": "💚VIVO DDD 11,21,27,28,61,62,77,96 - 2",
       "FLAG": "vivo",
       "Payload": "GET ws://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "",
