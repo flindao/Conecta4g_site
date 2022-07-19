@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.95",
+  "Version": "1.0.96",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -89,6 +89,17 @@
     }
   ],
   "Networks": [
+  {
+      "Name": "CLARO (Recomendado)",
+      "TYPE": "premium",
+      "FLAG": "claro",
+      "Payload": "GET wss://4.icanhazip.com HTTP/1.1[crlf]Host: ryckecnet.tk[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "4.icanhazip.com",
+      "TlsIP": "4.icanhazip.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
   {
       "Name": "VIVO NOVA 58 DDD 21 E OUTROS",
       "FLAG": "vivo",
