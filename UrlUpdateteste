@@ -170,8 +170,9 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-},
- {
+}, 
+
+{
       "Name": "💜VIVO DDD 92",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
