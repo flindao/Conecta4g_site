@@ -131,7 +131,7 @@
    "Info": "Tlsws"
   },
   {
-      "Name": "VIVO NOVA 58 DDD 21 E OUTROS",
+      "Name": "VIVO NOVA DDD 12,21,58 E OUTROS",
       "FLAG": "vivo",
       "Payload": "GET wss://digeverse.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: bode[crlf][crlf]",
       "SNI": "digeverse.com",
@@ -261,7 +261,7 @@
       "Info": "Tlsws"
     },
 	{
-      "Name": "🟣*VIVO SP-DF-GO-PE-CE-RN-ES-AL-RS DDD 11,21,24,27,28,51A55,61,62,71,81A88*",
+      "Name": "🟣*VIVO SP-DF-GO-PE-CE-RN-ES-AL-RS DDD 11,12,21,24,27,28,51A55,61,62,71,81A88*",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
