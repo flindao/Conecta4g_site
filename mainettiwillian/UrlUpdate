@@ -47,7 +47,7 @@
       "Name": "SERVIDOR 1 | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "br1.startnetplus.xyz",
+      "ServerIP": "b1.mainetti.site",
       "CheckUser": "http://45.162.231.111:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
