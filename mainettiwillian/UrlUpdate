@@ -1,11 +1,11 @@
 {
-  "Version": "1.0.97",
+  "Version": "1.0.1",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
-  "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
-  "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
+  "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/mainettiwillian/UrlUpdate",
+  "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/mainettiwillian/UrlSms",
   "EmailFeedback": "",
-  "UrlContato": "http://painel.startnetplus.xyz/",
-  "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/termos.html",
+  "UrlContato": "https://20.mainetti.site/index.php",
+  "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/mainettiwillian/termos.html",
   "CheckUser": "true",
   "Udp": [
     {
@@ -48,45 +48,12 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.startnetplus.xyz",
-      "CheckUser": "http://209.14.137.66:5454/checkUser",
+      "CheckUser": "http://45.162.231.111:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    },
-    {
-      "Name": "SERVIDOR 2 | PLUS",
-      "TYPE": "premium ",
-      "FLAG": "br.png",
-      "ServerIP": "br2.startnetplus.xyz",
-      "CheckUser": "http://198.50.166.245:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-	{
-      "Name": "SERVIDOR 3 | PLUS",
-      "TYPE": "premium ",
-      "FLAG": "br.png",
-      "ServerIP": "br3.startnetplus.xyz",
-      "CheckUser": "http://209.14.68.83:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-       {
-      "Name": "SUPORTE | PLUS",
-      "TYPE": "free",
-      "FLAG": "br.png",
-      "ServerIP": "br4.startnetplus.xyz",
-      "CheckUser": "http://191.101.131.58:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    }
+      }
   ],
   "Networks": [
   {
