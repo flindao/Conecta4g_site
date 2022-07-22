@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.97",
+  "Version": "1.0.98",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -1522,6 +1522,77 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
+   },
+   {
+      "Name": "CLARO 1",
+      "FLAG": "claro",
+      "Payload": "GET wss://ipv4.icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "ipv4.icanhazip.com",
+      "TlsIP": "ipv4.icanhazip.com",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    }, 
+    {
+      "Name": "CLARO 2",
+      "FLAG": "claro.png",
+      "Payload": "GET wss://go.kaltura.com HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "go.kaltura.com",
+      "TlsIP": "104.17.73.206",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+     "Name": "CLARO 3",
+     "FLAG": "claro",
+     "Payload": "GET wss://ct.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+     "SNI": "ct.livestream.com",
+     "TlsIP": "ct.livestream.com",
+     "ProxyIP": "",
+     "ProxyPort": "443",
+     "Info": "Tlsws"
+   },
+   {
+     "Name": "CLARO 4",
+     "FLAG": "claro",
+     "Payload": "GET wss://uploads.api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+     "SNI": "uploads.api.new.livestream.com",
+     "TlsIP": "uploads.api.new.livestream.com",
+     "ProxyIP": "",
+     "ProxyPort": "443",
+     "Info": "Tlsws"
+   },
+   {
+     "Name": "CLARO 5",
+     "FLAG": "claro",
+     "Payload": "GET wss://1674401.mediaspace.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+     "SNI": "1674401.mediaspace.kaltura.com",
+     "TlsIP": "1674401.mediaspace.kaltura.com",
+     "ProxyIP": "",
+     "ProxyPort": "443",
+     "Info": "Tlsws"
+   },
+   {
+     "Name": "CLARO 6",
+     "FLAG": "claro",
+     "Payload": "GET wss://vimeo.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+     "SNI": "vimeo.livestream.com",
+     "TlsIP": "vimeo.livestream.com",
+     "ProxyIP": "",
+     "ProxyPort": "443",
+     "Info": "Tlsws"
+   },
+
+   {
+     "Name": "CLARO 7",
+     "FLAG": "claro",
+     "Payload": "GET wss://cdn.jsdelivr.net/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+     "SNI": "cdn.jsdelivr.net",
+     "TlsIP": "104.16.89.20",
+     "ProxyIP": "",
+     "ProxyPort": "443",
+     "Info": "Tlsws"
    },
      {
       "Name": "OI PROXY 02",
