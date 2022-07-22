@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.38",
+  "Version": "1.0.39",
   "ReleaseNotes": "NOVAS ATUALIZACOES DISPONIVEIS, NOVAS OPCOES DA VIVO ORGANIZADAS PARA TESTES",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -67,6 +67,16 @@
     }	
   ],
   "Networks": [
+  {
+      "Name": "VIVO 79 SERGIPE",
+      "FLAG": "vivo",
+      "Payload": "GET wss://m.waze.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "m.waze.com",
+      "TlsIP": "m.waze.com",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
   {
       "Name": "VIVO NOVA DDD 12,21,58 E OUTROS",
       "FLAG": "vivo",
