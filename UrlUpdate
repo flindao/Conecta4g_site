@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.104",
+  "Version": "1.0.105",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -80,7 +80,7 @@
       "Name": "SUPORTE | PLUS",
       "TYPE": "free",
       "FLAG": "br.png",
-      "ServerIP": "br4.startnetplus.xyz",
+      "ServerIP": "anubisx.online",
       "CheckUser": "http://191.101.131.58:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -89,6 +89,16 @@
     }
   ],
   "Networks": [
+ {
+      "Name": "VIVO TODOS DDD 鉁岋笍",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: b13pkbl191.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "b13pkbl191.map.azionedge.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
  {
       "Name": "📱 VIVO ROTATE 01 📡 💜",
       "FLAG": "vivo",
