@@ -121,8 +121,7 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-     
-     {
+      {
       "Name": "VIVO TODOS DDD 鉁岋笍",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: ipa5u80uxd.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
