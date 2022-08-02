@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.4",
-  "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO VIVO 28 PARA DDDS 11 E 91 E OUTROS",
+  "Version": "1.0.5",
+  "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO VIVO 28 PARA DDDS 11 E 91 E OUTROS e \n TIM E VIVO 01",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/mainettiwillian/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/mainettiwillian/UrlSms",
   "EmailFeedback": "",
@@ -66,6 +66,16 @@
           "ProxyPort": "443",
           "Info": "Tlsws"
         }, 
+	{
+   "Name": "🔵TIM E VIVO 01",
+      "FLAG": "tim",
+      "Payload": "GET wss://bam.nr-data.net HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "bam.nr-data.net",
+      "TlsIP": "162.247.241.14",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+        },
 {
       "Name": "📱 VIVO 1 \nTODOS DDD 鉁岋笍",
       "FLAG": "vivo",
