@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.22",
-  "ReleaseNotes": "NOVA ATUALIZACAO DISPONIVEL",
+  "Version": "1.0.23",
+  "ReleaseNotes": "NOVA ATUALIZACAO DISPONIVEL VIVO 1 \nTODOS DDD ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlSms",
   "EmailFeedback": "",
@@ -78,6 +78,16 @@
     }
   ],
   "Networks": [
+{
+      "Name": "📱 VIVO 1 \nTODOS DDD 鉁岋笍",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: 9311963994x4m5g5gf.agilewingcdn.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
 {
       "Name": "💚VIVO AM-PA-AP-RJ 2 DDD 91,92,24,85",
       "FLAG": "vivo",
