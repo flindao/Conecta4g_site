@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.108",
+  "Version": "1.0.109",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -84,8 +84,8 @@
       "CheckUser": "http://209.14.137.66:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+      "USER": "suporte",
+      "PASS": "1234"
     }
   ],
   "Networks": [
