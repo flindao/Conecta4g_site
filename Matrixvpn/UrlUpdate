@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.40",
+  "Version": "1.0.41",
   "ReleaseNotes": "NOVAS ATUALIZACOES DISPONIVEIS, OPCAO ADICIONADA VIVO LOGIN",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -67,7 +67,17 @@
     }	
   ],
   "Networks": [
-  {
+ { 
+ "Name": "VIVO",
+"FLAG": "vivo",
+"Payload": "GET / HTTP/1.1[crlf]Host: 8o036w19691m48qk52.agilewingcdn.com]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "recarga.vivo.com.br",
+"ProxyPort": "80",
+"Info": "Proxy"
+ },
+ {
       "Name": "🟣VIVO LOGIN ",
       "FLAG": "vivo",
       "Payload": "GET wss://gedoc.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
