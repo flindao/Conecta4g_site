@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.113",
+  "Version": "1.0.114",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -99,15 +99,15 @@
       "PASS": ""
     },
       {
-      "Name": "SUPORTE | PLUS",
+     "Name": "SUPORTE | PLUS",
       "TYPE": "free",
       "FLAG": "br.png",
-      "ServerIP": "anubisx.online",
-      "CheckUser": "http://191.101.131.58:5454/checkUser",
+      "ServerIP": "br1.startnetplus.xyz",
+      "CheckUser": "http://209.14.137.66:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "anubis",
-      "PASS": "grupo"
+      "USER": "suporte",
+      "PASS": "1234"
     }
   ],
   "Networks": [
@@ -134,7 +134,7 @@
     {
       "Name": "VIVO TODOS DDD 01082022 鉁岋笍",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: 9311963994x4m5g5gf.agilewingcdn.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: v3.br3.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
