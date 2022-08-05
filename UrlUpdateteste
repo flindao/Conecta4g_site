@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.117",
+  "Version": "1.0.118",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -142,6 +142,26 @@
       "Info": "Proxy"
     },
     {
+      "Name": "VIVO TOP 1 PROXY, DDD 27,28,61,62,77",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "vivo1.startnetplus.xyz",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO TOP 1 PROXY, DDD 27,28,61,62,77",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "beneficios.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
        "Name": "📱 VIVO 29 📡 💜\n DDD 27",
        "FLAG": "vivo",
           "Payload": "GET ws://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
@@ -151,6 +171,17 @@
       "ProxyPort": "80",
       "Info": "Proxy"
         }, 
+	
+	{
+      "Name": "📱 VIVO 30 📡 💜\n DDD 27",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "beneficios.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
    {
       "Name": "VIVO | TLS | 98\nDDD51,82",
       "FLAG": "vivo",
