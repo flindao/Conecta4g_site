@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.118",
+  "Version": "1.0.119",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -182,6 +182,17 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+    
+    {
+	  "Name": "📱 VIVO 31 DDD 11,21,27,28,61,62,77,96 - 2",
+      "FLAG": "vivo",
+      "Payload": "GET ws://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "",
+      "TlsIP": "beneficios.vivo.com.br",
+      "ProxyIP": "104.16.124.175",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+},
    {
       "Name": "VIVO | TLS | 98\nDDD51,82",
       "FLAG": "vivo",
