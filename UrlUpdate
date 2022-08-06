@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.114",
+  "Version": "1.0.115",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO OPCAO 📱 VIVO 29 📡 💜\n DDD 27 \n COLOCAR MODO AVIAO ATE PEGAR",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -501,16 +501,16 @@
           "ProxyPort": "443",
           "Info": "Tlsws"
         }, 
-	{
-      "Name": "📱 VIVO 29 📡 💜\n DDD 27",
+{
+      "Name": "📱 VIVO 29 📡 💜\n DDD 11,21,27,28,61,62,77,96 - 2",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET ws://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "beneficios.vivo.com.br",
+      "TlsIP": "beneficios.vivo.com.br",
+      "ProxyIP": "104.16.124.175",
       "ProxyPort": "80",
       "Info": "Proxy"
-    },
+},
 {
    "Name": "🔵TIM e VIVO 01 \n DDD 11",
       "FLAG": "tim",
