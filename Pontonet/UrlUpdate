@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.33",
+  "Version": "1.0.34",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO OPCAO 📱 VIVO 29 📡 💜\n DDD 27 \n COLOCAR MODO AVIAO ATE PEGAR e \n 📱 VIVO 1 \nTODOS DDD 鉁岋笍 ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlSms",
@@ -47,7 +47,7 @@
       "Name": "SERVIDOR 1 | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "br1.pontonetssh.xyz",
+      "ServerIP": "br02.pontonetssh.xyz",
       "CheckUser": "http://209.14.2.235:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
