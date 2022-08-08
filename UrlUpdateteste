@@ -203,7 +203,7 @@
       "Info": "Tlsws"
         }, 
     {
-       "Name": "📱 VIVO 28 📡 💜\nAM-PA DDD 11,91",
+       "Name": "📱 VIVO 28 📡 💜\nAM-ES-PA DDD 11,27,91",
        "FLAG": "vivo",
           "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "unpkg.com",
