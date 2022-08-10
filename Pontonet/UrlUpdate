@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.36",
+  "Version": "1.0.37",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO OPCAO 📱 VIVO luffy 💜\n NAS PRIMEIRAS OPCOES 📡 💜\n DDD 27 \n COLOCAR MODO AVIAO ATE PEGAR e \n 📱 VIVO 1 \nTODOS DDD 鉁岋笍 ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlSms",
@@ -169,9 +169,9 @@
       "Info": "Proxy"
     },
     {
-      "Name": "📱 VIVO 2 \nTODOS DDD 鉁岋笍 SERVIDOR 2",
+      "Name": "📱 VIVO 2 SERVIDOR 2 \nTODOS DDD 鉁岋笍 ",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: v03.pontonetssh.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: v04.pontonetssh.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
