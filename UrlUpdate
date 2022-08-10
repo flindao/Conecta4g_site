@@ -222,7 +222,7 @@
     },
   
   {
-      "Name": "📱 VIVO 2 \nTODOS DDD SERVIDOR 1 E 2 鉁岋笍",
+      "Name": "📱 VIVO 2 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: v12.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
