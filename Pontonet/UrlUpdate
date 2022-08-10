@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.37",
+  "Version": "1.0.38",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO OPCAO 📱 VIVO luffy 💜\n NAS PRIMEIRAS OPCOES 📡 💜\n DDD 27 \n COLOCAR MODO AVIAO ATE PEGAR e \n 📱 VIVO 1 \nTODOS DDD 鉁岋笍 ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlSms",
@@ -66,11 +66,22 @@
       "PASS": ""
     },
 	{
-      "Name": "SUPORTE | PLUS",
+      "Name": "SUPORTE 1 | PLUS",
       "TYPE": "free",
       "FLAG": "br.png",
-      "ServerIP": "br3.pontonetssh.xyz",
-      "CheckUser": "http://191.101.131.58:5454/checkUser",
+      "ServerIP": "br02.pontonetssh.xyz",
+      "CheckUser": "http://209.14.2.235:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "suporte",
+      "PASS": "1234"
+    },
+    {
+      "Name": "SUPORTE 2 | PLUS",
+      "TYPE": "free",
+      "FLAG": "br.png",
+      "ServerIP": "br2.pontonetssh.xyz",
+      "CheckUser": "http://209.14.71.210:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "suporte",
@@ -159,7 +170,7 @@
       "Info": "Proxy"
 },
 {
-      "Name": "📱 VIVO 1 \nTODOS DDD 鉁岋笍",
+      "Name": "📱 VIVO 1 SERVIDOR 1 \nTODOS DDD 鉁岋笍",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: z02.pontonetssh.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -169,7 +180,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "📱 VIVO 2 SERVIDOR 2 \nTODOS DDD 鉁岋笍 ",
+      "Name": "📱 VIVO 2 SERVIDOR 1 \nTODOS DDD 鉁岋笍 ",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: v04.pontonetssh.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -178,6 +189,17 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+     {
+      "Name": "📱 VIVO 3 SERVIDOR 2 \nTODOS DDD 鉁岋笍 ",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: c04.pontonetssh.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },   
+    
 {
       "Name": "💚VIVO AM-PA-AP-RJ 2 DDD 91,92,24,85",
       "FLAG": "vivo",
