@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.124",
+  "Version": "1.0.125",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -364,6 +364,28 @@
         "ProxyPort": "80",
         "Info": "Proxy"
        },
+
+{
+      "Nome": "CLARO(01)",
+      "BANDEIRA": "claro",
+      "Payload": "GET ws://4.icanhazip.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "4.icanhazip.com",
+      "TlsIP": "4.icanhazip.com",
+      "IP de Proxy": "",
+      "Porta proxy": "",
+      "Informações": "Tlsws"
+    },
+    {
+      "Nome": "CLARO(02)",
+      "BANDEIRA": "claro",
+      "Payload": "GET ws://go.kaltura.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "go.kaltura.com",
+      "TlsIP": "104.17.74.206",
+      "IP de Proxy": "",
+      "Porta proxy": "",
+      "Informações": "Tlsws"
+    },
+
     {
       "Name": "🔵TIM 1",
       "FLAG": "tim",
