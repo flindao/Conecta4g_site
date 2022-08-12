@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.40",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO OPCAO 📱 VIVO luffy 💜\n NAS PRIMEIRAS OPCOES 📡 💜\n DDD 27 \n COLOCAR MODO AVIAO ATE PEGAR e \n 📱 VIVO 1 \nTODOS DDD 鉁岋笍 ",
+  "Version": "1.0.41",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO MAIS OPCOES \n 📱 VIVO  \nTODOS DDD 鉁岋笍 ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlSms",
   "EmailFeedback": "",
@@ -189,8 +189,19 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+    {
+      "Name": "📱 VIVO 3 SERVIDOR 1 \nTODOS DDD 鉁岋笍",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: v05.pontonetssh.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
      {
-      "Name": "📱 VIVO 3 SERVIDOR 2 \nTODOS DDD 鉁岋笍 ",
+      "Name": "📱 VIVO 4 SERVIDOR 2 \nTODOS DDD 鉁岋笍 ",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: c04.pontonetssh.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -201,7 +212,7 @@
     },   
 
  {
-      "Name": "📱 VIVO 4 SERVIDOR 2 \nTODOS DDD 鉁岋笍 ",
+      "Name": "📱 VIVO 5 SERVIDOR 2 \nTODOS DDD 鉁岋笍 ",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: z03.pontonetssh.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -212,7 +223,7 @@
     },   
 
      {
-      "Name": "📱 VIVO 5 SERVIDOR 2 \nTODOS DDD 鉁岋笍 ",
+      "Name": "📱 VIVO 6 SERVIDOR 2 \nTODOS DDD 鉁岋笍 ",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: c05.pontonetssh.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
