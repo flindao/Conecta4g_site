@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.42",
+  "Version": "1.0.43",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO MAIS OPCOES \n 📱 VIVO  \nTODOS DDD 鉁岋笍 ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlSms",
@@ -243,6 +243,17 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+     {
+      "Name": "📱 VIVO 8 SERVIDOR 2 \nTODOS DDD SERVIDOR 1 E 2 AZ",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: ryanaj0qs4.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "ryanaj0qs4.map.azionedge.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    
     
 {
       "Name": "💚VIVO AM-PA-AP-RJ 2 DDD 91,92,24,85",
