@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.137",
+  "Version": "1.0.138",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -134,7 +134,7 @@
      {
       "Name": "CLARO 02 SERVIDOR 3a",
       "FLAG": "claro",
-      "Payload": "GET wss://produtos.mobilidade.caixa.gov.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET wss://produtos.mobilidade.caixa.gov.br/ HTTP/1.1[crlf]Host: claro.startnetplus.xyz[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "produtos.mobilidade.caixa.gov.br",
       "TlsIP": "produtos.mobilidade.caixa.gov.br",
       "ProxyIP": "",
@@ -145,6 +145,16 @@
       "Name": "CLARO 03 SERVIDOR 3",
       "FLAG": "claro",
       "Payload": "GET wss://mnmzg9pwiw.map.azionedge.net HTTP/1.1[crlf]Host: produtos.mobilidade.caixa.gov.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "produtos.mobilidade.caixa.gov.br",
+      "TlsIP": "produtos.mobilidade.caixa.gov.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+     {
+      "Name": "CLARO 03a SERVIDOR 3",
+      "FLAG": "claro",
+      "Payload": "GET wss://claro.startnetplus.xyz HTTP/1.1[crlf]Host: produtos.mobilidade.caixa.gov.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "produtos.mobilidade.caixa.gov.br",
       "TlsIP": "produtos.mobilidade.caixa.gov.br",
       "ProxyIP": "",
