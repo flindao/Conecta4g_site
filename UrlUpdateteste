@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.133",
+  "Version": "1.0.135",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -141,6 +141,28 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
+     {
+      "Name": "CLARO 03 SERVIDOR 3",
+      "FLAG": "claro",
+      "Payload": "GET wss://mnmzg9pwiw.map.azionedge.net HTTP/1.1[crlf]Host: produtos.mobilidade.caixa.gov.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "produtos.mobilidade.caixa.gov.br",
+      "TlsIP": "produtos.mobilidade.caixa.gov.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+     {
+      "Name": "CLARO 04 SERVIDOR 3",
+      "FLAG": "claro",
+      "Payload": "GET wss://mnmzg9pwiw.map.azionedge.net HTTP/1.1[crlf]Host: produtos.mobilidade.caixa.gov.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "produtos.mobilidade.caixa.gov.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    
+    GET wss://AZION AQUI HTTP/1.1[crlf]Host: produtos.mobilidade.caixa.gov.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]
 {
       "Name": "📱 VIVO 1 \nTODOS DDD 鉁岋笍",
       "FLAG": "vivo",
