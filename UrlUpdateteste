@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.129",
+  "Version": "1.0.130",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -120,9 +120,7 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
-    }
-  ]
-}
+    },
 {
       "Name": "📱 VIVO 1 \nTODOS DDD 鉁岋笍",
       "FLAG": "vivo",
