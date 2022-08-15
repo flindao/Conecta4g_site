@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.130",
+  "Version": "1.0.131",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -115,6 +115,16 @@
       "Name": "CLARO 01",
       "FLAG": "claro",
       "Payload": "GET wss://clario.qnhumb.xyz/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "produtos.mobilidade.caixa.gov.br",
+      "TlsIP": "produtos.mobilidade.caixa.gov.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+     {
+      "Name": "CLARO 01",
+      "FLAG": "claro",
+      "Payload": "GET wss://mnmzg9pwiw.map.azionedge.net/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "produtos.mobilidade.caixa.gov.br",
       "TlsIP": "produtos.mobilidade.caixa.gov.br",
       "ProxyIP": "",
