@@ -161,8 +161,7 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-    
-    GET wss://AZION AQUI HTTP/1.1[crlf]Host: produtos.mobilidade.caixa.gov.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]
+        
 {
       "Name": "📱 VIVO 1 \nTODOS DDD 鉁岋笍",
       "FLAG": "vivo",
