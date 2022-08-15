@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.139",
+  "Version": "1.0.140",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -174,7 +174,7 @@
       {
       "Name": "╰┈[☞>📱𝗖𝗟𝗔𝗥𝗢 𝟱𝗚 𝟬1 📡 🟢",
       "FLAG": "claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: SUAAZION[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: mnmzg9pwiw.map.azionedge.net[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "dados-cliente.negociosdigitais.caixa.gov.br",
       "TlsIP": "dados-cliente.negociosdigitais.caixa.gov.br",
       "ProxyIP": "",
