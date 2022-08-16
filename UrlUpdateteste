@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.145",
+  "Version": "1.0.146",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -214,15 +214,106 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 VIVO 2 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍",
+      "Name": "╰┈[☞>📱 VIVO 2 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍42",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: c7tuyy586g.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "az1.startnetplus.xyz",
+      "ProxyIP": "179.191.168.42",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+    {
+      "Name": "╰┈[☞>📱 VIVO 2 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍65",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: c7tuyy586g.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "179.191.169.65",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱 VIVO 2 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍44",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: c7tuyy586g.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "179.191.168.44",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱 VIVO 2 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍34",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: c7tuyy586g.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "179.191.168.34",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱 VIVO 2 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍36",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: c7tuyy586g.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "179.191.168.36",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱 VIVO 2 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍37",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: c7tuyy586g.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "179.191.168.37",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱 VIVO 2 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍38",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: c7tuyy586g.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "179.191.168.38",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱 VIVO 2 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍39",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: c7tuyy586g.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "179.191.168.39",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱 VIVO 2 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍43",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: c7tuyy586g.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "179.191.168.43",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱 VIVO 2 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍49",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: c7tuyy586g.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "179.191.168.49",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    
     {
       "Name": "📱 VIVO 2a \nTODOS DDD SERVIDOR 1 E 2 AZ",
       "FLAG": "vivo",
