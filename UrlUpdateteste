@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.144",
+  "Version": "1.0.145",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -192,6 +192,7 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
        },
+       
 {
       "Name": "📱 VIVO 1 \nTODOS DDD 鉁岋笍",
       "FLAG": "vivo",
@@ -209,6 +210,16 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "mnmzg9pwiw.map.azionedge.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱 VIVO 2 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: c7tuyy586g.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "az1.startnetplus.xyz",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
