@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.141",
+  "Version": "1.0.142",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -59,6 +59,17 @@
       "TYPE": "premium ",
       "FLAG": "br.png",
       "ServerIP": "br2.startnetplus.xyz",
+      "CheckUser": "http://198.50.166.245:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "SERVIDOR 2a| PLUS",
+      "TYPE": "premium ",
+      "FLAG": "br.png",
+      "ServerIP": "t2.startnetplus.xyz",
       "CheckUser": "http://198.50.166.245:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
