@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.11",
-  "ReleaseNotes": "NOVAS ATUALIZACOES DISPONIVEIS",
+  "Version": "1.0.12",
+  "ReleaseNotes": "NOVAS ATUALIZACOES DISPONIVEIS \n ADICIONADO \n 🔵TIM e VIVO 01",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/bignet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/bignet/UrlSms",
   "EmailFeedback": "",
@@ -68,6 +68,16 @@
     }
   ],
   "Networks": [
+     {
+   "Name": "🔵TIM e VIVO 01 \n DDD 11",
+      "FLAG": "tim",
+      "Payload": "GET wss://bam.nr-data.net HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "bam.nr-data.net",
+      "TlsIP": "162.247.241.14",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+        }, 
     {
       "Name": "💚VIVO AM-PA-AP-RJ 2 DDD 91,92,24,85",
       "FLAG": "vivo",
