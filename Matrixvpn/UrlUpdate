@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.46",
+  "Version": "1.0.47",
   "ReleaseNotes": "NOVAS ATUALIZACOES DISPONIVEIS, \n ADICIONADA 📱𝐕𝐈𝐕𝐎 32 DDD 11 \n ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -337,7 +337,37 @@
           "ProxyPort": "443",
           "Info": "Tlsws"
         }, 
-      {
+    {
+      "Name": "💙TIM 6Bank [SSL 1]",
+      "FLAG": "tim",
+      "Payload": "GET wss://blog.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "blog.c6bank.com.br",
+      "TlsIP": "104.16.236.16",
+      "ProxyIP": "104.16.236.16",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "💙TIM VIRTUAL [SSL 2]",
+      "FLAG": "tim",
+      "Payload": "GET wss://m.timbancavirtual.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "m.timbancavirtual.com.br",
+      "TlsIP": "104.16.134.83",
+      "ProxyIP": "104.16.134.83",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "💙TIM AJUDA [SSL 3]",
+      "FLAG": "tim",
+      "Payload": "GET ws://ajuda.c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "ajuda.c6bank.com.br",
+      "TlsIP": "104.16.236.16",
+      "ProxyIP": "104.16.236.16",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+        },
+    {
       "Name": "TIM BRASIL",
       "FLAG": "tim",
       "Payload": "GET wss://www.alura.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
