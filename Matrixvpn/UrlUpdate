@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.47",
-  "ReleaseNotes": "NOVAS ATUALIZACOES DISPONIVEIS, \n ADICIONADA 📱𝐕𝐈𝐕𝐎 32 DDD 11 \n ",
+  "Version": "1.0.48",
+  "ReleaseNotes": "NOVAS ATUALIZACOES DISPONIVEIS, \n 📱 VIVO 1 \nTODOS DDD 鉁岋笍 AGILE\n ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
   "EmailFeedback": "",
@@ -118,9 +118,9 @@
 "Info": "Proxy" 
 },
 {
-      "Name": "📱 VIVO 1 \nTODOS DDD 鉁岋笍",
+      "Name": "📱 VIVO 1 \nTODOS DDD 鉁岋笍 AGILE",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: gringo2.sonicvpn.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: gringo3.sonicvpn.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
