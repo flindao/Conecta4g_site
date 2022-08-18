@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.149",
+  "Version": "1.0.150",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -122,6 +122,86 @@
     }
   ],
   "Networks": [
+ {
+   "Name": "🔵 TIM 056",
+   "FLAG": "tim",
+   "Payload": "GET wss://m.timbancavirtual.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+   "SNI": "m.timbancavirtual.com.br",
+   "TlsIP": "104.16.134.83",
+   "ProxyIP": "",
+   "ProxyPort": "443",
+   "Info": "Tlsws"
+},
+{
+   "Name": "🔵 TIM 057",
+   "FLAG": "tim",
+   "Payload": "GET wss://blog.c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+   "SNI": "blog.c6bank.com.br",
+   "TlsIP": "104.16.236.16",
+   "ProxyIP": "",
+   "ProxyPort": "443",
+   "Info": "Tlsws"
+},
+{
+"Name": "🔵 TIM 058",
+      "FLAG": "tim",
+      "Payload": "GET wss://ajuda.c6bank.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "ajuda.c6bank.com.br",
+      "TlsIP": "104.16.236.16",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+},
+    {      
+         "Name":"🔵TIM NOVA - 059🔵",
+         "FLAG":"tim",
+         "Payload":"GET wss://cdn.c6bank.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+         "SNI":"cdn.c6bank.com.br",
+         "TlsIP":"104.16.236.16",
+         "ProxyIP":"",
+         "ProxyPort":"443",
+         "Info":"Tlsws"     
+    },
+    {
+      "Name": "🔵TIM NOVA - 60🔵",
+      "FLAG": "tim",
+      "Payload": "GET wss://ajuda.c6bank.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "ajuda.c6bank.com.br",
+      "TlsIP": "ajuda.c6bank.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "🔵TIM NOVA - 61🔵",
+      "FLAG": "tim",
+      "Payload": "GET wss://m.timbancavirtual.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "m.timbancavirtual.com.br",
+      "TlsIP": "104.16.134.83",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws" 
+   },
+    {
+      "Name": "🔵TIM NOVA - 62🔵",
+      "FLAG": "tim",
+      "Payload": "GET wss://blog.c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "blog.c6bank.com.br",
+      "TlsIP": "104.16.236.16",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🔵TIM NOVA - 63🔵",
+      "FLAG": "tim",
+      "Payload": "GET wss://bam.nr-data.net/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "bam.nr-data.net",
+      "TlsIP": "162.247.241.14",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+      },
  {
 "Name": "📱 VIVO 17082022 📡 💜\n TESTAR MYCAN",
 "FLAG": "vivo",
