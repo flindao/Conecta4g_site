@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.129",
+  "Version": "1.0.130",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n VIVO ATIVADO NOVAMENTE \n SERVIDORES DE 1 A 3 \n 📱 VIVO 1 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -239,8 +239,18 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+    {
+      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: z5.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
   {
-      "Name": "╰┈[☞>📱 VIVO 2 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍",
+      "Name": "╰┈[☞>📱 VIVO 2 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AZION",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: c7tuyy586g.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -261,9 +271,9 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 VIVO 4 SERVIDOR 3 \nTODOS DDD  鉁岋笍",
+      "Name": "╰┈[☞>📱 VIVO 4 SERVIDOR 3 \nTODOS DDD  鉁岋笍 AGILE",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: v13.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: v14.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
