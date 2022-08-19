@@ -232,7 +232,7 @@
 	{
       "Name": "📱 VIVO 1 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: v16.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: z4.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
@@ -253,7 +253,7 @@
     {
       "Name": "╰┈[☞>📱 VIVO 3 Servidor 3 \nTODOS DDD 鉁岋笍 AGILE",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: z3.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: v17.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
