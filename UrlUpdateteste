@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.150",
+  "Version": "1.0.151",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -222,6 +222,16 @@
 "ProxyPort": "443",
 "Info": "Tlsws"
     },
+    {
+    "Name": "╰┈[☞>📱𝗖𝗟𝗔𝗥𝗢 𝟱𝗚 𝟬1 📡 🟢",
+      "FLAG": "claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: mnmzg9pwiw.map.azionedge.net[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "dados-cliente.negociosdigitais.caixa.gov.br",
+      "TlsIP": "dados-cliente.negociosdigitais.caixa.gov.br",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+      },
   {
       "Name": "CLARO 01",
       "FLAG": "claro",
@@ -556,6 +566,47 @@
 "ProxyPort": "80", 
 "Info": "Proxy" 
 },
+
+    {
+      "Name": "🟢VIVO EASY 01🟢",
+      "FLAG": "vivo",
+      "Payload": "GET wss://fitality.gr/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "fitality.gr",
+      "TlsIP": "104.18.6.80",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "🟢VIVO EASY 02🟢",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vivoemdia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "vivoemdia.vivo.com.br",
+      "TlsIP": "104.18.6.80",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+        },
+    {
+      "Name": "🟢VIVO EASY 03🟢",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vivoemdia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "vivoemdia.vivo.com.br",
+      "TlsIP": "104.18.7.80",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+    "Name": "🟢VIVO EASY 04🟢",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.7.80",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }, 
 
  {
        "Name": "📱 VIVO 06082022 📡 💜\n DDD 21 a 27",
