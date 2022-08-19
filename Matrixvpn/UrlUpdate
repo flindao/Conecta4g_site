@@ -1,6 +1,6 @@
 {
   "Version": "1.0.49",
-  "ReleaseNotes": "NOVAS ATUALIZACOES DISPONIVEIS, \n 📱 VIVO 1 \nTODOS DDD 鉁岋笍 AGILE\n ",
+  "ReleaseNotes": "NOVAS ATUALIZACOES DISPONIVEIS, \n 📱 VIVO 1 e 2 \nTODOS DDD 鉁岋笍 AGILE\n ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
   "EmailFeedback": "",
@@ -127,6 +127,26 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+    {
+      "Name": "📱 VIVO 2 \nTODOS DDD 鉁岋笍 AGILE",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: carlos2.sonicvpn.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+    "Name": "🟣VIVO 2022 ss79",
+    "FLAG": "vivo",
+     "Payload": "GET wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host: sonicvpn.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+     "SNI": "vivo360.vivo.com.br",
+     "TlsIP": "104.18.6.80",
+     "ProxyIP": "",
+     "ProxyPort": "443",
+     "Info": "Tlsws"
+      },
 {
        "Name": "📱 VIVO 28 📡 💜\nAM-PA DDD 11,91",
        "FLAG": "vivo",
