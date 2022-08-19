@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.127",
+  "Version": "1.0.128",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n VIVO ATIVADO NOVAMENTE \n SERVIDORES DE 1 A 3 \n 📱 VIVO 1 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -711,6 +711,46 @@
 "ProxyPort": "80", 
 "Info": "Proxy" 
 },   
+    {
+      "Name": "🟢VIVO EASY 01🟢",
+      "FLAG": "vivo",
+      "Payload": "GET wss://fitality.gr/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "fitality.gr",
+      "TlsIP": "104.18.6.80",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "🟢VIVO EASY 02🟢",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vivoemdia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "vivoemdia.vivo.com.br",
+      "TlsIP": "104.18.6.80",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+        },
+    {
+      "Name": "🟢VIVO EASY 03🟢",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vivoemdia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "vivoemdia.vivo.com.br",
+      "TlsIP": "104.18.7.80",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+    "Name": "🟢VIVO EASY 04🟢",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.7.80",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }, 
     
     {
       "Name": "OI PROXY 01",
