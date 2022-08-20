@@ -1,6 +1,6 @@
 {
   "Version": "1.0.134",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n VIVO ATIVADO NOVAMENTE \n SERVIDORES DE 1 A 3 \n 📱 VIVO 1 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE ",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n VIVO ATIVADO NOVAMENTE \n SERVIDORES DE 1 A 3 \n 📱 VIVO 1 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGL ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
@@ -240,7 +240,7 @@
      "Info": "Tlsws"
      }, 
 	{
-      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE",
+      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 GL1",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: z4.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -250,7 +250,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE 2",
+      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 GL2",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: z7.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -260,7 +260,7 @@
       "Info": "Proxy"
     },
      {
-      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE 3",
+      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 GL3",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: z8.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -270,7 +270,7 @@
       "Info": "Proxy"
     },
      {
-      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE 4",
+      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 GL4",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: z9.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -280,7 +280,7 @@
       "Info": "Proxy"
     },
      {
-      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE 5",
+      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 GL5",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: z10.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -290,7 +290,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 VIVO 1 Servidor 3 \nTODOS DDD 鉁岋笍 AGILE 1",
+      "Name": "╰┈[☞>📱 VIVO 1 Servidor 3 \nTODOS DDD 鉁岋笍 GL1",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: v17.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -300,7 +300,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 VIVO 2 Servidor 3 \nTODOS DDD 鉁岋笍 AGILE 2",
+      "Name": "╰┈[☞>📱 VIVO 2 Servidor 3 \nTODOS DDD 鉁岋笍 GL2",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: v18.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -310,7 +310,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 VIVO 3 Servidor 3 \nTODOS DDD 鉁岋笍 AGILE 3",
+      "Name": "╰┈[☞>📱 VIVO 3 Servidor 3 \nTODOS DDD 鉁岋笍 GL3",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: v19.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -320,7 +320,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 VIVO 4 Servidor 3 \nTODOS DDD 鉁岋笍 AGILE 4",
+      "Name": "╰┈[☞>📱 VIVO 4 Servidor 3 \nTODOS DDD 鉁岋笍 GL4",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: v17.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -330,7 +330,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 VIVO 5 Servidor 3 \nTODOS DDD 鉁岋笍 AGILE 5",
+      "Name": "╰┈[☞>📱 VIVO 5 Servidor 3 \nTODOS DDD 鉁岋笍 GL5",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: v17.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -352,7 +352,7 @@
     },
    
     {
-      "Name": "╰┈[☞>📱 VIVO 3 Servidor 3 \nTODOS DDD 鉁岋笍 AGILE",
+      "Name": "╰┈[☞>📱 VIVO 3 Servidor 3 \nTODOS DDD 鉁岋笍 GL",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: v17.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -362,7 +362,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 VIVO 4 SERVIDOR 3 \nTODOS DDD  鉁岋笍 AGILE",
+      "Name": "╰┈[☞>📱 VIVO 4 SERVIDOR 3 \nTODOS DDD  鉁岋笍 GL",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: v18.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
