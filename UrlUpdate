@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.132",
+  "Version": "1.0.134",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n VIVO ATIVADO NOVAMENTE \n SERVIDORES DE 1 A 3 \n 📱 VIVO 1 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -240,7 +240,7 @@
      "Info": "Tlsws"
      }, 
 	{
-      "Name": "📱 VIVO 1 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE",
+      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: z4.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -250,15 +250,96 @@
       "Info": "Proxy"
     },
     {
-      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE",
+      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE 2",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: z5.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: z7.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+     {
+      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE 3",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: z8.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+     {
+      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE 4",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: z9.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+     {
+      "Name": "📱 VIVO SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGILE 5",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: z10.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱 VIVO 1 Servidor 3 \nTODOS DDD 鉁岋笍 AGILE 1",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: v17.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱 VIVO 2 Servidor 3 \nTODOS DDD 鉁岋笍 AGILE 2",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: v18.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱 VIVO 3 Servidor 3 \nTODOS DDD 鉁岋笍 AGILE 3",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: v19.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱 VIVO 4 Servidor 3 \nTODOS DDD 鉁岋笍 AGILE 4",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: v17.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱 VIVO 5 Servidor 3 \nTODOS DDD 鉁岋笍 AGILE 5",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: v17.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    
   {
       "Name": "╰┈[☞>📱 VIVO 2 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AZION",
       "FLAG": "vivo",
