@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.47",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO MAIS OPCOES \n 📱 VIVO  \nTODOS DDD 鉁岋笍 AGL ",
+  "Version": "1.0.48",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO OPCAO \n VIVO NOVA DDD 12,21,58 E OUTROS ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlSms",
   "EmailFeedback": "",
@@ -89,7 +89,17 @@
     }
   ],
   "Networks": [
-    { 
+   {
+      "Name": "VIVO NOVA DDD 12,21,58 E OUTROS",
+      "FLAG": "vivo",
+      "Payload": "GET wss://digeverse.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: bode[crlf][crlf]",
+      "SNI": "digeverse.com",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+      },
+   { 
       "Name": "╰┈[☞>📱 🟣 VIVO 02luffy 💜\n DDD 11,27", 
       "FLAG": "vivo", 
       "Payload": "GET wss://unpkg.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]", 
