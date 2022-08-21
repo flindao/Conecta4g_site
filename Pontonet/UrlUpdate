@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.48",
+  "Version": "1.0.50",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO OPCAO \n VIVO NOVA DDD 12,21,58 E OUTROS ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlSms",
@@ -89,6 +89,26 @@
     }
   ],
   "Networks": [
+   {
+      "Name": "OI E VIVO PROXY 01 💜\n ES DDD 27,28",
+      "FLAG": "oi",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.56.6",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+     {
+      "Name": "OI E VIVO PROXY 02 💜\n ES DDD 27,28",
+      "FLAG": "oi",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.56.6",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
    {
       "Name": "VIVO NOVA DDD 12,21,58 E OUTROS",
       "FLAG": "vivo",
@@ -676,26 +696,7 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
-    {
-      "Name": "OI PROXY 01",
-      "FLAG": "oi",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.56.6",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-     {
-      "Name": "OI PROXY 02",
-      "FLAG": "oi",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.56.6",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
+    
     {
       "Name": "OI TLS 02",
       "FLAG": "oi",
