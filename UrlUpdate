@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.134",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n VIVO ATIVADO NOVAMENTE \n SERVIDORES DE 1 A 3 \n 📱 VIVO 1 SERVIDOR 1 E 2 \nTODOS DDD 鉁岋笍 AGL ",
+  "Version": "1.0.135",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO VIVO NOVA  \n DDDS 12, 21 E 58  ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
@@ -1573,7 +1573,17 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-    {
+   {
+      "Name": "VIVO NOVA DDD 12,21,58 E OUTROS",
+      "FLAG": "vivo",
+      "Payload": "GET wss://digeverse.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: bode[crlf][crlf]",
+      "SNI": "digeverse.com",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+      },
+   {
       "Name": "🟣VIVO NOVA 2",
       "FLAG": "vivo",
       "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
