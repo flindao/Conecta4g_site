@@ -1438,7 +1438,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "OI PROXY 01",
+      "Name": "OI E VIVO PROXY 01 💜\n ES DDD 27,28",
       "FLAG": "oi",
       "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
