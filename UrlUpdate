@@ -450,6 +450,16 @@
 	  "ProxyPort": "",
 	  "Info": "Tlsws"
   },
+  {
+	"Name": "📱𝗩𝗜𝗩𝗢 EASY 23 📡 🔴\n ANTIGA 🟣VIVO 2022 ss79",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+     "SNI": "vivo360.vivo.com.br",
+     "TlsIP": "104.18.6.80",
+     "ProxyIP": "",
+     "ProxyPort": "443",
+     "Info": "Tlsws"
+     }, 
  {
        "Name": "╰┈[☞>📱 VIVO 1 📡 💜\n AM-PA DDD 11,91",
        "FLAG": "vivo",
