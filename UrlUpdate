@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.140",
+  "Version": "1.0.141",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 🟡OI E VIVO PROXY 01 E 2  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 5",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -691,7 +691,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱VIVO BRASIL 1 📡 🔴\n",
+      "Name": "📱VIVO BRASIL 2 📡 🔴\n",
       "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "carrinho-pos-familia.vivo.com.br",
@@ -701,7 +701,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱VIVO BRASIL 2 📡 🔴\n",
+      "Name": "📱VIVO BRASIL 3 📡 🔴\n",
       "FLAG": "vivo",
       "Payload": "GET ssl://rapehun.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "rapehun.com",
@@ -711,7 +711,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱VIVO BRASIL 3 📡 🔴\n",
+      "Name": "📱VIVO BRASIL 4 📡 🔴\n",
       "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "carrinho-pos-familia.vivo.com.br",
@@ -721,7 +721,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱VIVO BRASIL 4 📡 🔴\n",
+      "Name": "📱VIVO BRASIL 5 📡 🔴\n",
       "FLAG": "vivo",
       "Payload": "GET ssl://rapehun.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "rapehun.com",
@@ -731,7 +731,7 @@
       "Info": "Tlsws"
     },
      {
-       "Name": "📱VIVO BRASIL 5 📡 🔴\n ANTIGA📱 VIVO 18 📡 💜\nAL-PE-AM-PA-RN-PB-CE-ES DDDS INICIO 8 E 9, 27,28",
+       "Name": "📱VIVO BRASIL 6 📡 🔴\n ANTIGA📱 VIVO 18 📡 💜\nAL-PE-AM-PA-RN-PB-CE-ES DDDS INICIO 8 E 9, 27,28",
        "FLAG": "vivo",
           "Payload": "GET wss://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
           "SNI": "beneficios.vivo.com.br",
