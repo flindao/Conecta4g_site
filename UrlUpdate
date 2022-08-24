@@ -65,7 +65,7 @@
       "USER": "",
       "PASS": ""
     },
-       {
+      {
       "Name": "SUPORTE 1 E 2 | PLUS",
       "TYPE": "free",
       "FLAG": "br.png",
@@ -86,6 +86,17 @@
       "SSLPort": "443",
       "USER": "suporte",
       "PASS": "1234"
+    },
+    {
+      "Name": "SERVIDOR VIVO | REGIOES OFF TESTES",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "br4.startnetplus.xyz",
+      "CheckUser": "http://209.14.137.66:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
     }
   ],
   "Networks": [
@@ -740,6 +751,16 @@
           "ProxyPort": "443",
           "Info": "Tlsws"
         },
+	{
+      "Name": "╰┈[☞>📱 VIVO GL 1 Servidor \nTODOS DDD 鉁岋笍",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: v3.startnetplus.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
  {
        "Name": "╰┈[☞>📱 VIVO 1 📡 💜\n AM-PA DDD 11,91",
        "FLAG": "vivo",
