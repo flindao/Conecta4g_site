@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.57",
+  "Version": "1.0.58",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 🟡OI E VIVO PROXY 01 E 2  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 5",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -53,18 +53,7 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-   },	
-    {
-      "Name": "SONIC VPN - TESTE| PLUS",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "brtop.sonicvpn.xyz",
-      "CheckUser": "http://209.14.137.27:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-   }	
+     }	
   ],
   "Networks": [
 
@@ -139,26 +128,16 @@
       "Info": "Proxy"
     },
     {
-      "Name": "📱 VIVO 2 \nTODOS DDD 鉁岋笍 GL2",
+      "Name": "📱 VIVO TOP 1 \nTODOS DDD 鉁岋笍",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: carlinhos2.sonicvpn.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d22v8vjun6xkeh.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "d22v8vjun6xkeh.cloudfront.net",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-    {
-      "Name": "📱 VIVO 2 \nTODOS DDD 鉁岋笍 GL3",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: gringo4.sonicvpn.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-   
+    
 {
        "Name": "📱 VIVO 28 📡 💜\nAM-PA DDD 11,91",
        "FLAG": "vivo",
@@ -641,7 +620,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱VIVO BRASIL 1 📡 🔴\n",
+      "Name": "📱VIVO BRASIL 2 📡 🔴\n",
       "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "carrinho-pos-familia.vivo.com.br",
@@ -651,7 +630,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱VIVO BRASIL 2 📡 🔴\n",
+      "Name": "📱VIVO BRASIL 3 📡 🔴\n",
       "FLAG": "vivo",
       "Payload": "GET ssl://rapehun.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "rapehun.com",
@@ -661,7 +640,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱VIVO BRASIL 3 📡 🔴\n",
+      "Name": "📱VIVO BRASIL 4 📡 🔴\n",
       "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "carrinho-pos-familia.vivo.com.br",
@@ -671,7 +650,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱VIVO BRASIL 4 📡 🔴\n",
+      "Name": "📱VIVO BRASIL 5 📡 🔴\n",
       "FLAG": "vivo",
       "Payload": "GET ssl://rapehun.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "rapehun.com",
@@ -681,7 +660,7 @@
       "Info": "Tlsws"
     },
      {
-       "Name": "📱VIVO BRASIL 5 📡 🔴\n ANTIGA📱 VIVO 18 📡 💜\nAL-PE-AM-PA-RN-PB-CE-ES DDDS INICIO 8 E 9, 27,28",
+       "Name": "📱VIVO BRASIL 6 📡 🔴\n ANTIGA📱 VIVO 18 📡 💜\nAL-PE-AM-PA-RN-PB-CE-ES DDDS INICIO 8 E 9, 27,28",
        "FLAG": "vivo",
           "Payload": "GET wss://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
           "SNI": "beneficios.vivo.com.br",
@@ -690,6 +669,27 @@
           "ProxyPort": "443",
           "Info": "Tlsws"
         },
+	{
+      "Name": "📱 TIM TOP \n TODOS DDD 鉁岋笍",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2ld57tg0vath9.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "d2ld57tg0vath9.cloudfront.net",
+      "TlsIP": "18.67.0.50",
+      "ProxyIP": "18.67.0.50",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "📱 TIM TOP 1 \n TODOS DDD 鉁岋笍",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d22v8vjun6xkeh.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "d22v8vjun6xkeh.cloudfront.net",
+      "TlsIP": "18.67.0.50",
+      "ProxyIP": "18.67.0.50",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+	
 { 
  "Name": "VIVO",
 "FLAG": "vivo",
