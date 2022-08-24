@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.54",
+  "Version": "1.0.55",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 🟡OI E VIVO PROXY 01 E 2  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 5",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -122,7 +122,8 @@
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: brtop.sonicvpn.xyz
 d2ld57tg0vath9.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
+      "SNI": "brtop.sonicvpn.xyz
+d2ld57tg0vath9.cloudfront.net",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
