@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.141",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 🟡OI E VIVO PROXY 01 E 2  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 5",
+  "Version": "1.0.142",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO TIM 13 A 15  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 6",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
@@ -230,6 +230,35 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
+    {
+      "Name": "💙TIM 13 6Bank [SSL 1]",
+      "FLAG": "tim",
+      "Payload": "GET wss://blog.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "blog.c6bank.com.br",
+      "TlsIP": "104.16.236.16",
+      "ProxyIP": "104.16.236.16",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "💙TIM 14 VIRTUAL [SSL 2]",
+      "FLAG": "tim",
+      "Payload": "GET wss://m.timbancavirtual.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "m.timbancavirtual.com.br",
+      "TlsIP": "104.16.134.83",
+      "ProxyIP": "104.16.134.83",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "💙TIM 15 AJUDA [SSL 3]",
+      "FLAG": "tim",
+      "Payload": "GET ws://ajuda.c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "ajuda.c6bank.com.br",
+      "TlsIP": "104.16.236.16",
+      "ProxyIP": "104.16.236.16",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
  {
       "Name": "🟡OI E VIVO PROXY 01 💜\n ES DDD 27,28",
       "FLAG": "oi",
