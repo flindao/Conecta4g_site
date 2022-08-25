@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.142",
+  "Version": "1.0.143",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO TIM 13 A 15  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 6",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -780,6 +780,16 @@
           "ProxyPort": "443",
           "Info": "Tlsws"
         },
+	{
+      "Name": "📱 🔴 VIVO TOP \nTODOS DDD 鉁岋笍 CL",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dse1wvvpviwel.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "dse1wvvpviwel.cloudfront.net",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
 	{
       "Name": "╰┈[☞>📱 VIVO GL 1 Servidor \nTODOS DDD 鉁岋笍",
       "FLAG": "vivo",
