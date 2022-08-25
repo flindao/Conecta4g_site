@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.143",
+  "Version": "1.0.142",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO TIM 13 A 15  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 6",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -259,6 +259,7 @@
       "ProxyIP": "104.16.236.16",
       "ProxyPort": "443",
       "Info": "Tlsws"
+      },
  {
       "Name": "🟡OI E VIVO PROXY 01 💜\n ES DDD 27,28",
       "FLAG": "oi",
