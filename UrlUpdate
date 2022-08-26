@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.143",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO TIM 13 A 15  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 6",
+  "Version": "1.0.144",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO TIM 13 A 16  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO NORMAL E VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 6",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
@@ -97,18 +97,7 @@
       "SSLPort": "443",
       "USER": "suporte",
       "PASS": "1234"
-    },
-    {
-      "Name": "SERVIDOR VIVO | REGIOES OFF TESTES",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "br4.startnetplus.xyz",
-      "CheckUser": "http://209.14.137.66:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    }
+    }    
   ],
   "Networks": [
    {
@@ -271,6 +260,36 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
       },
+      {
+      "Name": "╰💙TIM 16 GAMES🪐◕╰◕",
+      "FLAG": "tim",
+      "Payload": "GET wss://cf-assets.hcaptcha.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "cf-assets.hcaptcha.com",
+      "TlsIP": "cf-assets.hcaptcha.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+   {
+      "Name": "📱 🔴 VIVO TOP - PLANO NORMAL \nTODOS DDD 鉁岋笍 CL",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dse1wvvpviwel.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "dse1wvvpviwel.cloudfront.net",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "📱 🔴 VIVO TOP PLANO NORMAL \nTODOS DDD 鉁岋笍 CL2",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dse1wvvpviwel.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "dse1wvvpviwel.cloudfront.net",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
  {
       "Name": "🟡OI E VIVO PROXY 01 💜\n ES DDD 27,28",
       "FLAG": "oi",
