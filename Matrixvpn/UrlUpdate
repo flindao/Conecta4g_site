@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.62",
+  "Version": "1.0.63",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 🟡OI E VIVO PROXY 01 E 2  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 5",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -188,6 +188,16 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
+    {
+      "Name": "💙TIM 13 6Bank [SSL 1]",
+      "FLAG": "tim",
+      "Payload": "GET wss://blog.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "blog.c6bank.com.br",
+      "TlsIP": "104.16.236.16",
+      "ProxyIP": "104.16.236.16",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
 {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 01 📡 🔴",
       "FLAG": "vivo",
