@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.59",
+  "Version": "1.0.60",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 🟡OI E VIVO PROXY 01 E 2  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 5",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -137,16 +137,7 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-    {
-      "Name": "📱 VIVO TOP - TESTE \nTODOS DDD 鉁岋笍",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: voa1.sonicvpn.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "voa1.sonicvpn.xyz",
-      "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
+    
 {
        "Name": "📱 VIVO 28 📡 💜\nAM-PA DDD 11,91",
        "FLAG": "vivo",
@@ -177,16 +168,6 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
         },
-	{
-      "Name": "╰◕╰🪐TIM GAMES🪐◕╰◕",
-      "FLAG": "tim",
-      "Payload": "GET wss://cf-assets.hcaptcha.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "cf-assets.hcaptcha.com",
-      "TlsIP": "cf-assets.hcaptcha.com",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
 {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 01 📡 🔴",
       "FLAG": "vivo",
