@@ -1,6 +1,6 @@
 {
   "Version": "1.0.146",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO TIM 13 A 16 e CLARO 17  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO NORMAL E VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 6",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 🟣VIVO E TIM 2708🔵 e CLARO 17  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO NORMAL E VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 6",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
@@ -100,7 +100,17 @@
     }    
   ],
   "Networks": [
-   {
+ {
+      "Name": "🟣VIVO E TIM 2708🔵",
+      "FLAG": "vivo",
+      "Payload": "GET ws://duffandphelps.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "duffandphelps.com",
+      "TlsIP": "162.159.136.81",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+ {
 "Name": "🔴CLARO 17",
 "FLAG": "claro",
 "Payload": "GET ssl://player-api.new.livestream.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
