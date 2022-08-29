@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.148",
+  "Version": "1.0.147",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 🟣VIVO E TIM 2708🔵 e CLARO 17  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO NORMAL E VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 6",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -100,7 +100,7 @@
     }    
   ],
   "Networks": [
-{
+ {
       "Name": "🟣VIVO E TIM 2708🔵",
       "FLAG": "vivo",
       "Payload": "GET ws://duffandphelps.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
@@ -290,8 +290,18 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
-    {
-      "Name": "📱 🔴 VIVO TOP RAPIDO \nTODOS DDD 鉁岋笍",
+     {
+      "Name": "📱 🔴 VIVO TOP PLANO NORMAL RAPIDO \nTODOS DDD 鉁岋笍",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.56.6",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+	{
+      "Name": "📱 🔴 VIVO TOP PLANO NORMAL RAPIDO \nTODOS DDD 鉁岋笍",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -320,16 +330,6 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-    {
-      "Name": "VIVO NOVA 2",
-      "FLAG": "vivo",
-      "Payload": "GET wss://gracegardencounseling.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "gracegardencounseling.com",
-      "TlsIP": "172.67.165.43",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-},
  {
       "Name": "🟡OI E VIVO PROXY 01 💜\n ES DDD 27,28",
       "FLAG": "oi",
@@ -350,16 +350,7 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-    {
-      "Name": "📱 🔴 VIVO TOP RAPIDO \nTODOS DDD 鉁岋笍",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.56.6",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
+    
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 01 📡 🔴",
       "FLAG": "vivo",
@@ -862,7 +853,17 @@
           "Info": "Tlsws"
         },
 	 {
-      "Name": "📱 🔴 VIVO TOP RAPIDO \nTODOS DDD 鉁岋笍",
+      "Name": "📱 🔴 VIVO TOP PLANO NORMAL RAPIDO \nTODOS DDD 鉁岋笍",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.56.6",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+	{
+      "Name": "📱 🔴 VIVO TOP PLANO NORMAL RAPIDO \nTODOS DDD 鉁岋笍",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -886,16 +887,6 @@
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "d2jhq1qe8rcu4k.cloudfront.net",
-      "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-	{
-      "Name": "📱 🔴 VIVO TOP \nTODOS DDD 鉁岋笍 CL",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dse1wvvpviwel.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "dse1wvvpviwel.cloudfront.net",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
