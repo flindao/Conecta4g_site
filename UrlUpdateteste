@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.155",
+  "Version": "1.0.156",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -44,7 +44,7 @@
   ],
   "Servers": [
     {
-      "Name": "SERVIDOR 1 | PLUS",
+      "Name": "SERVIDOR 1 e 2| PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.startnetplus.xyz",
@@ -55,33 +55,22 @@
       "PASS": ""
     },
     {
-      "Name": "SERVIDOR 2 | PLUS",
+      "Name": "SERVIDOR 3 | PLUS",
       "TYPE": "premium ",
       "FLAG": "br.png",
-      "ServerIP": "br2.startnetplus.xyz",
-      "CheckUser": "http://198.50.166.245:5454/checkUser",
+      "ServerIP": "br3.startnetplus.xyz",
+      "CheckUser": "http://209.14.68.83:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
     },
     {
-      "Name": "SERVIDOR 2a| PLUS",
+      "Name": "SERVIDOR 4 | APENAS VIVO",
       "TYPE": "premium ",
       "FLAG": "br.png",
-      "ServerIP": "t2.startnetplus.xyz",
-      "CheckUser": "http://198.50.166.245:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-	{
-      "Name": "SERVIDOR 3 | PLUS",
-      "TYPE": "premium ",
-      "FLAG": "br.png",
-      "ServerIP": "br3.startnetplus.xyz",
-      "CheckUser": "http://209.14.68.83:5454/checkUser",
+      "ServerIP": "cl1.startnetplus.xyz",
+      "CheckUser": "http://209.14.71.212:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
