@@ -66,7 +66,7 @@
       "PASS": ""
     },
     {
-      "Name": "SERVIDOR 4 | PLUS",
+      "Name": "SERVIDOR 4 | APENAS VIVO",
       "TYPE": "premium ",
       "FLAG": "br.png",
       "ServerIP": "cl1.startnetplus.xyz",
@@ -311,7 +311,7 @@
       "Info": "Proxy"
     },
    {
-      "Name": "📱 🔴 VIVO TOP - PLANO NORMAL LENTO \nTODOS DDD 鉁岋笍 CL",
+      "Name": "📱 🔴 VIVO TOP - PLANO NORMAL \nTODOS DDD 鉁岋笍 CL",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: dse1wvvpviwel.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "dse1wvvpviwel.cloudfront.net",
@@ -321,7 +321,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "📱 🔴 VIVO TOP PLANO NORMAL LENTO \nTODOS DDD 鉁岋笍 CL2",
+      "Name": "📱 🔴 VIVO TOP PLANO NORMAL \nTODOS DDD 鉁岋笍 CL2",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "d2jhq1qe8rcu4k.cloudfront.net",
