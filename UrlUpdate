@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.147",
+  "Version": "1.0.148",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 🟣VIVO E TIM 2708🔵 e CLARO 17  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO NORMAL E VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 6",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -110,6 +110,26 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
+ {
+"Name": "🔴CLARO ",
+      "FLAG": "claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dse1wvvpviwel.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+       "SNI": "d3uyk7qgi7fgpo.cloudfront.net",
+      "TlsIP": "d3uyk7qgi7fgpo.cloudfront.net",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+      },
+      {
+"Name": "🔴CLARO 2 ",
+      "FLAG": "claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+       "SNI": "d3uyk7qgi7fgpo.cloudfront.net",
+      "TlsIP": "d3uyk7qgi7fgpo.cloudfront.net",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+      },
  {
 "Name": "🔴CLARO 17",
 "FLAG": "claro",
