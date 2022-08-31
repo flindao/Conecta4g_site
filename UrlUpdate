@@ -832,6 +832,16 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
+    { 
+      "Name": "📱𝗩𝗜𝗩𝗢 EASY 45 📡 🔴", 
+      "FLAG": "vivo", 
+      "Payload": "GET wss://premium-vivo360.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: waynet[crlf][crlf]", 
+      "SNI": "premium-vivo360.vivo.com.br", 
+      "TlsIP": "104.17.70.206", 
+      "ProxyIP": "", 
+      "ProxyPort": "443", 
+     "Info": "Tlsws" 
+    },
     {
       "Name": "📱VIVO BRASIL 1 📡 🔴\n",
       "FLAG": "vivo",
