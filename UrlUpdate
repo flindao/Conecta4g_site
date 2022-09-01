@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.152",
+  "Version": "1.0.153",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO MAIS OPCOES CLARO  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO NORMAL E VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 6",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -923,7 +923,7 @@
       "Info": "Proxy"
     },
    {
-      "Name": "📱 🔴 VIVO TOP - PLANO NORMAL LENTO \nTODOS DDD 鉁岋笍 CL",
+      "Name": "📱 🔴 VIVO TOP - PLANO NORMAL \nTODOS DDD 鉁岋笍 CL",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: dse1wvvpviwel.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "dse1wvvpviwel.cloudfront.net",
@@ -933,7 +933,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "📱 🔴 VIVO TOP PLANO NORMAL LENTO \nTODOS DDD 鉁岋笍 CL2",
+      "Name": "📱 🔴 VIVO TOP PLANO NORMAL \nTODOS DDD 鉁岋笍 CL2",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "d2jhq1qe8rcu4k.cloudfront.net",
