@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.66",
+  "Version": "1.0.67",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 🟡OI E VIVO PROXY 01 E 2  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 5",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -220,6 +220,16 @@
       "Name": "💙 TIM TOP 💙 (( 02 )) 📲🚀",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: d22v8vjun6xkeh.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "dbrdm98r5mymy.cloudfront.net",
+      "TlsIP": "18.67.0.50",
+      "ProxyIP": "18.67.0.50",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "💙 TIM TOP 💙 (( 03 )) 📲🚀",
+      "FLAG": "tim",
+      "Payload": "GET wss://[rotate=d2ld57tg0vath9.cloudfront.net;d22v8vjun6xkeh.cloudfront.net] HTTP/1.1[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
       "SNI": "dbrdm98r5mymy.cloudfront.net",
       "TlsIP": "18.67.0.50",
       "ProxyIP": "18.67.0.50",
