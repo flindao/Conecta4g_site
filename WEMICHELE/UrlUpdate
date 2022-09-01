@@ -64,29 +64,7 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    },
-       {
-      "Name": "SUPORTE 1 E 2 | PLUS",
-      "TYPE": "free",
-      "FLAG": "br.png",
-      "ServerIP": "br1.startnetplus.xyz",
-      "CheckUser": "http://209.14.137.66:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "suporte",
-      "PASS": "1234"
-   },
-     {
-      "Name": "SUPORTE 3 | PLUS",
-      "TYPE": "free",
-      "FLAG": "br.png",
-      "ServerIP": "br3.startnetplus.xyz",
-      "CheckUser": "http://209.14.68.83:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "suporte",
-      "PASS": "1234"
-    }
+       }
   ],
   "Networks": [
    {
@@ -98,7 +76,7 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-        
+         }
     }
   ]
 }
