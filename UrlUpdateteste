@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.161",
+  "Version": "1.0.162",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -140,6 +140,16 @@
       "TlsIP": "52.222.236.79",
       "ProxyIP": "",
       "ProxyPort": "80",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "🟣VIVO portalrecarga",
+      "FLAG": "vivo",
+      "Payload": "GET wss://portalrecarga.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "portalrecarga.vivo.com.br",
+      "TlsIP": "52.0.26.85",
+      "ProxyIP": "",
+      "ProxyPort": "22",
       "Info": "Tlsws"
     },
 {
