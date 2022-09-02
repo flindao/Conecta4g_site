@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.5",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n DEFINIDO OPCAO UNICA PARA VIVO E TIM",
+  "Version": "1.0.3",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO OPCAO 📱 VIVO 28 📡 💜\nAM-ES-PA DDD 11,27,91",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
   "EmailFeedback": "",
@@ -64,7 +64,8 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-       }
+    }
+     
   ],
   "Networks": [
    {
@@ -76,6 +77,16 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-         },
-    ],
+        }, 
+        {
+      "Name": "🟡OI TLS 10",
+      "FLAG": "oi",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.17.127.58",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }
+  ]
 }
