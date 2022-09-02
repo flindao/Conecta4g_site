@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.160",
+  "Version": "1.0.161",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -113,11 +113,11 @@
   "Networks": [
 
 {
-      "Name": "🟣VIVO portalrecarga 1 ",
+      "Name": "🟣VIVO recarga 1 ",
       "FLAG": "vivo",
-      "Payload": "GET wss://portalrecarga.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "portalrecarga.vivo.com.br",
-      "TlsIP": "104.16.56.6",
+      "Payload": "GET wss://recarga.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "recarga.vivo.com.br",
+      "TlsIP": "108.138.17.60",
       "ProxyIP": "",
       "ProxyPort": "80",
       "Info": "Tlsws"
@@ -125,9 +125,9 @@
     {
       "Name": "🟣VIVO portalrecarga 2 ",
       "FLAG": "vivo",
-      "Payload": "GET wss://portalrecarga.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "portalrecarga.vivo.com.br",
-      "TlsIP": "104.18.7.80",
+      "Payload": "GET wss://recarga-api.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "recarga-api.vivo.com.br",
+      "TlsIP": "52.67.8.147",
       "ProxyIP": "",
       "ProxyPort": "80",
       "Info": "Tlsws"
@@ -135,9 +135,9 @@
     {
       "Name": "🟣VIVO portalrecarga 3 ",
       "FLAG": "vivo",
-      "Payload": "GET wss://portalrecarga.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "portalrecarga.vivo.com.br",
-      "TlsIP": "104.18.6.80",
+      "Payload": "GET wss://shop.vivo.com.brr HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "shop.vivo.com.br",
+      "TlsIP": "52.222.236.79",
       "ProxyIP": "",
       "ProxyPort": "80",
       "Info": "Tlsws"
