@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.159",
+  "Version": "1.0.160",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -111,6 +111,37 @@
     }
   ],
   "Networks": [
+
+{
+      "Name": "🟣VIVO portalrecarga 1 ",
+      "FLAG": "vivo",
+      "Payload": "GET wss://portalrecarga.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "portalrecarga.vivo.com.br",
+      "TlsIP": "104.16.56.6",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "🟣VIVO portalrecarga 2 ",
+      "FLAG": "vivo",
+      "Payload": "GET wss://portalrecarga.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "portalrecarga.vivo.com.br",
+      "TlsIP": "104.18.7.80",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "🟣VIVO portalrecarga 3 ",
+      "FLAG": "vivo",
+      "Payload": "GET wss://portalrecarga.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "portalrecarga.vivo.com.br",
+      "TlsIP": "104.18.6.80",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Tlsws"
+    },
 {
       "Name": "💙 TIM TOP 💙 (( 01 )) 📲🚀",
       "FLAG": "tim",
@@ -128,76 +159,6 @@
       "SNI": "dbrdm98r5mymy.cloudfront.net",
       "TlsIP": "18.67.0.50",
       "ProxyIP": "18.67.0.50",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-{
-      "Name": "💙 TIM TOP 💙 (( 02 )) 📲🚀",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "dbrdm98r5mymy.cloudfront.net",
-      "TlsIP": "18.67.0.50",
-      "ProxyIP": "18.67.0.50",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "💙 TIM TOP 💙 (( 03 )) 📲🚀",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "clicktogocontrole.tim.com.br",
-      "TlsIP": "13.225.63.20",
-      "ProxyIP": "13.225.63.20",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "💙 TIM TOP 💙 (( 04 )) 📲🚀",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "contratecorp.tim.com.br",
-      "TlsIP": "13.225.63.119",
-      "ProxyIP": "13.225.63.119",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-     {
-      "Name": "💙 TIM TOP 💙 (( 05 )) 📲🚀",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "planoscontrole.tim.com.br",
-      "TlsIP": "13.225.63.68",
-      "ProxyIP": "13.225.63.68",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-     {
-      "Name": "💙 TIM TOP 💙 (( 06 )) 📲🚀",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "blackempresas.tim.com.br",
-      "TlsIP": "13.225.63.115",
-      "ProxyIP": "13.225.63.115",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "💙 TIM TOP 💙 (( 07 )) 📲🚀",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "novacontratecontrole.tim.com.br",
-      "TlsIP": "200.155.60.243",
-      "ProxyIP": "200.155.60.243",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "💙 TIM TOP 💙 (( 08 )) 📲🚀",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "timpre.tim.com.br",
-      "TlsIP": "108.156.83.62",
-      "ProxyIP": "108.156.83.62",
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
