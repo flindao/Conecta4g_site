@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.68",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 🟡OI E VIVO PROXY 01 E 2  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 5",
+  "Version": "1.0.69",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO NOVAS OPCOES PARA CLARO  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
   "EmailFeedback": "",
@@ -77,15 +77,66 @@
       "Info": "Tlsws"
       },
 {
-"Name": "🔴CLARO 17",
-"FLAG": "claro",
-"Payload": "GET ssl://player-api.new.livestream.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-"SNI": "player-api.new.livestream.com",
-"TlsIP": "player-api.new.livestream.com",
-"ProxyIP": "",
-"ProxyPort": "",
-"Info": "Tlsws"
-},
+     "Name": "🔴 CLARO NORMAL 1",
+      "FLAG": "Claro",
+      "Payload": "GET ws://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+      },
+	     {
+     "Name": "🔴 CLARO NORMAL 2",
+      "FLAG": "Claro",
+      "Payload": "GET ws://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
+      "ProxyIP": "www.andrewkingadvisorygroup.com",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+      },
+	  {
+   "Name": "🔴 CLARO NORMAL 3",
+   "FLAG": "claro",
+   "Payload": "GET wss://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: covid[crlf]Sec-Websocket-Extensions: superspeed[crlf]Connection: Keep-Alive[crlf][crlf]",
+   "SNI": "content.akross.com.br",
+   "TlsIP": "content.akross.com.br",
+   "ProxyIP": "",
+   "ProxyPort": "443",
+   "Info": "Tlsws"
+   },
+	  {
+      "Name": "🔴 CLARO NORMAL 4",
+      "FLAG": "claro",
+      "Payload": "GET wss://content.akross.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: VEM_BRABO[crlf][crlf]",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
+      "ProxyIP": "content.akross.com.br",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+	
+     {
+      "Name": "🔴 CLARO NORMAL 5",
+      "FLAG": "claro",
+      "Payload": "GET wss://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] CONNECT [host_port][protocol][crlf][crlf]",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
+      "ProxyIP": "104.21.55.8",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+      },
+	  {
+      "Name": "🔴 CLARO NORMAL 6",
+      "FLAG": "claro",
+      "Payload": "GET wss://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] CONNECT [host_port][protocol][crlf][crlf]",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
+      "ProxyIP": "199.60.103.228",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+      },
 { 
       "Name": "╰┈[☞>📱 🟣 VIVO 02luffy", 
       "FLAG": "vivo", 
