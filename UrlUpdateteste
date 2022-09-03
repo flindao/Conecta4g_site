@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.162",
+  "Version": "1.0.163",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -98,6 +98,17 @@
       "USER": "",
       "PASS": ""
     },
+     {
+      "Name": "SERVIDOR GOLDNET",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "cxgoldnet.online",
+      "CheckUser": "http://209.14.137.66:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
       {
      "Name": "SUPORTE | PLUS",
       "TYPE": "free",
@@ -111,7 +122,26 @@
     }
   ],
   "Networks": [
-
+ {
+      "Name": "📱 🔴 VIVO TOP - PLANO NORMAL 4 \nTODOS DDD 鉁岋笍 B1a \n Servidor GOLDNET",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1ch5wzwxb56fk.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "d1ch5wzwxb56fk.cloudfront.net",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+  {
+      "Name": "💙 TIM TOP 💙 (( 04 )) 📲🚀\n Servidor GOLDNET",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1ch5wzwxb56fk.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "dbrdm98r5mymy.cloudfront.net",
+      "TlsIP": "18.67.0.50",
+      "ProxyIP": "18.67.0.50",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
 {
       "Name": "🟣VIVO recarga 1 ",
       "FLAG": "vivo",
