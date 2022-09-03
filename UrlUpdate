@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.155",
+  "Version": "1.0.156",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO VIVO TOP - PLANO NORMAL PARA TODO BRASIL  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO NORMAL E VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 6",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -102,7 +102,7 @@
   "Networks": [
 
  {
-"Name": "🔴CLARO ",
+"Name": "🔴CLARO 1 \n Servidor 4",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: dse1wvvpviwel.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "d3uyk7qgi7fgpo.cloudfront.net",
@@ -112,7 +112,7 @@
       "Info": "Tlsws"
       },
       {
-"Name": "🔴CLARO 2 ",
+"Name": "🔴CLARO 2 \n Servidor 4",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "d3uyk7qgi7fgpo.cloudfront.net",
@@ -122,7 +122,7 @@
       "Info": "Tlsws"
       },
        {
-"Name": "🔴CLARO 3 ",
+"Name": "🔴CLARO 3 \n Servidor 4",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: dse1wvvpviwel.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "dnnsjdj5swfc3.cloudfront.net",
@@ -132,7 +132,7 @@
       "Info": "Tlsws"
       },
          {
-"Name": "🔴CLARO 4 ",
+"Name": "🔴CLARO 4 \n Servidor 4",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "dnnsjdj5swfc3.cloudfront.net",
