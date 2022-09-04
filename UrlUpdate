@@ -366,7 +366,7 @@
     {
       "Name": "💙 TIM TOP 💙 (( 04 )) 📲🚀\n Servidor 1 e 2",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2ozy6xj8vb40z.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3prwhfuxcdbae.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "dbrdm98r5mymy.cloudfront.net",
       "TlsIP": "18.67.0.50",
       "ProxyIP": "18.67.0.50",
