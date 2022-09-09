@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.156",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO VIVO TOP - PLANO NORMAL PARA TODO BRASIL  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO NORMAL E VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 6",
+  "Version": "1.0.157",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO CLARO 1 \n TODOS DDDS E SERVIDORES \n PARA TODO BRASIL  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO NORMAL E VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 6",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
@@ -100,9 +100,19 @@
     }    
   ],
   "Networks": [
+  {
+      "Name": "🔴CLARO 1 \n TODOS DDDS E SERVIDORES",
+      "FLAG": "claro",
+      "Payload": "GET wss://go.launchdarkly.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "go.launchdarkly.com",
+      "TlsIP": "go.launchdarkly.com",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
 
  {
-"Name": "🔴CLARO 1 \n Servidor 4",
+"Name": "🔴CLARO 2 \n Servidor 4",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: dse1wvvpviwel.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "d3uyk7qgi7fgpo.cloudfront.net",
@@ -112,7 +122,7 @@
       "Info": "Tlsws"
       },
       {
-"Name": "🔴CLARO 2 \n Servidor 4",
+"Name": "🔴CLARO 3 \n Servidor 4",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "d3uyk7qgi7fgpo.cloudfront.net",
@@ -122,7 +132,7 @@
       "Info": "Tlsws"
       },
        {
-"Name": "🔴CLARO 3 \n Servidor 4",
+"Name": "🔴CLARO 4 \n Servidor 4",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: dse1wvvpviwel.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "dnnsjdj5swfc3.cloudfront.net",
@@ -132,7 +142,7 @@
       "Info": "Tlsws"
       },
          {
-"Name": "🔴CLARO 4 \n Servidor 4",
+"Name": "🔴CLARO 5 \n Servidor 4",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "dnnsjdj5swfc3.cloudfront.net",
@@ -142,7 +152,7 @@
       "Info": "Tlsws"
       },  
        {
-"Name": "🔴CLARO 5 \n Servidor 1 e 2",
+"Name": "🔴CLARO 6 \n Servidor 1 e 2",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: d2ozy6xj8vb40z.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "dnnsjdj5swfc3.cloudfront.net",
@@ -152,7 +162,7 @@
       "Info": "Tlsws"
       },    
        {
-"Name": "🔴CLARO 6 \n Servidor 1 e 2 ",
+"Name": "🔴CLARO 7 \n Servidor 1 e 2 ",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
         "SNI": "d3uyk7qgi7fgpo.cloudfront.net",
@@ -160,7 +170,8 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
-      },      
+      },    
+    
 
 
    {
