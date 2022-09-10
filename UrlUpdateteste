@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.170",
+  "Version": "1.0.171",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM TOP 2 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -135,12 +135,12 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "📱 TIM TOP 2 SONIC \n TODOS DDD 鉁岋笍",
+      "Name": "📱 TIM TOP 2 SONIC IP \n TODOS DDD 鉁岋笍",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: d2ld57tg0vath9.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "d2ld57tg0vath9.cloudfront.net",
-      "TlsIP": "cdn2.webdamdb.com",
-      "ProxyIP": "cdn2.webdamdb.com",
+      "TlsIP": "13.227.125.42",
+      "ProxyIP": "13.227.125.42",
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
