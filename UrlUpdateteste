@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.168",
-  "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO OPCAO 𝗩𝗜𝗩𝗢 Direct \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
+  "Version": "1.0.169",
+  "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM TOP 2 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
   "EmailFeedback": "",
@@ -124,6 +124,16 @@
     }
   ],
   "Networks": [
+ {
+      "Name": "📱 TIM TOP 2 \n TODOS DDD 鉁岋笍",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1ch5wzwxb56fk.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "d1ch5wzwxb56fk.cloudfront.net",
+      "TlsIP": "cdn2.webdamdb.com",
+      "ProxyIP": "cdn2.webdamdb.com",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
  {
       "Name": "📱 🔴 VIVO TOP - PLANO NORMAL 4 \nTODOS DDD 鉁岋笍 B1a \n Servidor GOLDNET",
       "FLAG": "vivo",
