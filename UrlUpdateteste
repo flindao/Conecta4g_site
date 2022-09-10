@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.169",
+  "Version": "1.0.170",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM TOP 2 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -98,17 +98,17 @@
       "USER": "",
       "PASS": ""
     },
-     {
-      "Name": "SERVIDOR RYCKNET 2 | PLUS",
-      "TYPE": "premium ",
+      {
+      "Name": "SONIC VPN | PLUS",
+      "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "ryckecnet.tk",
-      "CheckUser": "http://209.14.71.210:5454/checkUser",
+      "ServerIP": "sonicvpn.xyz",
+      "CheckUser": "http://209.14.137.27:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    },
+         },
     
      
       {
@@ -125,10 +125,20 @@
   ],
   "Networks": [
  {
-      "Name": "📱 TIM TOP 2 \n TODOS DDD 鉁岋笍",
+      "Name": "📱 TIM TOP 1 \n TODOS DDD 鉁岋笍",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: d1ch5wzwxb56fk.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "d1ch5wzwxb56fk.cloudfront.net",
+      "TlsIP": "cdn2.webdamdb.com",
+      "ProxyIP": "cdn2.webdamdb.com",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "📱 TIM TOP 2 SONIC \n TODOS DDD 鉁岋笍",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2ld57tg0vath9.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "d2ld57tg0vath9.cloudfront.net",
       "TlsIP": "cdn2.webdamdb.com",
       "ProxyIP": "cdn2.webdamdb.com",
       "ProxyPort": "443",
