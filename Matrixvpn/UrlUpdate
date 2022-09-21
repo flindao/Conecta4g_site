@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.71",
+  "Version": "1.0.72",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO NOVAS OPCOES PARA CLARO  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -298,6 +298,16 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
+    {
+      "Name": "💙TIM 17 [SSL 1]",
+      "FLAG": "tim",
+      "Payload": "GET wss://auth-uat-us.surveymonkey.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "auth-uat-us.surveymonkey.com",
+      "TlsIP": "104.18.7.22",
+      "ProxyIP": "104.18.7.22",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
     {
       "Name": "💙TIM 13 6Bank [SSL 1]",
       "FLAG": "tim",
