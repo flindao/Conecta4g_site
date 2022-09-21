@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.160",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n JUNTAMOS OS SERVIDORES 1 2 E 3 EM UMA UNICA OPCAO \n TODOS DDDS E SERVIDORES \n PARA TODO BRASIL  \n TODAS OPCOES DA VIVO \n QUE TEM NO APLICATIVO ESTA FUNCIONANDO \n EM TODO BRASIL",
+  "Version": "1.0.161",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ATUALIZADOS OPCOES TIM 1, TIM 13 E 16 \n TODOS DDDS E SERVIDORES \n PARA TODO BRASIL  \n TODAS OPCOES DA VIVO \n QUE TEM NO APLICATIVO ESTA FUNCIONANDO \n EM TODO BRASIL",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
@@ -164,10 +164,10 @@
         }, 
       {
       "Name": "🔵TIM 1",
-      "FLAG": "tim",
-      "Payload": "GET wss://blog.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "blog.alura.com.br",
-      "TlsIP": "104.21.84.78",
+     "FLAG": "tim",
+      "Payload": "GET wss://auth-uat-us.surveymonkey.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "auth-uat-us.surveymonkey.com",
+      "TlsIP": "auth-uat-us.surveymonkey.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -315,9 +315,9 @@
       {
       "Name": "╰💙TIM 16 GAMES🪐◕╰◕",
       "FLAG": "tim",
-      "Payload": "GET wss://cf-assets.hcaptcha.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "cf-assets.hcaptcha.com",
-      "TlsIP": "cf-assets.hcaptcha.com",
+      "Payload": "GET wss://auth-uat-us.surveymonkey.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "auth-uat-us.surveymonkey.com",
+      "TlsIP": "auth-uat-us.surveymonkey.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
