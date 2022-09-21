@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.159",
+  "Version": "1.0.160",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n JUNTAMOS OS SERVIDORES 1 2 E 3 EM UMA UNICA OPCAO \n TODOS DDDS E SERVIDORES \n PARA TODO BRASIL  \n TODAS OPCOES DA VIVO \n QUE TEM NO APLICATIVO ESTA FUNCIONANDO \n EM TODO BRASIL",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -362,46 +362,47 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
-       {
-      "Name": "📱 🔴 VIVO TOP - PLANO NORMAL 1 \nTODOS DDD 鉁岋笍 CL \n Servidor 4",
+    {
+      "Name": "📱 🔴 VIVO TOP - PLANO NORMAL 1 \nTODOS DDD",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dse1wvvpviwel.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "dse1wvvpviwel.cloudfront.net",
-      "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "GET wss://fitality.gr/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "fitality.gr",
+      "TlsIP": "104.18.6.80",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
     },
     {
-      "Name": "📱 🔴 VIVO TOP PLANO NORMAL 2 \nTODOS DDD 鉁岋笍 CL2 \n Servidor 4",
+      "Name": "📱 🔴 VIVO TOP - PLANO NORMAL 2 \nTODOS DDD",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "d2jhq1qe8rcu4k.cloudfront.net",
-      "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "GET wss://vivoemdia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "vivoemdia.vivo.com.br",
+      "TlsIP": "104.18.6.80",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+        },
+    {
+      "Name": "📱 🔴 VIVO TOP - PLANO NORMAL 3 \nTODOS DDD",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vivoemdia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "vivoemdia.vivo.com.br",
+      "TlsIP": "104.18.7.80",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
     },
     {
-      "Name": "📱 🔴 VIVO TOP - PLANO NORMAL 3 \nTODOS DDD 鉁岋笍 B1 \n Servidor 1 e 2",
+    "Name": "📱 🔴 VIVO TOP - PLANO NORMAL 4 \nTODOS DDD",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2ozy6xj8vb40z.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "d2ozy6xj8vb40z.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyIP": "104.18.7.80",
       "ProxyPort": "80",
       "Info": "Proxy"
-    },
-    {
-      "Name": "📱 🔴 VIVO TOP - PLANO NORMAL 4 \nTODOS DDD 鉁岋笍 B1a \n Servidor 1 e 2",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2ozy6xj8vb40z.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "d2ozy6xj8vb40z.cloudfront.net",
-      "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
+    }, 
+    
  {
       "Name": "🟡OI E VIVO PROXY 01 💜\n ES DDD 27,28",
       "FLAG": "oi",
@@ -1362,6 +1363,46 @@
 "ProxyPort": "80", 
 "Info": "Proxy" 
 },   
+  {
+      "Name": "📱 🔴 VIVO TOP - PLANO NORMAL 1 \nTODOS DDD 鉁岋笍 CL \n Servidor 4",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dse1wvvpviwel.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "dse1wvvpviwel.cloudfront.net",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "📱 🔴 VIVO TOP PLANO NORMAL 2 \nTODOS DDD 鉁岋笍 CL2 \n Servidor 4",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2jhq1qe8rcu4k.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "d2jhq1qe8rcu4k.cloudfront.net",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "📱 🔴 VIVO TOP - PLANO NORMAL 3 \nTODOS DDD 鉁岋笍 B1 \n Servidor 1 e 2",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2ozy6xj8vb40z.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "d2ozy6xj8vb40z.cloudfront.net",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "📱 🔴 VIVO TOP - PLANO NORMAL 4 \nTODOS DDD 鉁岋笍 B1a \n Servidor 1 e 2",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2ozy6xj8vb40z.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "d2ozy6xj8vb40z.cloudfront.net",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
     
     
     
