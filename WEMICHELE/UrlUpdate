@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.7",
+  "Version": "1.0.8",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n UNIFICADO TODOS SERVIDORES EM UMA OPCAO APENAS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
@@ -78,6 +78,26 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
         }, 
+	 {
+      "Name": "💙TIM 13 6Bank [SSL 1]",
+      "FLAG": "tim",
+      "Payload": "GET wss://blog.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "blog.c6bank.com.br",
+      "TlsIP": "104.16.236.16",
+      "ProxyIP": "104.16.236.16",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+     {
+      "Name": "╰💙TIM 16 GAMES🪐◕╰◕",
+      "FLAG": "tim",
+      "Payload": "GET wss://auth-uat-us.surveymonkey.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "auth-uat-us.surveymonkey.com",
+      "TlsIP": "auth-uat-us.surveymonkey.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
 	{
       "Name": "📱 🔴 VIVO TOP - PLANO NORMAL 3 \nTODOS DDD 鉁岋笍 B1 \n Servidor 1 e 2",
       "FLAG": "vivo",
