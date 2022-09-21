@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.161",
+  "Version": "1.0.162",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ATUALIZADOS OPCOES TIM 1, TIM 13 E 16 \n TODOS DDDS E SERVIDORES \n PARA TODO BRASIL  \n TODAS OPCOES DA VIVO \n QUE TEM NO APLICATIVO ESTA FUNCIONANDO \n EM TODO BRASIL",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -322,6 +322,16 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
+    {
+      "Name": "💙TIM 17 [SSL 1]",
+      "FLAG": "tim",
+      "Payload": "GET wss://auth-uat-us.surveymonkey.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "auth-uat-us.surveymonkey.com",
+      "TlsIP": "104.18.7.22",
+      "ProxyIP": "104.18.7.22",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
    {
       "Name": "💙 TIM TOP 💙 (( 01 )) 📲🚀\n Servidor 4",
       "FLAG": "tim",
