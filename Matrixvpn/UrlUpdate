@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.70",
+  "Version": "1.0.71",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO NOVAS OPCOES PARA CLARO  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -288,12 +288,12 @@
       "Info": "Tlsws"
     },
         
-	{
-      "Name": "╰◕╰🪐TIM GAMES🪐◕╰◕",
+	 {
+      "Name": "╰💙TIM 16 GAMES🪐◕╰◕",
       "FLAG": "tim",
-      "Payload": "GET wss://cf-assets.hcaptcha.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "cf-assets.hcaptcha.com",
-      "TlsIP": "cf-assets.hcaptcha.com",
+      "Payload": "GET wss://auth-uat-us.surveymonkey.comm  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "auth-uat-us.surveymonkey.com",
+      "TlsIP": "auth-uat-us.surveymonkey.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
