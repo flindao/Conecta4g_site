@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.164",
+  "Version": "1.0.165",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ATUALIZADOS OPCOES TIM 1, TIM 13 E 16 \n TODOS DDDS E SERVIDORES \n PARA TODO BRASIL  \n TODAS OPCOES DA VIVO \n QUE TEM NO APLICATIVO ESTA FUNCIONANDO \n EM TODO BRASIL",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -353,6 +353,16 @@
       "Info": "Proxy"
   },
   {
+      "Name": "╰◕╰🥶TIM 20 HELP🥶",
+      "FLAG": "tim",
+      "Payload": "PROPPATCH wss://auth-uat-us.surveymonkey.com/ HTTP/1.200 [lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+      "SNI": "auth-uat-us.surveymonkey.com",
+      "TlsIP": "104.18.7.22",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+   {
       "Name": "╰◕╰🥶TIM 20 HELP🥶",
       "FLAG": "tim",
       "Payload": "PROPPATCH wss://auth-uat-us.surveymonkey.com/ HTTP/1.200 [lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
