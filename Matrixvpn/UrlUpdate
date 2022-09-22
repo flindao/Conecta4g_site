@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.73",
+  "Version": "1.0.74",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO NOVAS OPCOES PARA CLARO  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -309,6 +309,16 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
+    {         
+      "Name": "╰◕╰🥶TIM HELP🥶◕╰◕", 
+      "FLAG": "tim", 
+      "Payload": "PATCH HTTP/1.0 [crlf]Host: map.qq.com[crlf]", 
+      "SNI": "", 
+      "TlsIP": "", 
+      "ProxyIP": "209.14.137.27", 
+      "ProxyPort": "80", 
+      "Info": "Proxy"
+  },
 {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 01 📡 🔴",
       "FLAG": "vivo",
