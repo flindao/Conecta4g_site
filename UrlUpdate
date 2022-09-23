@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.165",
+  "Version": "1.0.166",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ATUALIZADOS OPCOES TIM 1, TIM 13 E 16 \n TODOS DDDS E SERVIDORES \n PARA TODO BRASIL  \n TODAS OPCOES DA VIVO \n QUE TEM NO APLICATIVO ESTA FUNCIONANDO \n EM TODO BRASIL",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -363,12 +363,22 @@
       "Info": "Tlsws"
    },
    {
-      "Name": "╰◕╰🥶TIM 20 HELP🥶",
+      "Name": "╰◕╰🥶TIM 21 HELP🥶",
       "FLAG": "tim",
       "Payload": "PROPPATCH wss://auth-uat-us.surveymonkey.com/ HTTP/1.200 [lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
       "SNI": "auth-uat-us.surveymonkey.com",
       "TlsIP": "104.18.7.22",
       "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "╰◕╰🥶TIM 22 e VIVO HELP🥶",
+      "FLAG": "tim",
+      "Payload": "GET wss://duvidas.ampli.com.br/hc/pt-br/ HTTP/1.1[crlf]Host: domínio [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "duvidas.ampli.com.br",
+      "TlsIP": "104.16.53.111",
+      "ProxyIP": "104.16.53.111",
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
