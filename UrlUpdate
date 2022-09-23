@@ -383,6 +383,16 @@
       "Info": "Tlsws"
    },
    {
+      "Name": "TIM 23 PRE TOP 2",
+      "FLAG": "tim.png",
+      "Payload": "GET wss://ajuda.c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "ajuda.c6bank.com.br",
+      "TlsIP": "ajuda.c6bank.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+   {
       "Name": "💙 TIM TOP 💙 (( 01 )) 📲🚀\n Servidor 4",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: dse1wvvpviwel.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
