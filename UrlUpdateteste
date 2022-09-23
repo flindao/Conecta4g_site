@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.173",
+  "Version": "1.0.174",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM TOP 2 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -154,6 +154,27 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
+        {
+"Name": "🔴CLARO 01 \n Servidor 1 e 2",
+     "FLAG": "claro",
+      "Payload": "GET http://bonuz.claro.com.br HTTP/1.0[crlf]Host: http://contaonline2.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+        "SNI": "", 
+      "TlsIP": "[app_host]", 
+      "ProxyIP": "", 
+      "ProxyPort": "80", 
+      "Info": "Direct" 
+      },  
+      {
+"Name": "🔴CLARO 02 \n Servidor 1 e 2",
+     "FLAG": "claro",
+      "Payload": "GET http://bonuz.claro.com.br HTTP/1.0[crlf]Host: http://contaonline2.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+        "SNI": "", 
+      "TlsIP": "", 
+      "ProxyIP": "[app_host]", 
+      "ProxyPort": "80", 
+      "Info": "Direct" 
+      },  
+    
     {
 "Name": "🔴CLARO 1 \n Servidor 1 e 2",
      "FLAG": "claro",
