@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.167",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ATUALIZADOS OPCOES TIM 1, TIM 13 E 16 E TIM 22 E VIVO \n TODOS DDDS E SERVIDORES \n PARA TODO BRASIL  \n TODAS OPCOES DA VIVO \n QUE TEM NO APLICATIVO ESTA FUNCIONANDO \n EM TODO BRASIL",
+  "Version": "1.0.168",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ATUALIZADOS OPCOES TIM 1, TIM 13 E 16 E TIM 22 E VIVO TIM 23\n TODOS DDDS E SERVIDORES \n PARA TODO BRASIL  \n TODAS OPCOES DA VIVO \n QUE TEM NO APLICATIVO ESTA FUNCIONANDO \n EM TODO BRASIL",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
@@ -375,7 +375,7 @@
     {
       "Name": "╰◕╰🥶TIM 22 e VIVO HELP🥶",
       "FLAG": "tim",
-      "Payload": "GET wss://duvidas.ampli.com.br/hc/pt-br/ HTTP/1.1[crlf]Host: domínio [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET wss://duvidas.ampli.com.br/hc/pt-br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "duvidas.ampli.com.br",
       "TlsIP": "104.16.53.111",
       "ProxyIP": "104.16.53.111",
