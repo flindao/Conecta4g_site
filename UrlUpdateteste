@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.174",
+  "Version": "1.0.175",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM TOP 2 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -114,6 +114,16 @@
 "ProxyPort": "80", 
 "Info": "Proxy" 
 },
+{
+      "Name": "💙TIM 14 6Bank mobile[SSL 1]",
+      "FLAG": "tim",
+      "Payload": "GET wss://mobile.c6bank.app// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "frontend-tim-recarga-client.m4u.com.br",
+      "TlsIP": "104.16.53.111",
+      "ProxyIP": "104.16.53.111",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
  {
       "Name": "📱 TIM TOP 1 \n TODOS DDD 鉁岋笍",
       "FLAG": "tim",
@@ -144,16 +154,7 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-  {
-      "Name": "💙 TIM TOP 💙 (( 04 )) 📲🚀\n Servidor GOLDNET",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1ch5wzwxb56fk.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "dbrdm98r5mymy.cloudfront.net",
-      "TlsIP": "18.67.0.50",
-      "ProxyIP": "18.67.0.50",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
+  
         {
 "Name": "🔴CLARO 01 \n Servidor 1 e 2",
      "FLAG": "claro",
