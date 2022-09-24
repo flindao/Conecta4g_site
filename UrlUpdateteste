@@ -1,6 +1,6 @@
 {
   "Version": "1.0.175",
-  "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM TOP 2 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
+  "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
   "EmailFeedback": "",
@@ -104,6 +104,16 @@
     }
   ],
   "Networks": [
+ {
+      "Name": "💙TIM 25 ",
+      "FLAG": "tim",
+      "Payload": "GET wss://http://232-whatsapp-grup-19863213.eren2.my.id/// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "http://232-whatsapp-grup-19863213.eren2.my.id/",
+      "TlsIP": "188.114.97.3",
+      "ProxyIP": "188.114.97.3",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
  { 
 "Name": "╰◕╰🕺TIM DIRECT🕺◕╰◕", 
 "FLAG": "tim", 
