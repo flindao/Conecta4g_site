@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.177",
+  "Version": "1.0.178",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -104,6 +104,16 @@
     }
   ],
   "Networks": [
+{
+      "Name": "CLARO-2", 
+      "FLAG": "claro", 
+      "Payload": "CONNECT [app_host] HTTP/1.1[crlf][crlf]GET http://api.commandcenter.claro.com.br/ [protocol][crlf]Host: api.commandcenter.claro.com.br[crlf]Upgrade: websocket[crlf][crlf]", 
+      "SNI": "", 
+      "TlsIP": "[app_host]", 
+      "ProxyIP": "", 
+      "ProxyPort": "80", 
+      "Info": "Direct" 
+    }, 
 {
       "Name": "CLARO-3", 
       "FLAG": "claro", 
