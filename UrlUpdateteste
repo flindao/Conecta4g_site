@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.181",
+  "Version": "1.0.182",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -105,16 +105,7 @@
   ],
   "Networks": [
 
- {
-      "Name": "CLARO-10",
-      "FLAG": "claro",
-      "Payload": "GET https://flex.claro.com.br/HTTP/1.0[crlf][app_host]://flex.claro.com.br/[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "kfml.online",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
+ 
 {
       "Name": "CLARO 01 SERVIDOR 1 E 2",
       "FLAG": "claro",
@@ -211,7 +202,7 @@
       "Payload": "GET https://flex.claro.com.br/HTTP/1.0[crlf][app_host]://flex.claro.com.br/[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "129.148.36.18",
+      "ProxyIP": "kfml.online",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
