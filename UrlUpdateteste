@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.176",
+  "Version": "1.0.177",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -104,7 +104,27 @@
     }
   ],
   "Networks": [
- {
+{
+      "Name": "CLARO-3", 
+      "FLAG": "claro", 
+      "Payload": "GET / HTTP/1.1[crlf]Host:api.commandcenter.claro.com.br [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]", 
+      "SNI": "", 
+      "TlsIP": "[app_host]", 
+      "ProxyIP": "", 
+      "ProxyPort": "80", 
+      "Info": "Direct" 
+    }, 
+{
+      "Name": "CLARO-4", 
+      "FLAG": "claro", 
+      "Payload": "GET http://api.commandcenter.claro.com.br/ HTTP/1.0[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]", 
+      "SNI": "", 
+      "TlsIP": "[app_host]", 
+      "ProxyIP": "", 
+      "ProxyPort": "80", 
+      "Info": "Direct" 
+    }, 
+{
       "Name": "CLARO-5", 
       "FLAG": "claro", 
       "Payload": "GET http://m.claro.com.br HTTP/1.0[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]", 
