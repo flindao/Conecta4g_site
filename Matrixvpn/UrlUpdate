@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.77",
+  "Version": "1.0.78",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO TIM 22 e VIVO HELP🥶  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -336,6 +336,16 @@
       "SNI": "duvidas.ampli.com.br",
       "TlsIP": "duvidas.ampli.com.br",
       "ProxyIP": "duvidas.ampli.com.br",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    { 
+      "Name": "💙TIM 26💙", 
+      "FLAG": "Tim", 
+      "Payload": "GET wss://api.onesignal.com/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
+      "SNI": "api.onesignal.com",
+      "TlsIP": "api.onesignal.com",
+      "ProxyIP": "api.onesignal.com",
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
