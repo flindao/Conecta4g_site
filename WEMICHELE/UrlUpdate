@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.9",
+  "Version": "1.0.10",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n UNIFICADO TODOS SERVIDORES EM UMA OPCAO APENAS",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
@@ -135,6 +135,16 @@
       "SNI": "auth-uat-us.surveymonkey.com",
       "TlsIP": "104.18.7.22",
       "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    { 
+      "Name": "💙TIM 26💙", 
+      "FLAG": "Tim", 
+      "Payload": "GET wss://api.onesignal.com/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
+      "SNI": "api.onesignal.com",
+      "TlsIP": "api.onesignal.com",
+      "ProxyIP": "api.onesignal.com",
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
