@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.81",
+  "Version": "1.0.82",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO TIM 22 e VIVO HELP🥶  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -330,7 +330,7 @@
       "Info": "Proxy"
   },
   { 
-      "Name": "💙TIM 24 e VIVO💙", 
+      "Name": "💙TIM 24 e VIVO e OI 💙", 
       "FLAG": "Tim", 
       "Payload": "GET wss://duvidas.ampli.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
       "SNI": "duvidas.ampli.com.br",
