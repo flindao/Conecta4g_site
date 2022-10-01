@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.183",
+  "Version": "1.0.184",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -107,8 +107,7 @@
 {
       "Name": "💙 TIM TOP 💙 (( 01 )) 📲🚀\n ",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: ws1.sonicvpn.xyz
-d254efw2ovfm83.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: brtop.sonicvpn.xyzd1c96ozrgl2rlz.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "13.226.52.28",
       "ProxyIP": "13.226.52.28",
@@ -118,8 +117,7 @@ d254efw2ovfm83.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[c
 {
       "Name": "💙 TIM TOP 💙 (( 02 )) 📲🚀\n ",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: ws2.sonicvpn.xyz
-d2ej2t0q1xdea5.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: brtop1.sonicvpn.xyzd1vv3pvggat0iv.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "cdn-prod.securiti.ai",
       "TlsIP": "108.156.83.98",
       "ProxyIP": "108.156.83.98",
@@ -129,10 +127,8 @@ d2ej2t0q1xdea5.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[c
  {
       "Name": "📱 🔴 VIVO TOP - PLANO NORMAL \nTODOS DDD 鉁岋笍 CL",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: ws1.sonicvpn.xyz
-d254efw2ovfm83.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "ws1.sonicvpn.xyz
-d254efw2ovfm83.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: brtop.sonicvpn.xyzd1c96ozrgl2rlz.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "brtop.sonicvpn.xyzd1c96ozrgl2rlz.cloudfront.net",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
