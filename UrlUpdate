@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.173",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ATUALIZADOS OPCOES TIM 1, ATE A TIM 26 para ddd 21\n TODOS DDDS E SERVIDORES \n PARA TODO BRASIL  \n TODAS OPCOES DA VIVO \n QUE TEM NO APLICATIVO ESTA FUNCIONANDO \n EM TODO BRASIL",
-  "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdate",
+  "Version": "1.0.174",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n SERVIDORES UNIFICADOS EM UMA UNICA OPCAO \n TIM E VIVO FUNCIONANDO \n  EM TODO BRASIL",
+  "UrlUpdate": "https://bitbin.it/tVlqbveS/raw/",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
   "UrlContato": "http://painel.startnetplus.xyz/",
@@ -44,7 +44,7 @@
   ],
   "Servers": [
     {
-      "Name": "SERVIDOR 1 e 2 e 3",
+      "Name": "SERVIDOR 1 e 2 e 3 e 4 ",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.startnetplus.xyz",
@@ -54,17 +54,7 @@
       "USER": "",
       "PASS": ""
     },
-       {
-      "Name": "SERVIDOR 4 | \n Todas Operadoras",
-      "TYPE": "premium ",
-      "FLAG": "br.png",
-      "ServerIP": "cl1.startnetplus.xyz",
-      "CheckUser": "http://209.14.71.212:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
+     
       {
       "Name": "SUPORTE 1",
       "TYPE": "free",
