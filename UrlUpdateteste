@@ -104,36 +104,7 @@
     }
   ],
   "Networks": [
-{
-      "Name": "💙 TIM TOP 💙 (( 01 )) 📲🚀\n ",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1c96ozrgl2rlz.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "13.226.52.28",
-      "ProxyIP": "13.226.52.28",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-{
-      "Name": "💙 TIM TOP 💙 (( 02 )) 📲🚀\n ",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1vv3pvggat0iv.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "cdn-prod.securiti.ai",
-      "TlsIP": "108.156.83.98",
-      "ProxyIP": "108.156.83.98",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
- {
-      "Name": "📱 🔴 VIVO TOP - PLANO NORMAL \nTODOS DDD 鉁岋笍 CL",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1c96ozrgl2rlz.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "d1c96ozrgl2rlz.cloudfront.net",
-      "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
+
 {
       "Name": "CLARO 01 SERVIDOR 1 E 2",
       "FLAG": "claro",
