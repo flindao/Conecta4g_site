@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.95",
+  "Version": "1.0.96",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO TIM 22 e VIVO HELP🥶  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -372,6 +372,16 @@
       "Name": "💙 TIM TOP 💙 (( 03 )) 📲🚀",
      "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: dg12l45bmwog5.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "contratecontrole.tim.com.br",
+      "TlsIP": "104.16.51.111",
+      "ProxyIP": "104.16.51.111",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "💙 TIM TOP 💙 (( 04 )) 📲🚀",
+     "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1nymx4j019glf.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "contratecontrole.tim.com.br",
       "TlsIP": "104.16.51.111",
       "ProxyIP": "104.16.51.111",
