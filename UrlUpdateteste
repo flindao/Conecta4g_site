@@ -107,14 +107,13 @@
 
 {
             "Name": "CLARO || 01 ||",
-            "Payload": "GET wss://cdnclaro2.wooza.com.br HTTP/1.1[crlf]Host: SBR_AZ[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+	    "FLAG": "claro",
+            "Payload": "GET wss://cdnclaro2.wooza.com.br HTTP/1.1[crlf]Host:[app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "Sni": "cdnclaro2.wooza.com.br",
-            "Tlsip": "cdnclaro2.wooza.com.br",
+            "TlsIP": "cdnclaro2.wooza.com.br",
             "ProxyIP": "cdnclaro2.wooza.com.br",
             "ProxyPort": "433",
-            "CloudFront": "",
-            "CloudAZ": "",
-            "tunnelType": "4"
+            "Info": "Tlsws"
         },
 {
       "Name": "CLARO 01 SERVIDOR 1 E 2",
