@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.186",
+  "Version": "1.0.187",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -105,6 +105,17 @@
   ],
   "Networks": [
 
+{
+            "Name": "CLARO || 01 ||",
+            "Payload": "GET wss://cdnclaro2.wooza.com.br HTTP/1.1[crlf]Host: SBR_AZ[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Sni": "cdnclaro2.wooza.com.br",
+            "Tlsip": "cdnclaro2.wooza.com.br",
+            "ProxyIP": "cdnclaro2.wooza.com.br",
+            "ProxyPort": "433",
+            "CloudFront": "",
+            "CloudAZ": "",
+            "tunnelType": "4"
+        },
 {
       "Name": "CLARO 01 SERVIDOR 1 E 2",
       "FLAG": "claro",
