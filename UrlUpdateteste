@@ -111,7 +111,27 @@
             "Payload": "GET wss://support.giphy.com HTTP/1.1[crlf]Host:[app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "Sni": "support.giphy.com",
             "TlsIP": "support.giphy.com",
-            "ProxyIP": "support.giphy.com",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Tlsws"
+        },
+	{
+            "Name": "CLARO || 01 ||",
+	    "FLAG": "claro",
+            "Payload": "GET wss://engineering.giphy.com HTTP/1.1[crlf]Host:[app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Sni": "engineering.giphy.com",
+            "TlsIP": "engineering.giphy.com",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Tlsws"
+        },
+	{
+            "Name": "CLARO || 01 ||",
+	    "FLAG": "claro",
+            "Payload": "GET wss://arts.giphy.com HTTP/1.1[crlf]Host:[app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Sni": "arts.giphy.com",
+            "TlsIP": "arts.giphy.com",
+            "ProxyIP": "",
             "ProxyPort": "",
             "Info": "Tlsws"
         },
