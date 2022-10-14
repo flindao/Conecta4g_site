@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.96",
+  "Version": "1.0.97",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO TIM 22 e VIVO HELP🥶  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -258,6 +258,16 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
  },   
+ { 
+      "Name": "╰┈[☞>📱 🟣 VIVO NOVA 3", 
+      "FLAG": "vivo", 
+      "Payload": "GET wss:/vigia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]", 
+      "SNI": "vigia.vivo.com.br", 
+      "TlsIP": "vigia.vivo.com.br", 
+      "ProxyIP": "", 
+      "ProxyPort": "443", 
+      "Info": "Tlsws"
+},
 {
        "Name": "📱 VIVO 28 📡 💜\nAM-PA DDD 11,91",
        "FLAG": "vivo",
