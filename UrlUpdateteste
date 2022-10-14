@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.187",
+  "Version": "1.0.188",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -112,7 +112,7 @@
             "Sni": "cdnclaro2.wooza.com.br",
             "TlsIP": "cdnclaro2.wooza.com.br",
             "ProxyIP": "cdnclaro2.wooza.com.br",
-            "ProxyPort": "433",
+            "ProxyPort": "",
             "Info": "Tlsws"
         },
 {
