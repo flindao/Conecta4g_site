@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.192",
+  "Version": "1.0.193",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -131,6 +131,16 @@
             "Payload": "GET wss://arts.giphy.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "Sni": "arts.giphy.com",
             "TlsIP": "arts.giphy.com",
+            "ProxyIP": "141.193.213.11",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+	{
+            "Name": "CLARO || 04 ||",
+	    "FLAG": "claro",
+            "Payload": "GET wss://arts.giphy.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "Sni": "arts.giphy.com",
+            "TlsIP": "141.193.213.11",
             "ProxyIP": "",
             "ProxyPort": "443",
             "Info": "Tlsws"
