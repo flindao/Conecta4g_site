@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.191",
+  "Version": "1.0.192",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -112,7 +112,7 @@
             "Sni": "support.giphy.com",
             "TlsIP": "support.giphy.com",
             "ProxyIP": "",
-            "ProxyPort": "",
+            "ProxyPort": "443",
             "Info": "Tlsws"
         },
 	{
@@ -122,7 +122,7 @@
             "Sni": "engineering.giphy.com",
             "TlsIP": "engineering.giphy.com",
             "ProxyIP": "",
-            "ProxyPort": "",
+            "ProxyPort": "443",
             "Info": "Tlsws"
         },
 	{
@@ -132,7 +132,7 @@
             "Sni": "arts.giphy.com",
             "TlsIP": "arts.giphy.com",
             "ProxyIP": "",
-            "ProxyPort": "",
+            "ProxyPort": "443",
             "Info": "Tlsws"
         },
 {
