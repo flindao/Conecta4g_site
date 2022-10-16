@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.193",
+  "Version": "1.0.194",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -104,7 +104,76 @@
     }
   ],
   "Networks": [
-
+ {
+      "Name": "╰┈[☞>📱𝗖𝗟𝗔𝗥𝗢 - 1 📡 🚀🔴",
+      "FLAG": "claro",
+      "Payload": "GET http://m.claro.com.br HTTP/1.0[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "[app_host]",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+    {
+      "Name": "╰┈[☞>📱𝗖𝗟𝗔𝗥𝗢 - 2 📡 🚀🔴",
+      "FLAG": "claro",
+      "Payload": "GET http://ecob.claro.com.br HTTP/1.0[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "[app_host]",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+    {
+      "Name": "╰┈[☞>📱𝗖𝗟𝗔𝗥𝗢 - 3 📡 🚀🔴",
+      "FLAG": "claro",
+      "Payload": "GET http://bonuz.claro.com.br HTTP/1.0[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "[app_host]",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+    {
+      "Name": "╰┈[☞>📱𝗖𝗟𝗔𝗥𝗢 - 4 📡 🚀🔴",
+      "FLAG": "claro",
+      "Payload": "GET http://api.commandcenter.claro.com.br HTTP/1.0[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "[app_host]",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+    {
+      "Name": "╰┈[☞>📱𝗖𝗟𝗔𝗥𝗢 - 5 📡 🚀🔴",
+      "FLAG": "claro",
+      "Payload": "GET http://minhaclaroresidencial.claro.com.br HTTP/1.0[crlf]Host: [app_host]http://minhaclaroresidencial.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱𝗖𝗟𝗔𝗥𝗢 - 6 📡 🚀🔴",
+      "FLAG": "claro",
+      "Payload": "GET https://flex.claro.com.br/HTTP/1.0[crlf][app_host]://flex.claro.com.br/[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "kfml.online",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱𝗖𝗟𝗔𝗥𝗢 - 7 📡 🚀🔴",
+      "FLAG": "claro",
+      "Payload": "GET https://arts.giphy.com/HTTP/1.0[crlf][app_host]://arts.giphy.com/[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "141.193.213.11",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
 {
             "Name": "CLARO || 01 ||",
 	    "FLAG": "claro",
