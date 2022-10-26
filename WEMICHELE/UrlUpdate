@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.12",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n UNIFICADO TODOS SERVIDORES EM UMA OPCAO APENAS",
+  "Version": "1.0.13",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n SEPARADOS SERVIDORES PARA MELHORAR DESEMPENHO DO SISTEMA",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
   "EmailFeedback": "",
@@ -43,8 +43,9 @@
     }
   ],
   "Servers": [
-    {
-      "Name": "SERVIDOR 1 e 2 e 3",
+        {
+      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.188 ] \n   
+       SERVIDORES 1 A 2 | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.startnetplus.xyz",
@@ -54,12 +55,13 @@
       "USER": "",
       "PASS": ""
     },
-    {
-      "Name": "Suporte 1 ",
-      "TYPE": "premium ",
+{
+      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.188 ] \n   
+       SERVIDORES 3 A 4 | PLUS",
+      "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "br3.startnetplus.xyz",
-      "CheckUser": "http://209.14.68.83:5454/checkUser",
+      "ServerIP": "br5.startnetplus.xyz",
+      "CheckUser": "http://15.235.35.95:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
