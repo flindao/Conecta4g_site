@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.56",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 🟡OI E VIVO PROXY 01 E 2  \n E ORGANIZADO PRIMEIRAS \n OPCOES PARA VIVO EASY \n E ADICIONADO VIVO BRASIL DE 1 A 5",
+  "Version": "1.0.57",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL \n ADICIONADO OPÇÕES VIVO ON 01 ✅ E 02 \n PARA REGIÕES QUE HOUVE QUEDA \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlSms",
   "EmailFeedback": "",
@@ -59,6 +59,27 @@
   ],
   "Networks": [
   
+   {
+      "Name": "VIVO ON 01 ✅",
+      "FLAG": "vivo",
+      "Payload": "GET wss://ffsupportbd.garena.com/ HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "ffsupportbd.garena.com",
+      "TlsIP": "",
+      "ProxyIP": "ffsupportbd.garena.com",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },  
+   {
+      "Name": "VIVO ON 02 ✅✅",
+      "FLAG": "vivo",
+      "Payload": "GET wss://support.counterpath.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "support.counterpath.com",
+      "TlsIP": "104.16.51.111",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"  
+   },
+
    {
      "Name": "╰📱 🔴 VIVO TOP 1 \nTODOS DDD 鉁岋笍 CL",
       "FLAG": "vivo",
