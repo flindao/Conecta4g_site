@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.195",
+  "Version": "1.0.196",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -104,6 +104,16 @@
     }
   ],
   "Networks": [
+ {
+      "Name": "🟣VIVO 26102022 ",
+      "FLAG": "vivo",
+      "Payload": "GET wss://ffsupportbd.garena.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "ffsupportbd.garena.com",
+      "TlsIP": "104.16.56.6",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Tlsws"
+    },
  {
       "Name": "╰┈[☞>📱𝗖𝗟𝗔𝗥𝗢 - 1a 📡 🚀🔴",
       "FLAG": "claro",
