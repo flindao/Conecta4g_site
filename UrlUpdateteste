@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.197",
+  "Version": "1.0.198",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -115,11 +115,31 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 26102022 📡 🟢",
+      "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 26102022 B📡 🟢",
       "FLAG": "vivo",
       "Payload": "GET wss://ffsupportbd.garena.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "ffsupportbd.garena.com",
-      "TlsIP": "ffsupportbd.garena.com",
+      "TlsIP": "104.16.56.6",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 26102022 C📡 🟠",
+      "FLAG": "vivo",
+      "Payload": "GET wss://ffsupportbd.garena.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "ffsupportbd.garena.com",
+      "TlsIP": "104.16.56.6",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 26102022 D📡 🟠",
+      "FLAG": "vivo",
+      "Payload": "GET wss://ffsupportbd.garena.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "ffsupportbd.garena.com",
+      "TlsIP": "104.16.56.6",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
