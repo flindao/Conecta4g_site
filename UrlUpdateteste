@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.200",
+  "Version": "1.0.201",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -183,6 +183,26 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
+    },
+    {
+      "Name": "❤️ CLARO ON 3 💜VIVO",
+      "FLAG": "Claro",
+      "Payload": "GET / HTTP/1.0[crlf]Host: 5a0a5265d7.10003.sucurifirewall.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "office365.claro.com.br",
+      "TlsIP": "office365.claro.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "╰┈[☞>📱𝗖𝗟𝗔𝗥𝗢 - 4 📡 🚀🔴",
+      "FLAG": "claro",
+      "Payload": "GET / HTTP/1.0[crlf]Host: 5a0a5265d7.10003.sucurifirewall.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "office365.claro.com.br",
+      "TlsIP": "",
+      "ProxyIP": "office365.claro.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
     },
  {
       "Name": "╰┈[☞>📱𝗖𝗟𝗔𝗥𝗢 - 1a 📡 🚀🔴",
