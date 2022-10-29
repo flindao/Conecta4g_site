@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.202",
+  "Version": "1.0.203",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -48,6 +48,17 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.startnetplus.xyz",
+      "CheckUser": "http://209.14.70.59:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+     {
+      "Name": "SERVIDOR 1 e 2 ",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "cl1.startnetplus.xyz",
       "CheckUser": "http://209.14.70.59:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -104,6 +115,16 @@
     }
   ],
   "Networks": [
+ {
+      "Name": "📱 VIVO TOP \nTODOS DDD 鉁岋笍",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d37w8o71rec56t.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "d37w8o71rec56t.cloudfront.net",
+      "TlsIP": "",
+      "ProxyIP": "planosvivointernet.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
  {
       "Name": "VIVO ON ✅",
       "FLAG": "vivo",
