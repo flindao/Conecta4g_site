@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.57",
+  "Version": "1.0.58",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL \n ADICIONADO OPÇÕES VIVO ON 01 ✅ E 02 \n PARA REGIÕES QUE HOUVE QUEDA \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlSms",
@@ -130,6 +130,57 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+    {
+       "Name": "💜 VIVO 🅑🅛🅤🅔 01 📡 ",
+       "FLAG": "vivo",
+          "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "SNI": "unpkg.com",
+          "TlsIP": "104.16.126.175",
+          "ProxyIP": "",
+          "ProxyPort": "443",
+          "Info": "Tlsws"
+        }, 
+{
+       "Name": "💜 VIVO 🅑🅛🅤🅔 02 📡 ",
+       "FLAG": "vivo",
+          "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "SNI": "unpkg.com",
+          "TlsIP": "104.16.122.175",
+          "ProxyIP": "",
+          "ProxyPort": "443",
+          "Info": "Tlsws"
+        }, 
+{
+       "Name": "💜 VIVO 🅑🅛🅤🅔 03 📡 ",
+       "FLAG": "vivo",
+          "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "SNI": "unpkg.com",
+          "TlsIP": "104.16.123.175",
+          "ProxyIP": "",
+          "ProxyPort": "443",
+          "Info": "Tlsws"
+        }, 
+{
+       "Name": "💜 VIVO 🅑🅛🅤🅔 04 📡 ",
+       "FLAG": "vivo",
+          "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "SNI": "unpkg.com",
+          "TlsIP": "104.16.124.175",
+          "ProxyIP": "",
+          "ProxyPort": "443",
+          "Info": "Tlsws"
+        }, 
+{
+       "Name": "💜 VIVO 🅑🅛🅤🅔 05 📡 ",
+       "FLAG": "vivo",
+          "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "SNI": "unpkg.com",
+          "TlsIP": "104.16.125.175",
+          "ProxyIP": "",
+          "ProxyPort": "443",
+          "Info": "Tlsws"
+        },  
+
    {
       "Name": "OI E VIVO PROXY 01 💜\n ES DDD 27,28",
       "FLAG": "oi",
