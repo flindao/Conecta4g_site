@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.106",
+  "Version": "1.0.107",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO TIM 22 e VIVO HELP🥶  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -248,6 +248,66 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+    {
+            "Name": "📱 VIVO TOP 3 \nTODOS DDD 鉁岋笍",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d1fs0yeih105bc.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "108.139.166.122",
+            "ProxyIP": "108.139.166.122",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "📱 VIVO TOP 4 \nTODOS DDD 鉁岋笍",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d1fs0yeih105bc.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "vivo.masterrp.online",
+            "ProxyIP": "vivo.masterrp.online",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "📱 VIVO TOP 5 \nTODOS DDD 鉁岋笍",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: d1fs0yeih105bc.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "recarga.vivo.com.br",
+            "TlsIP": "recarga.vivo.com.br",
+            "ProxyIP": "recarga.vivo.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "📱 VIVO TOP 6 \nTODOS DDD 鉁岋笍",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: d1fs0yeih105bc.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "live.vivo.com.br",
+            "TlsIP": "live.vivo.com.br",
+            "ProxyIP": "live.vivo.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "📱 VIVO TOP 7 \nTODOS DDD 鉁岋笍",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: d1fs0yeih105bc.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "vivo.masterrp.online",
+            "TlsIP": "vivo.masterrp.online",
+            "ProxyIP": "vivo.masterrp.online",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "📱 VIVO TOP 8 \nTODOS DDD 鉁岋笍",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d1fs0yeih105bc.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "52.85.213.21",
+            "ProxyIP": "52.85.213.21",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        }
        
  {
       "Name": "VIVO NOVA 2",
