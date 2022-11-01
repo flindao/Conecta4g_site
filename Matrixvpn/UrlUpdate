@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.104",
+  "Version": "1.0.105",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO TIM 22 e VIVO HELP🥶  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -440,6 +440,16 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
+   {
+"Name": "💙TIM 34 e 📱 🟣  VIVO /n antiga╰◕╰🍻 TIM TURBO 🍻◕╰◕",
+"FLAG": "tim",
+"Payload": "GET wss://bam.nr-data.net  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+"SNI": "bam.nr-data.net",
+"TlsIP": "bam.nr-data.net",
+"ProxyIP": "",
+"ProxyPort": "443",
+"Info": "Tlsws"
+},
 {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 01 📡 🔴",
       "FLAG": "vivo",
@@ -1142,16 +1152,7 @@
 "ProxyPort": "443",
 "Info": "Tlsws"
 },
-{
-"Name": "╰◕╰🍻 TIM TURBO 🍻◕╰◕",
-"FLAG": "tim",
-"Payload": "GET wss://bam.nr-data.net  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-"SNI": "bam.nr-data.net",
-"TlsIP": "bam.nr-data.net",
-"ProxyIP": "",
-"ProxyPort": "443",
-"Info": "Tlsws"
-},
+
 {
 "Name": "╰◕╰🌏 TIM CONECTADO 🌏◕╰◕",
 "FLAG": "tim",
