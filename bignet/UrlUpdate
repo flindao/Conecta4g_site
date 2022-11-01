@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.20",
+  "Version": "1.0.21",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL \n ADICIONADO OPÇÕES VIVO ON 01 ✅ E 02 \n PARA REGIÕES QUE HOUVE QUEDA \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/bignet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/bignet/UrlSms",
@@ -179,6 +179,16 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
+   {
+  "Name": "💙TIM 33",
+      "FLAG": "vivo",
+      "Payload": "GET wss://gitlab.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "gitlab.com",
+      "TlsIP": "gitlab.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+      },
    {
       "Name": "❤️ CLARO ON 1 🔵TIM 💜VIVO",
       "FLAG": "Claro",
