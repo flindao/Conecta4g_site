@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.107",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO TIM 22 e VIVO HELP🥶  \n",
+  "Version": "1.0.108",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 💙TIM 35💙 E 💙TIM 36💙  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
   "EmailFeedback": "",
@@ -520,6 +520,26 @@
 "ProxyPort": "443",
 "Info": "Tlsws"
 },
+{ 
+      "Name": "💙TIM 35💙 𝗦𝗔𝗟𝗗𝗢 𝗘𝗫𝗣𝗜𝗥𝗔𝗗𝗢", 
+      "FLAG": "Tim", 
+      "Payload": "GET wss://auth-staging-us.surveymonkey.com/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
+      "SNI": "auth-staging-us.surveymonkey.com",
+      "TlsIP": "auth-staging-us.surveymonkey.com",
+      "ProxyIP": "auth-staging-us.surveymonkey.com",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+   { 
+      "Name": "💙TIM 36💙 𝗦𝗔𝗟𝗗𝗢 𝗘𝗫𝗣𝗜𝗥𝗔𝗗𝗢", 
+      "FLAG": "Tim", 
+      "Payload": "GET wss://workplaceservices.surveymonkey.com/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
+      "SNI": "workplaceservices.surveymonkey.com",
+      "TlsIP": "workplaceservices.surveymonkey.com",
+      "ProxyIP": "workplaceservices.surveymonkey.com",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
 {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 01 📡 🔴",
       "FLAG": "vivo",
