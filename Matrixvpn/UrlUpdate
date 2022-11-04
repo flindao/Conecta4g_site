@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.108",
+  "Version": "1.0.109",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 💙TIM 35💙 E 💙TIM 36💙  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -433,9 +433,9 @@
       "Name": "💙 TIM TOP 💙 (( 01 )) 📲🚀",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: d1fs0yeih105bc.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "contratecontrole.tim.com.br",
-      "TlsIP": "contratecontrole.tim.com.br",
-      "ProxyIP": "contratecontrole.tim.com.br",
+       "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "99.84.252.79",
       "ProxyPort": "80",
       "Info": "Proxy"
     },           
