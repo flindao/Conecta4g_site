@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.110",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 💙TIM 35💙 E 💙TIM 36💙  \n",
+  "Version": "1.0.111",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 💙TIM 35💙 E 💙TIM 36💙  \n 💜 VIVO 𝙔𝙀𝙇𝙇𝙊𝙒 01 \n 💙 TIM TOP 💙 (( 02 )) 📡 \n 💙 TIM TOP 💙 (( 03 )) 📡",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
   "EmailFeedback": "",
@@ -76,6 +76,16 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
+    {
+       "Name": "💜 VIVO 𝙔𝙀𝙇𝙇𝙊𝙒 01 📡 ",
+       "FLAG": "vivo",
+          "Payload": "GET wss://pages2.lenovo.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "SNI": "pages2.lenovo.com",
+          "TlsIP": "pages2.lenovo.com",
+          "ProxyIP": "",
+          "ProxyPort": "443",
+          "Info": "Tlsws"
+        }, 
     
 {
        "Name": "💜 VIVO 🅑🅛🅤🅔 01 📡 ",
@@ -448,7 +458,17 @@
       "ProxyIP": "marketgameframes.com",
       "ProxyPort": "80",
       "Info": "Proxy"
-    },   
+    }, 
+    {
+      "Name": "💙 TIM TOP 💙 (( 03 )) 📲🚀",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1fs0yeih105bc.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+       "SNI": "dispatch.exworks.com",
+      "TlsIP": "dispatch.exworks.com",
+      "ProxyIP": "dispatch.exworks.com",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }, 
     
  {
       "Name": "╰💙TIM 16 GAMES🪐◕╰◕",
