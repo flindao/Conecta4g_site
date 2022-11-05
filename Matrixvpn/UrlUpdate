@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.112",
+  "Version": "1.0.113",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 💙TIM 35💙 E 💙TIM 36💙  \n 💜 VIVO 𝙔𝙀𝙇𝙇𝙊𝙒 01 \n 💙 TIM TOP 💙 (( 02 )) 📡 \n 💙 TIM TOP 💙 (( 03 )) 📡",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -82,6 +82,16 @@
           "Payload": "GET wss://pages2.lenovo.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "pages2.lenovo.com",
           "TlsIP": "pages2.lenovo.com",
+          "ProxyIP": "",
+          "ProxyPort": "443",
+          "Info": "Tlsws"
+        }, 
+	{
+       "Name": "💜 VIVO 𝙔𝙀𝙇𝙇𝙊𝙒 02 📡 ",
+       "FLAG": "vivo",
+          "Payload": "GET wss://pages2.lenovo.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "SNI": "pages2.lenovo.comm",
+          "TlsIP": "104.17.73.206",
           "ProxyIP": "",
           "ProxyPort": "443",
           "Info": "Tlsws"
