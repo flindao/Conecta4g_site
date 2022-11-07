@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.14",
+  "Version": "1.0.15",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONANDO 💙TIM 33 ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
@@ -101,7 +101,17 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
-    {
+ {
+"Name": "💙TIM 32-VIVO❤️",
+"FLAG": "tim",
+"Payload": "GET ws://duvidas.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: XANDYNET[crlf][crlf]",
+"SNI": "duvidas.ampli.com.br",
+"TlsIP": "104.16.53.111",
+"ProxyIP": "",
+"ProxyPort": "443",
+"Info": "Tlsws"
+        },
+{
   "Name": "💙TIM 33",
       "FLAG": "vivo",
       "Payload": "GET wss://gitlab.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
@@ -111,7 +121,36 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
       },
-
+ {
+"Name": "💙TIM 34 e 📱 🟣  VIVO /n antiga╰◕╰🍻 TIM TURBO 🍻◕╰◕",
+"FLAG": "tim",
+"Payload": "GET wss://bam.nr-data.net  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+"SNI": "bam.nr-data.net",
+"TlsIP": "bam.nr-data.net",
+"ProxyIP": "",
+"ProxyPort": "443",
+"Info": "Tlsws"
+},
+{ 
+      "Name": "💙TIM 35💙 𝗦𝗔𝗟𝗗𝗢 𝗘𝗫𝗣𝗜𝗥𝗔𝗗𝗢", 
+      "FLAG": "Tim", 
+      "Payload": "GET wss://auth-staging-us.surveymonkey.com/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
+      "SNI": "auth-staging-us.surveymonkey.com",
+      "TlsIP": "auth-staging-us.surveymonkey.com",
+      "ProxyIP": "auth-staging-us.surveymonkey.com",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+   { 
+      "Name": "💙TIM 36💙 𝗦𝗔𝗟𝗗𝗢 𝗘𝗫𝗣𝗜𝗥𝗔𝗗𝗢 e 🟣  VIVO", 
+      "FLAG": "Tim", 
+      "Payload": "GET wss://workplaceservices.surveymonkey.com/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
+      "SNI": "workplaceservices.surveymonkey.com",
+      "TlsIP": "workplaceservices.surveymonkey.com",
+      "ProxyIP": "workplaceservices.surveymonkey.com",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
     {
 "Name": "📱 VIVO ROTATE TLSWS 01 📡💜",
 "FLAG": "vivo",
