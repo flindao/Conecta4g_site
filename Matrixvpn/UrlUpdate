@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.114",
+  "Version": "1.0.115",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 💙TIM 35💙 E 💙TIM 36💙  \n 💜 VIVO 𝙔𝙀𝙇𝙇𝙊𝙒 01 \n 💙 TIM TOP 💙 (( 02 )) 📡 \n 💙 TIM TOP 💙 (( 03 )) 📡",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -156,6 +156,16 @@
           "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "unpkg.com",
           "TlsIP": "104.16.125.175",
+          "ProxyIP": "",
+          "ProxyPort": "443",
+          "Info": "Tlsws"
+        }, 
+	{
+       "Name": "💜 VIVO 🅑🅛🅤🅔 06 📡 ",
+       "FLAG": "vivo",
+          "Payload": "GET wss://ayuda.tigo.com.gt/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: ayuda.tigo.com.gt[crlf]X-Forward-Host: ayuda.tigo.com.gt[crlf]X-Forwarded-For: ayuda.tigo.com.gt[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: ayuda.tigo.com.gt[crlf][crlf]",
+          "SNI": "ayuda.tigo.com.gt",
+          "TlsIP": "ayuda.tigo.com.gt",
           "ProxyIP": "",
           "ProxyPort": "443",
           "Info": "Tlsws"
