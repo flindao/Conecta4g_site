@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.115",
+  "Version": "1.0.116",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 💙TIM 35💙 E 💙TIM 36💙  \n 💜 VIVO 𝙔𝙀𝙇𝙇𝙊𝙒 01 \n 💙 TIM TOP 💙 (( 02 )) 📡 \n 💙 TIM TOP 💙 (( 03 )) 📡",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -164,6 +164,16 @@
        "Name": "💜 VIVO 🅑🅛🅤🅔 06 📡 ",
        "FLAG": "vivo",
           "Payload": "GET wss://ayuda.tigo.com.gt/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: ayuda.tigo.com.gt[crlf]X-Forward-Host: ayuda.tigo.com.gt[crlf]X-Forwarded-For: ayuda.tigo.com.gt[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: ayuda.tigo.com.gt[crlf][crlf]",
+          "SNI": "ayuda.tigo.com.gt",
+          "TlsIP": "ayuda.tigo.com.gt",
+          "ProxyIP": "",
+          "ProxyPort": "443",
+          "Info": "Tlsws"
+        }, 
+	{
+       "Name": "💜 VIVO 🅑🅛🅤🅔 07 📡 ",
+       "FLAG": "vivo",
+          "Payload": "GET GET wss://ajuda.tiny.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: ajuda.tiny.com.br[crlf]X-Forward-Host: se ajuda.tiny.com.br[crlf]X-Forwarded-Forw ajuda.tiny.com.br[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: ajuda.tiny.com.br[crlf][crlf]",
           "SNI": "ayuda.tigo.com.gt",
           "TlsIP": "ayuda.tigo.com.gt",
           "ProxyIP": "",
@@ -615,6 +625,17 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
+   
+   {         
+      "Name": "💙TIM 37 💙 DIRECT", 
+      "FLAG": "tim", 
+      "Payload": "SUBSCRIBE / [protocol]\\r\nHost: mercadolivre.com.br \\r\nUpgrade: websocket\\r\nUser-Agent: [ua]\\r\n\\r\n[split]", 
+      "SNI": "", 
+      "TlsIP": "", 
+      "ProxyIP": "[app_host]", 
+      "ProxyPort": "80", 
+      "Info": "Direct"
+  },
 {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 01 📡 🔴",
       "FLAG": "vivo",
