@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.116",
+  "Version": "1.0.117",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 💙TIM 35💙 E 💙TIM 36💙  \n 💜 VIVO 𝙔𝙀𝙇𝙇𝙊𝙒 01 \n 💙 TIM TOP 💙 (( 02 )) 📡 \n 💙 TIM TOP 💙 (( 03 )) 📡",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -496,9 +496,9 @@
       "Name": "💙 TIM TOP 💙 (( 02 )) 📲🚀",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: d1fs0yeih105bc.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-       "SNI": "marketgameframes.com",
-      "TlsIP": "marketgameframes.com",
-      "ProxyIP": "marketgameframes.com",
+       "SNI": "app.timfinancas.com.br",
+      "TlsIP": "app.timfinancas.com.br",
+      "ProxyIP": "app.timfinancas.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     }, 
@@ -506,9 +506,9 @@
       "Name": "💙 TIM TOP 💙 (( 03 )) 📲🚀",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: d1fs0yeih105bc.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-       "SNI": "dispatch.exworks.com",
-      "TlsIP": "dispatch.exworks.com",
-      "ProxyIP": "dispatch.exworks.com",
+       "SNI": "www.timfinancas.com.br",
+      "TlsIP": "www.timfinancas.com.br",
+      "ProxyIP": "www.timfinancas.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     }, 
