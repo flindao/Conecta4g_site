@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.118",
+  "Version": "1.0.119",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 💙TIM 35💙 E 💙TIM 36💙  \n 💜 VIVO 𝙔𝙀𝙇𝙇𝙊𝙒 01 \n 💙 TIM TOP 💙 (( 02 )) 📡 \n 💙 TIM TOP 💙 (( 03 )) 📡",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -361,6 +361,26 @@
             "ProxyPort": "80",
             "Info": "Proxy"
         },
+	{
+      "Name": "📱 VIVO FOGUETE 01 🚀 \n",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "d1fs0yeih105bc.cloudfront.net",
+      "TlsIP": "",
+      "ProxyIP": "planosvivointernet.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "📱 VIVO FOGUETE 02 🚀 \n",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "d1fs0yeih105bc.cloudfront.net",
+      "TlsIP": "",
+      "ProxyIP": "fame10.com",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
        
  {
       "Name": "VIVO NOVA 2",
@@ -496,6 +516,27 @@
       "Name": "💙 TIM TOP 💙 (( 02 )) 📲🚀",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: d1fs0yeih105bc.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+       "SNI": "contratecontrole.tim.com.br",
+      "TlsIP": "contratecontrole.tim.com.br",
+      "ProxyIP": "contratecontrole.tim.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }, 
+    
+    {
+      "Name": "💙 TIM FOGUETE 01 🚀",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+       "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "99.84.252.79",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },  
+    {
+      "Name": "💙 TIM FOGUETE 02 🚀",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "contratecontrole.tim.com.br",
       "TlsIP": "contratecontrole.tim.com.br",
       "ProxyIP": "contratecontrole.tim.com.br",
