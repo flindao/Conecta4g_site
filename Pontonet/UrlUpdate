@@ -53,7 +53,19 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    }
+    },
+    {
+      "Name": "SUPORTE EMERGENCIAL",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "br5.startnetplus.xyz",
+      "CheckUser": "http://15.235.35.95:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "suporte",
+      "PASS": "1234"
+      }
+
     
     
   ],
