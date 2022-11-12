@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.208",
+  "Version": "1.0.209",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -115,6 +115,16 @@
     }
   ],
   "Networks": [
+{ 
+"Name": "CLARO FRONT(NOVA)",
+"FLAG": "claro",
+"Payload": "GET / HTTP/1.1[crlf]Host: d3m8u49ek70a5.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+"SNI": "d2lw319xdy6x9h.cloudfront.net",
+"TlsIP": "d2lw319xdy6x9h.cloudfront.net",
+"ProxyIP": "",
+"ProxyPort": "443",
+"Info": "Tlsws"
+},
 {
 "Name": "CLARO DIRECT",
 "FLAG": "claro",
