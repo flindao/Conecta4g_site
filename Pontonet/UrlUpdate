@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.63",
+  "Version": "1.0.64",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL \n ADICIONADO OPÇÕES \n  💙TIM 35💙 \n 💙TIM 36 e 💜 VIVO  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Pontonet/UrlSms",
@@ -48,7 +48,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.pontonetssh.xyz",
-      "CheckUser": "http://200.98.113.202:5454/checkUser",
+      "CheckUser": "http://200.98.144.136:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
