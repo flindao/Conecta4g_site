@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.210",
+  "Version": "1.0.211",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -94,7 +94,7 @@
       "Name": "PRIMOS NET | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "primosvpnbr.xyz",
+      "ServerIP": "magno5g.primosvpnbr.xyz",
       "CheckUser": "http://144.22.209.134:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
