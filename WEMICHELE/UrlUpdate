@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.15",
+  "Version": "1.0.16",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONANDO 💙TIM 33 ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
@@ -44,20 +44,18 @@
   ],
   "Servers": [
         {
-      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.188 ] \n   
-       SERVIDORES 1 A 2 | PLUS",
+      "Name": " [ SERVIDOR ] \n ",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.startnetplus.xyz",
-      "CheckUser": "http://209.14.70.59:5454/checkUser",
+      "CheckUser": "http://152.67.54.26:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
     },
 {
-      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.188 ] \n   
-       SERVIDORES 3 A 4 | PLUS",
+      "Name": " [ Suporte - Emergencia ] \n ",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br5.startnetplus.xyz",
