@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.177",
+  "Version": "1.0.178",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n SERVIDORES UNIFICADOS EM UMA UNICA OPCAO \n TIM E VIVO FUNCIONANDO \n  EM TODO BRASIL",
   "UrlUpdate": "https://bitbin.it/tVlqbveS/raw/",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSms",
@@ -44,11 +44,11 @@
   ],
   "Servers": [
     {
-      "Name": "SERVIDOR 1 e 2 e 3 e 4 ",
+      "Name": "SERVIDOR",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.startnetplus.xyz",
-      "CheckUser": "http://209.14.70.59:5454/checkUser",
+      "CheckUser": "http://152.67.54.26:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -59,24 +59,14 @@
       "Name": "SUPORTE 1",
       "TYPE": "free",
       "FLAG": "br.png",
-      "ServerIP": "br1.startnetplus.xyz",
-      "CheckUser": "http://209.14.70.59:5454/checkUser",
+      "ServerIP": "br5.startnetplus.xyz",
+      "CheckUser": "http://15.235.35.95:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "suporte",
       "PASS": "1234"
-   },
-     {
-      "Name": "SUPORTE 2",
-      "TYPE": "free",
-      "FLAG": "br.png",
-      "ServerIP": "br3.startnetplus.xyz",
-      "CheckUser": "http://209.14.68.83:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "suporte",
-      "PASS": "1234"
-    }    
+     }
+     
   ],
   "Networks": [
   {
