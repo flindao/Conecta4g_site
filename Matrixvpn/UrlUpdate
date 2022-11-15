@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.122",
+  "Version": "1.0.123",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 💙TIM 35💙 E 💙TIM 36💙  \n 💜 VIVO 𝙔𝙀𝙇𝙇𝙊𝙒 01 \n 💙 TIM TOP 💙 (( 02 )) 📡 \n 💙 TIM TOP 💙 (( 03 )) 📡",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -291,18 +291,9 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+    
     {
-      "Name": "📱 VIVO TOP 2 \nTODOS DDD 鉁岋笍",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1fs0yeih105bc.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "d1fs0yeih105bc.cloudfront.net",
-      "TlsIP": "",
-      "ProxyIP": "fame10.com",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-            "Name": "📱 VIVO TOP 3 \nTODOS DDD 鉁岋笍",
+            "Name": "📱 VIVO TOP 2 \nTODOS DDD 鉁岋笍",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host:d1fs0yeih105bc.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
@@ -312,7 +303,7 @@
             "Info": "Proxy"
         },
         {
-            "Name": "📱 VIVO TOP 4 \nTODOS DDD 鉁岋笍",
+            "Name": "📱 VIVO TOP 3 \nTODOS DDD 鉁岋笍",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host: d1fs0yeih105bc.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "recarga.vivo.com.br",
@@ -323,7 +314,7 @@
         },
        
         {
-            "Name": "📱 VIVO TOP 5 \nTODOS DDD 鉁岋笍",
+            "Name": "📱 VIVO TOP 4 \nTODOS DDD 鉁岋笍",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host:d1fs0yeih105bc.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
