@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.30",
+  "Version": "1.0.31",
   "ReleaseNotes": "ATUALIZACAO DISPONIVEL \n ADICIONADO \n 💙TIM 33 \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlSms",
@@ -64,18 +64,8 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    },
-    {
-      "Name": "SERVIDOR 3 | PLUS",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "eu2.raricknew.online",
-      "CheckUser": "http://150.230.73.36:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
     }
+   
     
   ],
   "Networks": [
