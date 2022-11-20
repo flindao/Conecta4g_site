@@ -1,10 +1,10 @@
 {
-  "Version": "1.0.16",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONANDO 💙TIM 33 ",
+  "Version": "1.0.17",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL \n ATUALIZADO LINK DO PAINEL 4G ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
   "EmailFeedback": "",
-  "UrlContato": "http://painel.startnetplus.xyz/",
+  "UrlContato": "http://painel.startnetplus.xyz/painel4g/",
   "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/termos.html",
   "CheckUser": "true",
   "Udp": [
