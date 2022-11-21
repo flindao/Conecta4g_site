@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.17",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL \n ATUALIZADO LINK DO PAINEL 4G ",
+  "Version": "1.0.18",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL \n ATUALIZADO CONEXOES TIM TOP E VIVO FERRARI ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
   "EmailFeedback": "",
@@ -77,7 +77,38 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-        }, 	
+        }, 
+	  {
+      "Name": "💙 TIM TOP 💙 (( 01 )) 📲🚀\n ",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dfj4ubi9qwj4r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "99.84.252.79",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+{
+      "Name": "💙 TIM TOP 💙 (( 02 )) 📲🚀\n ",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dfj4ubi9qwj4r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+       "SNI": "contratecontrole.tim.com.br",
+      "TlsIP": "contratecontrole.tim.com.br",
+      "ProxyIP": "contratecontrole.tim.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }, 
+{
+      "Name": "💙 TIM TOP 💙 (( 03 )) 📲🚀\n ",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dfj4ubi9qwj4r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+       "SNI": "contratecontrole.tim.com.br",
+      "TlsIP": "contratecontrole.tim.com.br",
+      "ProxyIP": "contratecontrole.tim.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }, 
+
    
    {
       "Name": "❤️ CLARO ON 1 🔵TIM 💜VIVO",
@@ -149,6 +180,50 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
+   
+   {
+      "Name": "📱 VIVO 🅕🅔🅡🅡🅐🅡🅘 \n ",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dfj4ubi9qwj4r.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "dfj4ubi9qwj4r.cloudfront.net",
+      "TlsIP": "",
+      "ProxyIP": "planosvivointernet.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+{
+            "Name": "📱 VIVO 🅕🅔🅡🅡🅐🅡🅘 2 \n ",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host:dfj4ubi9qwj4r.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "108.139.166.122",
+            "ProxyIP": "108.139.166.122",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+       
+        {
+            "Name": "📱 VIVO 🅕🅔🅡🅡🅐🅡🅘 3 \n ",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: dfj4ubi9qwj4r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "recarga.vivo.com.br",
+            "TlsIP": "recarga.vivo.com.br",
+            "ProxyIP": "recarga.vivo.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+               
+        {
+            "Name": "📱 VIVO 🅕🅔🅡🅡🅐🅡🅘 4 \n ",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host:dfj4ubi9qwj4r.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "52.85.213.21",
+            "ProxyIP": "52.85.213.21",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+      },
+
     {
 "Name": "📱 VIVO ROTATE TLSWS 01 📡💜",
 "FLAG": "vivo",
