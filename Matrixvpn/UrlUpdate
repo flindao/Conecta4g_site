@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.128",
+  "Version": "1.0.129",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONIVEL \n ADICIONADO 💙TIM 35💙 E 💙TIM 36💙  \n 💜 VIVO 𝙔𝙀𝙇𝙇𝙊𝙒 01 \n 💙 TIM TOP 💙 (( 02 )) 📡 \n 💙 TIM TOP 💙 (( 03 )) 📡",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -547,18 +547,9 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     }, 
+   
     {
       "Name": "💙 TIM AJATO 03",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d5eciqfuq5v0f.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-       "SNI": "cdn-prod.securiti.ai",
-      "TlsIP": "cdn-prod.securiti.ai",
-      "ProxyIP": "cdn-prod.securiti.ai",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    }, 
-    {
-      "Name": "💙 TIM AJATO 04",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: d5eciqfuq5v0f.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
@@ -568,7 +559,7 @@
       "Info": "Proxy"
     }, 
      {
-      "Name": "💙 TIM AJATO 05",
+      "Name": "💙 TIM AJATO 04",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: d5eciqfuq5v0f.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
@@ -578,7 +569,7 @@
       "Info": "Proxy"
     }, 
     {
-      "Name": "💙 TIM AJATO 06",
+      "Name": "💙 TIM AJATO 05",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: d5eciqfuq5v0f.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
@@ -588,7 +579,7 @@
       "Info": "Proxy"
     }, 
     {
-      "Name": "💙 TIM AJATO 07",
+      "Name": "💙 TIM AJATO 06",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: d5eciqfuq5v0f.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
@@ -618,28 +609,10 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     }, 
+     
+    
      {
       "Name": "💙 TIM FOGUETE 03",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-        "SNI": "cdn-prod.securiti.ai",
-      "TlsIP": "cdn-prod.securiti.ai",
-      "ProxyIP": "cdn-prod.securiti.ai",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    }, 
-     {
-      "Name": "💙 TIM FOGUETE 04",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-       "SNI": "",
-      "TlsIP": "",
-       "ProxyIP": "99.84.208.19",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    }, 
-     {
-      "Name": "💙 TIM FOGUETE 05",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
@@ -649,7 +622,7 @@
       "Info": "Proxy"
     }, 
      {
-      "Name": "💙 TIM FOGUETE 06",
+      "Name": "💙 TIM FOGUETE 04",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
@@ -659,7 +632,7 @@
       "Info": "Proxy"
     }, 
      {
-      "Name": "💙 TIM FOGUETE 06",
+      "Name": "💙 TIM FOGUETE 05",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
