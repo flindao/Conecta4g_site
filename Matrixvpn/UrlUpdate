@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.132",
+  "Version": "1.0.133",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL \n ADICIONADO NA PRIMEIRA OPCAO TODAS OPERADORAS \n VIVO, TIM , CLARO E OI JUNTAS \n ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -72,7 +72,7 @@
      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]TOPSPEED[crlf][crlf]",
      "SNI": "mobilidade.cloud.caixa.gov.br",
      "TlsIP": "mobilidade.cloud.caixa.gov.br",
-     "ProxyIP": "",
+     "ProxyIP": "mobilidade.cloud.caixa.gov.br",
      "ProxyPort": "443",
      "Info": "Tlsws"
 },
