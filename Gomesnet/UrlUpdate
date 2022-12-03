@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.31",
-  "ReleaseNotes": "ATUALIZACAO DISPONIVEL \n ADICIONADO \n 💙TIM 33 \n",
+  "Version": "1.0.32",
+  "ReleaseNotes": "ATUALIZACAO DISPONIVEL \n ADICIONADO \n 🔵 𝗧𝗜𝗠 RAPIDO e 💜VIVO🔵TIM❤️CLARO🟡OI  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlSms",
   "EmailFeedback": "",
@@ -69,6 +69,27 @@
     
   ],
   "Networks": [
+   {
+"Name": "💜VIVO🔵TIM❤️CLARO🟡OI ",
+     "FLAG": "vivo",
+     "Payload": "GET wss://mobilidade.cloud.caixa.gov.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]TOPSPEED[crlf][crlf]",
+     "SNI": "mobilidade.cloud.caixa.gov.br",
+     "TlsIP": "mobilidade.cloud.caixa.gov.br",
+     "ProxyIP": "mobilidade.cloud.caixa.gov.br",
+     "ProxyPort": "443",
+     "Info": "Tlsws"
+},
+
+ {
+           "Name": "╰┈[☞> 🔵 𝗧𝗜𝗠 RAPIDO",
+           "FLAG": "tim", 
+           "Payload": "GET wss://api.sandbox.c6bank.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]", 
+          "SNI": "smainfo.surveymonkey.com", 
+          "TlsIP": "smainfo.surveymonkey.com", 
+          "ProxyIP": "", 
+          "ProxyPort": "443", 
+          "Info": "Tlsws"  
+   },
    {
       "Name": "╰┈[☞>🔴📱ᶜˡᵃʳᵒ 𝐆𝐄𝐑𝐀𝐋 🅾🅽━🔴",
       "FLAG": "Claro",
