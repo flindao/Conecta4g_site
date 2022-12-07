@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.137",
+  "Version": "1.0.138",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL \n ADICIONADO 🔵 𝗧𝗜𝗠 RAPIDO \n ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -91,13 +91,13 @@
     },
     {
            "Name": "╰┈[☞> 🔵 𝗧𝗜𝗠 RAPIDO",
-           "FLAG": "tim", 
-           "Payload": "GET wss://api.sandbox.c6bank.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]", 
-          "SNI": "smainfo.surveymonkey.com", 
-          "TlsIP": "smainfo.surveymonkey.com", 
-          "ProxyIP": "", 
-          "ProxyPort": "443", 
-          "Info": "Tlsws"  
+         "FLAG": "tim",
+      "Payload": "BASELINE-CONTROL wss://cardinalcommerce.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "songbird.cardinalcommerce.com",
+      "TlsIP": "198.217.251.250",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
    },
 
 {
