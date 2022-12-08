@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.139",
+  "Version": "1.0.140",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL \n ADICIONADO 🔵 𝗧𝗜𝗠 RAPIDO \n ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -305,8 +305,8 @@
 {
       "Name": "📱 VIVO AJATO 01",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "d3dpodjnmep22o.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "d3q9zg70bqow3h.cloudfront.net",
       "TlsIP": "",
       "ProxyIP": "planosvivointernet.com.br",
       "ProxyPort": "80",
@@ -316,7 +316,7 @@
     {
             "Name": "📱 VIVO AJATO 02",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "108.139.166.122",
             "ProxyIP": "108.139.166.122",
@@ -326,7 +326,7 @@
         {
             "Name": "📱 VIVO AJATO 03",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "recarga.vivo.com.br",
             "TlsIP": "recarga.vivo.com.br",
             "ProxyIP": "recarga.vivo.com.br",
@@ -337,7 +337,7 @@
         {
             "Name": "📱 VIVO AJATO 04",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "52.85.213.21",
             "ProxyIP": "52.85.213.21",
@@ -347,7 +347,7 @@
 	 {
             "Name": "📱 VIVO AJATO 05",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "sgr.tatix.com.br",
             "TlsIP": "sgr.tatix.com.br",
             "ProxyIP": "sgr.tatix.com.br",
@@ -357,7 +357,7 @@
 	{
             "Name": "📱 VIVO AJATO 06",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "boaesporte.sga.bet",
             "TlsIP": "boaesporte.sga.bet",
             "ProxyIP": "boaesporte.sga.bet",
@@ -367,8 +367,8 @@
 	{
       "Name": "📱 VIVO FOGUETE 01 🚀 \n",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "d3dpodjnmep22o.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "d3q9zg70bqow3h.cloudfront.net",
       "TlsIP": "",
       "ProxyIP": "planosvivointernet.com.br",
       "ProxyPort": "80",
@@ -377,7 +377,7 @@
     {
             "Name": "📱 VIVO FOGUETE 02",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "108.139.166.122",
             "ProxyIP": "108.139.166.122",
@@ -387,7 +387,7 @@
 	 {
             "Name": "📱 VIVO FOGUETE 03",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "recarga.vivo.com.br",
             "TlsIP": "recarga.vivo.com.br",
             "ProxyIP": "recarga.vivo.com.br",
@@ -397,7 +397,7 @@
     {
       "Name": "📱 VIVO FOGUETE 04",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "52.85.213.21",
       "ProxyIP": "52.85.213.21",
@@ -407,7 +407,7 @@
     {
       "Name": "📱 VIVO FOGUETE 05",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "sgr.tatix.com.br",
       "TlsIP": "sgr.tatix.com.br",
       "ProxyIP": "sgr.tatix.com.br",
@@ -417,7 +417,7 @@
      {
       "Name": "📱 VIVO FOGUETE 06",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "boaesporte.sga.bet",
       "TlsIP": "boaesporte.sga.bet",
       "ProxyIP": "boaesporte.sga.bet",
@@ -550,7 +550,7 @@
 	{
       "Name": "💙 TIM AJATO 01",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
       "ProxyIP": "99.84.252.79",
@@ -560,7 +560,7 @@
     {
       "Name": "💙 TIM AJATO 02",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "contratecontrole.tim.com.br",
       "TlsIP": "contratecontrole.tim.com.br",
       "ProxyIP": "contratecontrole.tim.com.br",
@@ -571,7 +571,7 @@
     {
       "Name": "💙 TIM AJATO 03",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
        "ProxyIP": "99.84.208.19",
@@ -581,7 +581,7 @@
      {
       "Name": "💙 TIM AJATO 04",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
        "ProxyIP": "99.84.252.105",
@@ -591,7 +591,7 @@
     {
       "Name": "💙 TIM AJATO 05",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
        "ProxyIP": "99.84.252.116",
@@ -601,7 +601,7 @@
     {
       "Name": "💙 TIM AJATO 06",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
        "ProxyIP": "99.84.252.128",
@@ -612,7 +612,7 @@
 	{
       "Name": "💙 TIM FOGUETE 01",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
       "ProxyIP": "99.84.252.79",
@@ -622,7 +622,7 @@
     {
       "Name": "💙 TIM FOGUETE 02",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "contratecontrole.tim.com.br",
       "TlsIP": "contratecontrole.tim.com.br",
       "ProxyIP": "contratecontrole.tim.com.br",
@@ -634,7 +634,7 @@
      {
       "Name": "💙 TIM FOGUETE 03",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
        "ProxyIP": "99.84.252.105",
@@ -644,7 +644,7 @@
      {
       "Name": "💙 TIM FOGUETE 04",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
        "ProxyIP": "99.84.252.116",
@@ -654,7 +654,7 @@
      {
       "Name": "💙 TIM FOGUETE 05",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dpodjnmep22o.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3q9zg70bqow3h.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
        "ProxyIP": "99.84.252.128",
