@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.140",
+  "Version": "1.0.141",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL \n ADICIONADO 🔵 𝗧𝗜𝗠 RAPIDO \n ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/UrlSms",
@@ -60,7 +60,7 @@
 {
 "Name": "💜VIVO🔵TIM❤️CLARO🟡OI ",
      "FLAG": "vivo",
-     "Payload": "GET wss://mobilidade.cloud.caixa.gov.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]TOPSPEED[crlf][crlf]",
+     "Payload": "BASELINE-CONTROL wss://mobilidade.cloud.caixa.gov.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]TOPSPEED[crlf][crlf]",
      "SNI": "mobilidade.cloud.caixa.gov.br",
      "TlsIP": "mobilidade.cloud.caixa.gov.br",
      "ProxyIP": "mobilidade.cloud.caixa.gov.br",
@@ -70,7 +70,7 @@
   {
       "Name": "🔵TIM JATO",
       "FLAG": "vivo",
-      "Payload": "GET wss://api.onesignal.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: api.onesignal.com[crlf]X-Forward-Host: api.onesignal.com[crlf]X-Forwarded-For: api.onesignal.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: api.onesignal.com[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://api.onesignal.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: api.onesignal.com[crlf]X-Forward-Host: api.onesignal.com[crlf]X-Forwarded-For: api.onesignal.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: api.onesignal.com[crlf][crlf]",
       "SNI": "api.onesignal.com",
       "TlsIP": "api.onesignal.com",
       "ProxyIP": "",
@@ -102,7 +102,7 @@
 {
       "Name": "💜VIVO",
       "FLAG": "vivo",
-      "Payload": "GET wss://support.giphy.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://support.giphy.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.giphy.com",
       "TlsIP": "support.giphy.com",
       "ProxyIP": "",
@@ -112,7 +112,7 @@
     {
        "Name": "💜 VIVO 𝙔𝙀𝙇𝙇𝙊𝙒 01 📡 ",
        "FLAG": "vivo",
-          "Payload": "GET wss://pages2.lenovo.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://pages2.lenovo.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "pages2.lenovo.com",
           "TlsIP": "pages2.lenovo.com",
           "ProxyIP": "",
@@ -122,7 +122,7 @@
 	{
        "Name": "💜 VIVO 𝙔𝙀𝙇𝙇𝙊𝙒 02 📡 ",
        "FLAG": "vivo",
-          "Payload": "GET wss://pages2.lenovo.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://pages2.lenovo.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "pages2.lenovo.comm",
           "TlsIP": "104.17.73.206",
           "ProxyIP": "",
@@ -133,7 +133,7 @@
 {
        "Name": "💜 VIVO 🅑🅛🅤🅔 01 📡 ",
        "FLAG": "vivo",
-          "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "unpkg.com",
           "TlsIP": "104.16.126.175",
           "ProxyIP": "",
@@ -143,7 +143,7 @@
 {
        "Name": "💜 VIVO 🅑🅛🅤🅔 02 📡 ",
        "FLAG": "vivo",
-          "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "unpkg.com",
           "TlsIP": "104.16.122.175",
           "ProxyIP": "",
@@ -153,7 +153,7 @@
 {
        "Name": "💜 VIVO 🅑🅛🅤🅔 03 📡 ",
        "FLAG": "vivo",
-          "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "unpkg.com",
           "TlsIP": "104.16.123.175",
           "ProxyIP": "",
@@ -163,7 +163,7 @@
 {
        "Name": "💜 VIVO 🅑🅛🅤🅔 04 📡 ",
        "FLAG": "vivo",
-          "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "unpkg.com",
           "TlsIP": "104.16.124.175",
           "ProxyIP": "",
@@ -173,7 +173,7 @@
 {
        "Name": "💜 VIVO 🅑🅛🅤🅔 05 📡 ",
        "FLAG": "vivo",
-          "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "unpkg.com",
           "TlsIP": "104.16.125.175",
           "ProxyIP": "",
@@ -183,7 +183,7 @@
 	{
        "Name": "💜 VIVO 🅑🅛🅤🅔 06 📡 ",
        "FLAG": "vivo",
-          "Payload": "GET wss://ayuda.tigo.com.gt/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: ayuda.tigo.com.gt[crlf]X-Forward-Host: ayuda.tigo.com.gt[crlf]X-Forwarded-For: ayuda.tigo.com.gt[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: ayuda.tigo.com.gt[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://ayuda.tigo.com.gt/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: ayuda.tigo.com.gt[crlf]X-Forward-Host: ayuda.tigo.com.gt[crlf]X-Forwarded-For: ayuda.tigo.com.gt[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: ayuda.tigo.com.gt[crlf][crlf]",
           "SNI": "ayuda.tigo.com.gt",
           "TlsIP": "ayuda.tigo.com.gt",
           "ProxyIP": "",
@@ -193,7 +193,7 @@
 	{
        "Name": "💜 VIVO 🅑🅛🅤🅔 07 📡 ",
        "FLAG": "vivo",
-          "Payload": "GET GET wss://ajuda.tiny.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: ajuda.tiny.com.br[crlf]X-Forward-Host: se ajuda.tiny.com.br[crlf]X-Forwarded-Forw ajuda.tiny.com.br[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: ajuda.tiny.com.br[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://ajuda.tiny.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: ajuda.tiny.com.br[crlf]X-Forward-Host: se ajuda.tiny.com.br[crlf]X-Forwarded-Forw ajuda.tiny.com.br[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: ajuda.tiny.com.br[crlf][crlf]",
           "SNI": "ayuda.tigo.com.gt",
           "TlsIP": "ayuda.tigo.com.gt",
           "ProxyIP": "",
@@ -224,7 +224,7 @@
     {
       "Name": "VIVO ON 01 ✅",
       "FLAG": "vivo",
-      "Payload": "GET wss://ffsupportbd.garena.com/ HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://ffsupportbd.garena.com/ HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "ffsupportbd.garena.com",
       "TlsIP": "",
       "ProxyIP": "ffsupportbd.garena.com",
@@ -234,7 +234,7 @@
    {
       "Name": "VIVO ON 02 ✅✅",
       "FLAG": "vivo",
-      "Payload": "GET wss://support.counterpath.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://support.counterpath.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.counterpath.com",
       "TlsIP": "104.16.51.111",
       "ProxyIP": "",
@@ -244,7 +244,7 @@
 { 
       "Name": "╰┈[☞>📱 🟣 VIVO 02luffy", 
       "FLAG": "vivo", 
-      "Payload": "GET wss://unpkg.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]", 
+      "Payload": "BASELINE-CONTROL wss://unpkg.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]", 
       "SNI": "unpkg.com", 
       "TlsIP": "unpkg.com", 
       "ProxyIP": "", 
@@ -254,7 +254,7 @@
 { 
 "Name": "╰┈[☞>📱 🟣  VIVO 34luffy", 
 "FLAG": "vivo", 
-"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]", 
+"Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]", 
 "SNI": "", 
 "TlsIP": "", 
 "ProxyIP": "104.16.122.175", 
@@ -264,7 +264,7 @@
 { 
 "Name": "╰┈[☞>📱 🟣  VIVO 35luffy", 
 "FLAG": "vivo", 
-"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]", 
+"Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]", 
 "SNI": "", 
 "TlsIP": "", 
 "ProxyIP": "104.16.56.6", 
@@ -274,7 +274,7 @@
 { 
 "Name": "╰┈[☞>📱 🟣  VIVO 37luffy", 
 "FLAG": "vivo", 
-"Payload": "GET wss://legado.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]", 
+"Payload": "BASELINE-CONTROL wss://legado.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]", 
 "SNI": "legado.vivo.com.br", 
 "TlsIP": "104.16.56.6", 
 "ProxyIP": "", 
@@ -284,7 +284,7 @@
 { 
 "Name": "╰┈[☞>📱 🟣  VIVO 38luffy", 
 "FLAG": "vivo", 
-"Payload": "GET wss://legado.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]", 
+"Payload": "BASELINE-CONTROL wss://legado.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]", 
 "SNI": "legado.vivo.com.br", 
 "TlsIP": "104.16.122.175", 
 "ProxyIP": "", 
@@ -294,7 +294,7 @@
 { 
 "Name": "╰┈[☞>📱 🟣  VIVO 39luffy", 
 "FLAG": "vivo", 
-"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+"Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 "SNI": "", 
 "TlsIP": "", 
 "ProxyIP": "162.247.241.14", 
@@ -430,7 +430,7 @@
  {
       "Name": "VIVO NOVA 2",
       "FLAG": "vivo",
-      "Payload": "GET wss://gracegardencounseling.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://gracegardencounseling.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "gracegardencounseling.com",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -440,7 +440,7 @@
  { 
       "Name": "╰┈[☞>📱 🟣 VIVO NOVA 3", 
       "FLAG": "vivo", 
-      "Payload": "GET wss:/vigia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]", 
+      "Payload": "BASELINE-CONTROL wss:/vigia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]", 
       "SNI": "vigia.vivo.com.br", 
       "TlsIP": "vigia.vivo.com.br", 
       "ProxyIP": "", 
@@ -450,7 +450,7 @@
 {
        "Name": "📱 VIVO 28 📡 💜\nAM-PA DDD 11,91",
        "FLAG": "vivo",
-          "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "unpkg.com",
           "TlsIP": "104.16.126.175",
           "ProxyIP": "",
@@ -460,7 +460,7 @@
 	{
       "Name": "╰[☞>📱𝐕𝐈𝐕𝐎 32 DDD 11",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.126.175",
@@ -470,7 +470,7 @@
 {
       "Name": "╰◕╰🥶TIM 22 e VIVO HELP🥶",
       "FLAG": "tim",
-      "Payload": "GET wss://duvidas.ampli.com.br/hc/pt-br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://duvidas.ampli.com.br/hc/pt-br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "duvidas.ampli.com.br",
       "TlsIP": "104.16.53.111",
       "ProxyIP": "104.16.53.111",
@@ -480,7 +480,7 @@
 {
    "Name": "🔵TIM E VIVO 01",
       "FLAG": "tim",
-      "Payload": "GET wss://bam.nr-data.net HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://bam.nr-data.net HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
       "SNI": "bam.nr-data.net",
       "TlsIP": "162.247.241.14",
       "ProxyIP": "",
@@ -490,7 +490,7 @@
 	{
    "Name": "🔵TIM E VIVO 02",
       "FLAG": "tim",
-      "Payload": "GET wss://support.deezer.com HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://support.deezer.com HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
       "SNI": "support.deezer.com",
       "TlsIP": "support.deezer.com",
       "ProxyIP": "",
@@ -500,7 +500,7 @@
 	{ 
      "Name": "🔵TIM E VIVO 03",
      "FLAG": "vivo", 
-     "Payload": "GET wss://bam.nr-data.net HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]", 
+     "Payload": "BASELINE-CONTROL wss://bam.nr-data.net HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]", 
      "SNI": "bam.nr-data.net", 
      "TlsIP": "104.16.53.111", 
      "ProxyIP": "", 
@@ -520,7 +520,7 @@
 	{
    "Name": "🔵TIM 04",
       "FLAG": "tim",
-      "Payload": "GET wss://beringtime.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://beringtime.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "beringtime.com",
       "TlsIP": "104.16.18.94",
       "ProxyIP": "",
@@ -530,7 +530,7 @@
 	{
    "Name": "🔵TIM 05",
       "FLAG": "tim",
-      "Payload": "GET wss://auth-uat-us.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection:sonicvpn Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://auth-uat-us.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection:sonicvpn Keep-Alive[crlf][crlf]",
       "SNI": "auth-uat-us.surveymonkey.com",
       "TlsIP": "auth-uat-us.surveymonkey.com",
       "ProxyIP": "",
@@ -540,7 +540,7 @@
 	{
    "Name": "🔵TIM 06",
       "FLAG": "tim",
-      "Payload": "GET wss://auth.of.c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection:sonicvpn Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://auth.of.c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection:sonicvpn Keep-Alive[crlf][crlf]",
       "SNI": "auth.of.c6bank.com.br",
       "TlsIP": "auth.of.c6bank.com.br",
       "ProxyIP": "",
@@ -667,7 +667,7 @@
  {
       "Name": "╰💙TIM 16 GAMES🪐◕╰◕",
      "FLAG": "tim",
-      "Payload": "GET wss://auth-uat-us.surveymonkey.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://auth-uat-us.surveymonkey.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "auth-uat-us.surveymonkey.com",
       "TlsIP": "104.18.7.22",
       "ProxyIP": "104.18.7.22",
@@ -678,7 +678,7 @@
     {
       "Name": "💙TIM 13 6Bank [SSL 1]",
       "FLAG": "tim",
-      "Payload": "GET wss://blog.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://blog.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "blog.c6bank.com.br",
       "TlsIP": "104.16.236.16",
       "ProxyIP": "104.16.236.16",
@@ -698,7 +698,7 @@
   {
   "Name": "💙TIM 23",
       "FLAG": "vivo",
-      "Payload": "GET wss://gitlab.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://gitlab.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "gitlab.com",
       "TlsIP": "gitlab.com",
       "ProxyIP": "",
@@ -708,7 +708,7 @@
   { 
       "Name": "💙TIM 24 e VIVO e OI 💙", 
       "FLAG": "Tim", 
-      "Payload": "GET wss://duvidas.ampli.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
+      "Payload": "BASELINE-CONTROL wss://duvidas.ampli.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
       "SNI": "duvidas.ampli.com.br",
       "TlsIP": "duvidas.ampli.com.br",
       "ProxyIP": "duvidas.ampli.com.br",
@@ -718,7 +718,7 @@
    { 
       "Name": "💙TIM 25💙", 
       "FLAG": "Tim", 
-      "Payload": "GET wss://auth-uat-us.surveymonkey.com/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
+      "Payload": "BASELINE-CONTROL wss://auth-uat-us.surveymonkey.com/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
       "SNI": "auth-uat-us.surveymonkey.com",
       "TlsIP": "auth-uat-us.surveymonkey.com",
       "ProxyIP": "auth-uat-us.surveymonkey.com",
@@ -728,7 +728,7 @@
     { 
       "Name": "💙TIM 26💙", 
       "FLAG": "Tim", 
-      "Payload": "GET wss://api.onesignal.com/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
+      "Payload": "BASELINE-CONTROL wss://api.onesignal.com/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
       "SNI": "api.onesignal.com",
       "TlsIP": "api.onesignal.com",
       "ProxyIP": "api.onesignal.com",
@@ -738,7 +738,7 @@
    	{
    "Name": "🔵TIM 30",
       "FLAG": "tim",
-      "Payload": "GET wss://auth-uat-us.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection:sonicvpn Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://auth-uat-us.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection:sonicvpn Keep-Alive[crlf][crlf]",
       "SNI": "auth-uat-us.surveymonkey.com",
       "TlsIP": "auth-uat-us.surveymonkey.com",
       "ProxyIP": "",
@@ -749,7 +749,7 @@
    {
 "Name": "💙TIM 34 e 📱 🟣  VIVO /n antiga╰◕╰🍻 TIM TURBO 🍻◕╰◕",
 "FLAG": "tim",
-"Payload": "GET wss://bam.nr-data.net  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+"Payload": "BASELINE-CONTROL wss://bam.nr-data.net  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "bam.nr-data.net",
 "TlsIP": "bam.nr-data.net",
 "ProxyIP": "",
@@ -759,7 +759,7 @@
 { 
       "Name": "💙TIM 35💙 𝗦𝗔𝗟𝗗𝗢 𝗘𝗫𝗣𝗜𝗥𝗔𝗗𝗢", 
       "FLAG": "Tim", 
-      "Payload": "GET wss://auth-staging-us.surveymonkey.com/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
+      "Payload": "BASELINE-CONTROL wss://auth-staging-us.surveymonkey.com/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
       "SNI": "auth-staging-us.surveymonkey.com",
       "TlsIP": "auth-staging-us.surveymonkey.com",
       "ProxyIP": "auth-staging-us.surveymonkey.com",
@@ -769,7 +769,7 @@
    { 
       "Name": "💙TIM 36💙 𝗦𝗔𝗟𝗗𝗢 𝗘𝗫𝗣𝗜𝗥𝗔𝗗𝗢", 
       "FLAG": "Tim", 
-      "Payload": "GET wss://workplaceservices.surveymonkey.com/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
+      "Payload": "BASELINE-CONTROL wss://workplaceservices.surveymonkey.com/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
       "SNI": "workplaceservices.surveymonkey.com",
       "TlsIP": "workplaceservices.surveymonkey.com",
       "ProxyIP": "workplaceservices.surveymonkey.com",
@@ -790,7 +790,7 @@
 {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 01 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://fitality.gr/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://fitality.gr/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "fitality.gr",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
@@ -800,7 +800,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 02 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://vivoemdia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://vivoemdia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vivoemdia.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
@@ -810,7 +810,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 03 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://vivoemdia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://vivoemdia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vivoemdia.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -820,7 +820,7 @@
     {
     "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 04 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.7.80",
@@ -830,7 +830,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 05 📡 🔴\n ANTIGA VIVO 20 [SSL]",
       "FLAG": "vivo",
-      "Payload": "GET wss://compre.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: mentalista[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://compre.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: mentalista[crlf][crlf]",
       "SNI": "compre.vivo.com.br",
       "TlsIP": "compre.vivo.com.br",
       "ProxyIP": "",
@@ -840,7 +840,7 @@
 	{
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 06 📡 🔴\n ANTIGO VIVO 21 [SSL]",
       "FLAG": "vivo.png.png",
-      "Payload": "GET wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "portaljud.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -850,7 +850,7 @@
 	  {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 07 📡 🔴\n ANTIGO VIVO NOVA 8",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "vigia.vivo.com.br",
@@ -860,7 +860,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 08 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -871,7 +871,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 09 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET ssl://gedoc.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL ssl://gedoc.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "gedoc.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
@@ -881,7 +881,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 10 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -891,7 +891,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 1𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://app.pipefy.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://app.pipefy.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "app.pipefy.com",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -901,7 +901,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 12 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "portaljud.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -911,7 +911,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 14 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
@@ -921,7 +921,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 EASY 15 📡 🔴\n ANTIGA 📱𝗩𝗜𝗩𝗢 𝟬𝟱 𝐎𝐍 📡 🟠",
       "FLAG": "vivo",
-      "Payload": "GET wss://lgpdfront.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://lgpdfront.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "lgpdfront.vivo.com.br",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -931,7 +931,7 @@
     {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 16 📡 🔴\n ANTIGA VIVO 11 📡 💜\nDDD 88",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "vigia.vivo.com.br",
@@ -941,7 +941,7 @@
     {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 17 📡 🔴\n ANTIGA📱 VIVO 6 📡 💜\nDDD 71,75,77,79,85,88",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.6.80",
@@ -951,7 +951,7 @@
 	{
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 18 📡 🔴\n ANTIGA 📱 VIVO 7 📡 💜\nDDD 88",
       "FLAG": "vivo",
-      "Payload": "GET ws://vigia.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL ws://vigia.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "vigia.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -961,7 +961,7 @@
     {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 19 📡 🔴\n ANTIGA 📱 VIVO 8 📡 💜\nDDD 88",
       "FLAG": "vivo",
-      "Payload": "GET ws://vigia.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL ws://vigia.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "vigia.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -971,7 +971,7 @@
 	 {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 20 📡 🔴\n ANTIGA 📱 VIVO 9 📡 💜\nDDD 88",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -981,7 +981,7 @@
         {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 21 📡 🔴\n ANTIGA📱 VIVO 10 📡 💜\nDDD 88",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.7.80",
@@ -991,7 +991,7 @@
     {
 	  "Name": "📱𝗩𝗜𝗩𝗢 EASY 22 📡 🔴\n ANTIGA╰┈[☞>📱 VIVO 6 📡 💜\nDDD 85",
 	  "FLAG": "vivo",
-	  "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+	  "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 	  "SNI": "[app_host]",
 	  "TlsIP": "104.18.6.80",
 	  "ProxyIP": "",
@@ -1001,7 +1001,7 @@
   {
 	"Name": "📱𝗩𝗜𝗩𝗢 EASY 23 📡 🔴\n ANTIGA 🟣VIVO 2022 ss79",
       "FLAG": "vivo",
-      "Payload": "GET wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
      "SNI": "vivo360.vivo.com.br",
      "TlsIP": "104.18.6.80",
      "ProxyIP": "",
@@ -1011,7 +1011,7 @@
       {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 24 📡 🔴\n ANTIGA 💜VIVO PE TESTE 21072",
       "FLAG": "vivo",
-      "Payload": "GET wss://web.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://web.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.6.80",
@@ -1021,7 +1021,7 @@
       {
 	"Name": "📱𝗩𝗜𝗩𝗢 EASY 25 📡 🔴\n ANTIGA 💜VIVO DDD 92",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "vigia.vivo.com.br",
@@ -1031,7 +1031,7 @@
     {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 26 📡 🔴\n ANTIGA 💜VIVO1",
       "FLAG": "vivo",
-      "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -1041,7 +1041,7 @@
     {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 27 📡 🔴\n ANTIGA 💜VIVO RÁPIDA",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
@@ -1051,7 +1051,7 @@
      {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 28 📡 🔴\n ANTIGA 🟣VIVO [ DDD 11,31,33,34,42,51,62,81,87,92]",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.7.80",
@@ -1061,7 +1061,7 @@
    {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 29 📡 🔴\n ANTIGA 💚VIVO [DD 85]",
       "FLAG": "vivo",
-      "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -1071,7 +1071,7 @@
     {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 30 📡 🔴\n ANTIGA VIVO FUTURO DDD 91,92,24,85",
       "FLAG": "vivo",
-      "Payload": "GET wss://gedoc.vivo.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+      "Payload": "BASELINE-CONTROL wss://gedoc.vivo.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.6.80",
@@ -1081,7 +1081,7 @@
       {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 30 📡 🔴\n ANTIGA VIVO ONLINE DDD 71,75,77,79 TESTAR ",
       "FLAG": "vivo",
-      "Payload": "GET ws://gedoc.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL ws://gedoc.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "gedoc.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -1091,7 +1091,7 @@
     {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 31 📡 🔴\n ANTIGA VIVO ONLINE DDD 71,75,77,79 TESTAR",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.6.80",
@@ -1101,7 +1101,7 @@
      {
 	  "Name": "📱𝗩𝗜𝗩𝗢 EASY 32 📡 🔴\n ANTIGA VIVO CHIP SEM CADASTRO - 2",
 	  "FLAG": "vivo",
-	  "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+	  "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 	  "SNI": "[app_host]",
 	  "TlsIP": "104.18.6.80",
 	  "ProxyIP": "",
@@ -1111,7 +1111,7 @@
   {
 	"Name": "📱𝗩𝗜𝗩𝗢 EASY 33 📡 🔴\n ANTIGA 🟣VIVO [DDD 68,69,77,79",
 	"FLAG": "vivo.png",
-	"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+	"Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 	"SNI": "",
 	"TlsIP": "",
 	"ProxyIP": "104.18.6.80",
@@ -1121,7 +1121,7 @@
 	 {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 34 📡 🔴\n ANTIGA 🟣VIVO LANCAMENTO 3 DDDS: 11,22,38,51,82 ",
       "FLAG": "vivo",
-      "Payload": "GET wss://vivomusica.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: wss\n\n",
+      "Payload": "BASELINE-CONTROL wss://vivomusica.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: wss\n\n",
       "SNI": "vivomusica.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -1131,7 +1131,7 @@
      {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 35 📡 🔴\n ANTIGA VIVO FUNCIONAL [SSL 12] DDD 75 E 85",
       "FLAG": "vivo",
-     "Payload": "GET wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+     "Payload": "BASELINE-CONTROL wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vivo360.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
@@ -1141,7 +1141,7 @@
      {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 36 📡 🔴\n ANTIGA 🟣VIVO [SSL 2]",
       "FLAG": "vivo",
-      "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -1151,7 +1151,7 @@
     {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 37 📡 🔴\n ANTIGA Vivo TLS 01",
       "FLAG": "vivo",
-      "Payload": "GET ws://vigia.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL ws://vigia.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "vigia.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -1161,7 +1161,7 @@
     {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 38 📡 🔴\n ANTIGA VIVO SSL 11",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -1171,7 +1171,7 @@
     {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 39 📡 🔴\n ANTIGA VIVO CONECTANDO 2",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.56.6",
@@ -1181,7 +1181,7 @@
     {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 40 📡 🔴\n ANTIGA VIVO CONECTANDO 2",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.7.80",
@@ -1191,7 +1191,7 @@
     {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 41 📡 🔴\n ANTIGA VIVO CONECTANDO 2",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.6.80",
@@ -1201,7 +1201,7 @@
     {
      "Name": "📱𝗩𝗜𝗩𝗢 EASY 42 📡 🔴\n ANTIGA VIVO [DIRECT 3]",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.7.80",
@@ -1211,7 +1211,7 @@
     {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 43 📡 🔴\n ANTIGA VIVO [DIRECT 4]",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "vigia.vivo.com.br",
@@ -1221,7 +1221,7 @@
     {
       "Name": "📱𝗩𝗜𝗩𝗢 EASY 44 📡 🔴\n ANTIGA VIVO SSL 5",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
@@ -1231,7 +1231,7 @@
     {
       "Name": "📱VIVO BRASIL 1 📡 🔴\n",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
@@ -1241,7 +1241,7 @@
     {
       "Name": "📱VIVO BRASIL 2 📡 🔴\n",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "104.21.11.51",
       "ProxyIP": "",
@@ -1251,7 +1251,7 @@
     {
       "Name": "📱VIVO BRASIL 3 📡 🔴\n",
       "FLAG": "vivo",
-      "Payload": "GET ssl://rapehun.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL ssl://rapehun.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "rapehun.com",
       "TlsIP": "rapehun.com",
       "ProxyIP": "",
@@ -1261,7 +1261,7 @@
     {
       "Name": "📱VIVO BRASIL 4 📡 🔴\n",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "104.21.11.51",
       "ProxyIP": "",
@@ -1271,7 +1271,7 @@
     {
       "Name": "📱VIVO BRASIL 5 📡 🔴\n",
       "FLAG": "vivo",
-      "Payload": "GET ssl://rapehun.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL ssl://rapehun.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "rapehun.com",
       "TlsIP": "rapehun.com",
       "ProxyIP": "",
@@ -1281,7 +1281,7 @@
      {
        "Name": "📱VIVO BRASIL 6 📡 🔴\n ANTIGA📱 VIVO 18 📡 💜\nAL-PE-AM-PA-RN-PB-CE-ES DDDS INICIO 8 E 9, 27,28",
        "FLAG": "vivo",
-          "Payload": "GET wss://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+          "Payload": "BASELINE-CONTROL wss://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
           "SNI": "beneficios.vivo.com.br",
           "TlsIP": "172.67.165.43",
           "ProxyIP": "",
@@ -1311,7 +1311,7 @@
     {
 "Name": "📱 VIVO ROTATE TLSWS 01 📡💜",
 "FLAG": "vivo",
-"Payload": "SCONNECT ssl://portaljud.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]GET http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
+"Payload": "SCONNECT ssl://portaljud.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]BASELINE-CONTROL http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
 "SNI": "portaljud.vivo.com.br",
 "TlsIP": "104.18.7.80",
 "ProxyIP": "",
@@ -1321,7 +1321,7 @@
 {
 "Name": "📱 VIVO ROTATE TLSWS 02 📡💜",
 "FLAG": "vivo",
-"Payload": "SCONNECT ssl://carrinho-pos-familia.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]GET http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
+"Payload": "SCONNECT ssl://carrinho-pos-familia.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]BASELINE-CONTROL http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
 "SNI": "carrinho-pos-familia.vivo.com.br",
 "TlsIP": "104.18.7.80",
 "ProxyIP": "",
@@ -1331,7 +1331,7 @@
 {
 "Name": "📱 VIVO ROTATE TLSWS 03 📡💜",
 "FLAG": "vivo",
-"Payload": "SCONNECT ssl://bam.nr-data.net HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]GET http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
+"Payload": "SCONNECT ssl://bam.nr-data.net HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]BASELINE-CONTROL http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
 "SNI": "bam.nr-data.net",
 "TlsIP": "162.247.241.14",
 "ProxyIP": "",
@@ -1341,7 +1341,7 @@
 {
 "Name": "📱 VIVO ROTATE TLSWS 04 📡💜",
 "FLAG": "vivo",
-"Payload": "SCONNECT ssl://proxy.hmtutors.ga HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]GET http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
+"Payload": "SCONNECT ssl://proxy.hmtutors.ga HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]BASELINE-CONTROL http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
 "SNI": "proxy.hmtutors.ga",
 "TlsIP": "proxy.hmtutors.ga",
 "ProxyIP": "",
@@ -1351,7 +1351,7 @@
 {
 "Name": "📱 VIVO ROTATE TLSWS 05 📡💜",
 "FLAG": "vivo",
-"Payload": "SCONNECT ssl://bilder.smatch.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]GET http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
+"Payload": "SCONNECT ssl://bilder.smatch.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]BASELINE-CONTROL http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
 "SNI": "bilder.smatch.com",
 "TlsIP": "bilder.smatch.com",
 "ProxyIP": "",
@@ -1361,7 +1361,7 @@
 {
 "Name": "📱 VIVO ROTATE PROXY 01 📡💜",
 "FLAG": "vivo",
-"Payload": "GET wss://[rotate=gracegardencounseling.com;bam.nr-data.net;[app_host];vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+"Payload": "BASELINE-CONTROL wss://[rotate=gracegardencounseling.com;bam.nr-data.net;[app_host];vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "104.18.7.80",
@@ -1371,7 +1371,7 @@
 {
 "Name": "📱 VIVO ROTATE PROXY 02 📡💜",
 "FLAG": "vivo",
-"Payload": "GET wss://[rotate=gracegardencounseling.com;bam.nr-data.net;[app_host];vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+"Payload": "BASELINE-CONTROL wss://[rotate=gracegardencounseling.com;bam.nr-data.net;[app_host];vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "104.18.6.80",
@@ -1381,7 +1381,7 @@
 {
 "Name": "📱 VIVO ROTATE PROXY 03 📡💜",
 "FLAG": "vivo",
-"Payload": "GET wss://[rotate=gracegardencounseling.com;bam.nr-data.net;[app_host];vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+"Payload": "BASELINE-CONTROL wss://[rotate=gracegardencounseling.com;bam.nr-data.net;[app_host];vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "162.247.241.14",
@@ -1391,7 +1391,7 @@
 {
 "Name": "📱 VIVO TLS DIRECT 01 📡💜",
 "FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+"Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "[app_host]",
 "TlsIP": "104.18.7.80",
 "ProxyIP": "",
@@ -1401,7 +1401,7 @@
 {
 "Name": "📱 VIVO TLS DIRECT 02 📡💜",
 "FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+"Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "[app_host]",
 "TlsIP": "104.18.6.80",
 "ProxyIP": "",
@@ -1411,7 +1411,7 @@
 {
 "Name": "📱 VIVO TLS DIRECT 03 📡💜",
 "FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+"Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "[app_host]",
 "TlsIP": "162.247.241.14",
 "ProxyIP": "",
@@ -1432,7 +1432,7 @@
 {
 "Name": "╰◕╰🌦️ TIM GOOGLE━ 𝐎𝐍 🌨️🟢",
 "FLAG": "tim",
-"Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+"Payload": "BASELINE-CONTROL wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
 "SNI": "duvidas.ampli.com.br",
 "TlsIP": "104.16.53.111",
 "ProxyIP": "104.16.53.111",
@@ -1513,7 +1513,7 @@
 {
 "Name": "╰◕╰🪐 TIM GAMES 🪐◕╰◕",
 "FLAG": "tim",
-"Payload": "GET wss://mobile.c6bank.app  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+"Payload": "BASELINE-CONTROL wss://mobile.c6bank.app  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "mobile.c6bank.app",
 "TlsIP": "mobile.c6bank.app",
 "ProxyIP": "",
@@ -1533,7 +1533,7 @@
 {
 "Name": "╰◕╰💙🔥 TIM NORDESTE 🔥💙╰◕",
 "FLAG": "tim",
-"Payload": "GET wss://assets-sf.c6bank.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+"Payload": "BASELINE-CONTROL wss://assets-sf.c6bank.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "assets-sf.c6bank.com.br",
 "TlsIP": "104.16.237.16",
 "ProxyIP": "",
@@ -1543,7 +1543,7 @@
 {
 "Name": "◕╰💙🔥 TIM LIVRE 🔥💙╰◕",
 "FLAG": "tim",
-"Payload": "GET wss://cursolivre.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+"Payload": "BASELINE-CONTROL wss://cursolivre.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
 "SNI": "cursolivre.ampli.com.br",
 "TlsIP": "172.64.144.237",
 "ProxyIP": "",
@@ -1553,7 +1553,7 @@
 {
 "Name": "◕╰🕺 TIM ONE 🕺◕╰◕",
 "FLAG": "Tim",
-"Payload": "GET wss://api.onesignal.com/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
+"Payload": "BASELINE-CONTROL wss://api.onesignal.com/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]" ,
 "SNI": "api.onesignal.com",
 "TlsIP": "api.onesignal.com",
 "ProxyIP": "api.onesignal.com",
@@ -1563,7 +1563,7 @@
 {
 "Name": "📱 OI TLSWS 01 📡💛",
 "FLAG": "oi",
-"Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+"Payload": "BASELINE-CONTROL ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
 "SNI": "www.hbogo.com.br",
 "TlsIP": "www.hbogo.com.br",
 "ProxyIP": "",
@@ -1573,7 +1573,7 @@
 {
 "Name": "📱 OI TLSWS 02 📡💛",
 "FLAG": "oi",
-"Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+"Payload": "BASELINE-CONTROL ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
 "SNI": "www.hbogo.com.br",
 "TlsIP": "104.16.53.91",
 "ProxyIP": "",
@@ -1583,7 +1583,7 @@
 {
 "Name": "📱 OI TLSWS 03 📡💛",
 "FLAG": "oi",
-"Payload": "GET sni://www.hbogo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+"Payload": "BASELINE-CONTROL sni://www.hbogo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "www.hbogo.com.br",
 "TlsIP": "104.16.51.91",
 "ProxyIP": "",
@@ -1593,8 +1593,8 @@
 {
 "Name": "📱 OI TLSWS 04 📡💛",
 "FLAG": "oi",
-"Payload": "GET ws://www.hbogo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade:ws[crlf][crlf]",
-"SNI": "GET ws://www.hbogo.com.br",
+"Payload": "BASELINE-CONTROL ws://www.hbogo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade:ws[crlf][crlf]",
+"SNI": "BASELINE-CONTROL ws://www.hbogo.com.br",
 "TlsIP": "104.16.55.91",
 "ProxyIP": "",
 "ProxyPort": "",
@@ -1604,7 +1604,7 @@
 { 
  "Name": "VIVO",
 "FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: 8o036w19691m48qk52.agilewingcdn.com]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+"Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: 8o036w19691m48qk52.agilewingcdn.com]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "recarga.vivo.com.br",
@@ -1614,7 +1614,7 @@
  {
       "Name": "🟣VIVO LOGIN ",
       "FLAG": "vivo",
-      "Payload": "GET wss://gedoc.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://gedoc.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "gedoc.vivo.com.br",
       "TlsIP": "104.24.10.16",
       "ProxyIP": "",
@@ -1624,7 +1624,7 @@
   {
       "Name": "VIVO 79 SERGIPE",
       "FLAG": "vivo",
-      "Payload": "GET wss://m.waze.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://m.waze.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "m.waze.com",
       "TlsIP": "m.waze.com",
       "ProxyIP": "",
@@ -1634,7 +1634,7 @@
   {
       "Name": "VIVO NOVA DDD 12,21,58 E OUTROS",
       "FLAG": "vivo",
-      "Payload": "GET wss://digeverse.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: bode[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://digeverse.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: bode[crlf][crlf]",
       "SNI": "digeverse.com",
       "TlsIP": "104.21.11.51",
       "ProxyIP": "",
@@ -1644,7 +1644,7 @@
   {
       "Name": "💚VIVO AM-PA-AP-RJ 2 DDD 91,92,24,85",
       "FLAG": "vivo",
-      "Payload": "GET wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vpoweb.vivo.com.br",
       "TlsIP": "",
       "ProxyIP": "104.18.6.80",
@@ -1654,7 +1654,7 @@
 	{
       "Name": "🟣VIVO RJ-RS-AL DDDS: 21,51,82 ",
       "FLAG": "vivo",
-      "Payload": "GET wss://cursofl.formuladelancamento.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://cursofl.formuladelancamento.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "cursofl.formuladelancamento.com.br",
       "TlsIP": "104.24.25.34",
       "ProxyIP": "",
@@ -1664,7 +1664,7 @@
 	{
       "Name": "💚VIVO AM-PA-AP-ES-PE DDD 27,28,81A88,91,92",
       "FLAG": "vivo",
-      "Payload": "GET wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "portaljud.vivo.com.br",
       "TlsIP": "104.21.11.51",
       "ProxyIP": "",
@@ -1674,7 +1674,7 @@
 	{
       "Name": "🟣VIVO SP-DF-GO-PE-CE-RN-ES DDD 11,12,21,24,27,28,61,62,71,81,82,83,84,85,87,88",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
       "TlsIP": "[app_host]",
       "ProxyIP": "172.67.165.43",
@@ -1685,7 +1685,7 @@
 		{
       "Name": "🟣VIVO SP-DF-GO-ES-MG-BA-PE DDD 11,27,28,31,61,62,71A77,81A88",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.21.11.51",
@@ -1695,7 +1695,7 @@
 {
       "Name": "💚VIVO SP-PR-PA-PE-AP-ES-AM-AP-PE DDDS INICIO 8 E 9 11,15,16,27,28,43,61,62,81A88,91,96",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -1705,7 +1705,7 @@
 {
       "Name": "🟣VIVO BA-PA-SE-PE-CE-RN-PA-AP-ES DDD 27,28,71A77,79,81,82,83,84,85,86,87,88,91",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.21.11.51",
@@ -1715,7 +1715,7 @@
 	{
       "Name": "VIVO AM-PA-AP-RJ 2 DDD 91,92,24,85",
       "FLAG": "vivo",
-      "Payload": "GET wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vpoweb.vivo.com.br",
       "TlsIP": "",
       "ProxyIP": "104.18.6.80",
@@ -1725,7 +1725,7 @@
  {
    "Name": "VIVO AL-PE-AM-PA-RN-PB-CE-ES 2 DDDS INICIO 8 E 9, 27,28",
    "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -1735,7 +1735,7 @@
 {
      "Name": "VIVO AL-PE-AM-PA-RN-PB-CE-ES 3 DDDS INICIO 8 E 9, 27,28",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -1745,7 +1745,7 @@
 {
    "Name": "VIVO AL-PE-AM-PA-RN-PB-CE-ES 4 DDDS INICIO 8 E 9, 27,28",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -1755,7 +1755,7 @@
   {
    "Name": "VIVO AL-PE-AM-PA-RN-PB-CE 5 DDDS INICIO 8 E 9",
    "FLAG": "vivo",
-   "Payload": "GET wss://cdnjs.cloudflare.com [protocol][crlf]Host: [app_host][crlf] Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
+   "Payload": "BASELINE-CONTROL wss://cdnjs.cloudflare.com [protocol][crlf]Host: [app_host][crlf] Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
    "SNI": "cdnjs.cloudflare.com",
    "TlsIP": "172.67.165.43",
    "ProxyIP": "",
@@ -1765,7 +1765,7 @@
 {
        "Name": "VIVO AL-PE-AM-PA-RN-PB-CE-SP 5 DDDS INICIO 8 E 9 e 11",
        "FLAG": "vivo",
-          "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "unpkg.com",
           "TlsIP": "172.67.165.43",
           "ProxyIP": "",
@@ -1775,7 +1775,7 @@
     {
       "Name": "💙TIM 6Bank [SSL 1]",
       "FLAG": "tim",
-      "Payload": "GET wss://blog.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://blog.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "blog.c6bank.com.br",
       "TlsIP": "104.16.236.16",
       "ProxyIP": "104.16.236.16",
@@ -1785,7 +1785,7 @@
     {
       "Name": "💙TIM VIRTUAL [SSL 2]",
       "FLAG": "tim",
-      "Payload": "GET wss://m.timbancavirtual.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://m.timbancavirtual.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "m.timbancavirtual.com.br",
       "TlsIP": "104.16.134.83",
       "ProxyIP": "104.16.134.83",
@@ -1795,7 +1795,7 @@
     {
       "Name": "💙TIM AJUDA [SSL 3]",
       "FLAG": "tim",
-      "Payload": "GET ws://ajuda.c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL ws://ajuda.c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "ajuda.c6bank.com.br",
       "TlsIP": "104.16.236.16",
       "ProxyIP": "104.16.236.16",
@@ -1805,7 +1805,7 @@
     {
       "Name": "TIM BRASIL",
       "FLAG": "tim",
-      "Payload": "GET wss://www.alura.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://www.alura.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "www.alura.com.br",
       "TlsIP": "www.alura.com.br",
       "ProxyIP": "",
@@ -1815,7 +1815,7 @@
     {
       "Name": "TIM PRE TOP 1",
       "FLAG": "tim",
-      "Payload": "GET ws://static.r4you.co HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL ws://static.r4you.co HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "static.r4you.co",
       "TlsIP": "104.26.4.175",
       "ProxyIP": "104.26.4.175",
@@ -1825,7 +1825,7 @@
       {
       "Name": "TIM PRE TOP 2",
       "FLAG": "tim.png",
-      "Payload": "GET wss://ajuda.c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://ajuda.c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "ajuda.c6bank.com.br",
       "TlsIP": "ajuda.c6bank.com.br",
       "ProxyIP": "",
@@ -1835,7 +1835,7 @@
     {
       "Name": "TIM PROXY 01",
       "FLAG": "tim",
-      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://mobilidade.cloud.caixa.gov.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.56.6",
@@ -1845,7 +1845,7 @@
     {
       "Name": "TIM TLS 02",
       "FLAG": "tim",
-      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
+      "Payload": "BASELINE-CONTROL ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
       "SNI": "mobilidade.cloud.caixa.gov.br",
       "TlsIP": "mobilidade.cloud.caixa.gov.br",
       "ProxyIP": "",
@@ -1855,7 +1855,7 @@
     {
       "Name": "TIM TLS 03",
       "FLAG": "tim",
-      "Payload": "GET wss://m.timbancavirtual.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://m.timbancavirtual.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "m.timbancavirtual.com.br",
       "TlsIP": "m.timbancavirtual.com.br",
       "ProxyIP": "",
@@ -1865,7 +1865,7 @@
     {
       "Name": "TIM TLS 04",
       "FLAG": "tim",
-      "Payload": "GET wss://cdnjs.cloudflare.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://cdnjs.cloudflare.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "cdnjs.cloudflare.com",
       "TlsIP": "cdnjs.cloudflare.com",
       "ProxyIP": "",
@@ -1875,7 +1875,7 @@
     {
       "Name": "TIM TLS 05",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "104.16.19.94",
       "ProxyIP": "",
@@ -1885,7 +1885,7 @@
     {
       "Name": "💙TIM GAME🛸",
       "FLAG": "tim",
-      "Payload": "GET wss://blog.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://blog.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "blog.alura.com.br",
       "TlsIP": "blog.alura.com.br",
       "ProxyIP": "",
@@ -1896,7 +1896,7 @@
     {
        "Name": "VIVO MORTO 1 DDDS 81,82,83,84,85,87,88,92",
        "FLAG": "vivo",
-          "Payload": "GET ws://gedoc.vivo.com.br HTTP/1.1[lf]Host: [app_host][lf]Upgrade: ws[lf][lf]",
+          "Payload": "BASELINE-CONTROL ws://gedoc.vivo.com.br HTTP/1.1[lf]Host: [app_host][lf]Upgrade: ws[lf][lf]",
           "SNI": "gedoc.vivo.com.br",
           "TlsIP": "172.64.130.2",
           "ProxyIP": "",
@@ -1906,7 +1906,7 @@
 	 {
        "Name": "VIVO MORTO 2 DDDS 81,82,83,84,85,87,88,92",
        "FLAG": "vivo",
-          "Payload": "GET wss://api.bitso.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+          "Payload": "BASELINE-CONTROL wss://api.bitso.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
           "SNI": "api.bitso.com",
           "TlsIP": "172.64.195.2",
           "ProxyIP": "",
@@ -1916,7 +1916,7 @@
 	 {
        "Name": "VIVO MORTO 3 DDDS 81,82,83,84,85,87,88,92",
        "FLAG": "vivo",
-          "Payload": "GET wss://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+          "Payload": "BASELINE-CONTROL wss://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
           "SNI": "beneficios.vivo.com.br",
           "TlsIP": "172.67.165.43",
           "ProxyIP": "",
@@ -1926,7 +1926,7 @@
 	{
        "Name": "VIVO MORTO 4 DDDS 81,82,83,84,85,87,88,92",
        "FLAG": "vivo",
-          "Payload": "GET wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "vpoweb.vivo.com.br",
           "TlsIP": "198.58.125.139",
           "ProxyIP": "",
@@ -1936,7 +1936,7 @@
 	{
        "Name": "VIVO MORTO 5 DDDS 81,82,83,84,85,87,88,92",
        "FLAG": "vivo",
-          "Payload": "GET wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "vpoweb.vivo.com.br",
           "TlsIP": "172.64.131.2",
           "ProxyIP": "",
@@ -1946,7 +1946,7 @@
 	{
        "Name": "VIVO MORTO 6 DDDS 81,82,83,84,85,87,88,92",
        "FLAG": "vivo",
-          "Payload": "GET wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "vpoweb.vivo.com.br",
           "TlsIP": "172.64.194.2",
           "ProxyIP": "",
@@ -1957,7 +1957,7 @@
   {
        "Name": "VIVO LUA 1 DDD 11,91",
        "FLAG": "vivo",
-          "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "unpkg.com",
           "TlsIP": "172.67.165.43",
           "ProxyIP": "",
@@ -1968,7 +1968,7 @@
   {
       "Name": "💚VIVO [SSL 3] DDD 91,92 TESTES",
       "FLAG": "vivo",
-      "Payload": "GET wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "portaljud.vivo.com.br",
       "TlsIP": "104.21.11.51",
       "ProxyIP": "",
@@ -1978,7 +1978,7 @@
     {
       "Name": "VIVO FUTURO DDD 91,92,24,85",
       "FLAG": "vivo",
-      "Payload": "GET wss://gedoc.vivo.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+      "Payload": "BASELINE-CONTROL wss://gedoc.vivo.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.6.80",
@@ -1988,7 +1988,7 @@
     {
       "Name": "VIVO FUTURO 2 DDD 91,92,24,85",
       "FLAG": "vivo",
-      "Payload": "GET wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://vpoweb.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vpoweb.vivo.com.br",
       "TlsIP": "",
       "ProxyIP": "104.18.6.80",
@@ -1999,7 +1999,7 @@
    {
       "Name": "VIVO 4G - 01 DDD 11,13,15,16,43,61,62,91,96",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -2009,7 +2009,7 @@
 	  {
       "Name": "VIVO ONLINE DDD 71,75,77,79 TESTAR ",
       "FLAG": "vivo",
-      "Payload": "GET ws://gedoc.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL ws://gedoc.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "gedoc.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -2019,7 +2019,7 @@
     {
       "Name": "VIVO ONLINE DDD 71,75,77,79 TESTAR",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.6.80",
@@ -2029,7 +2029,7 @@
  {
       "Name": "🟣VIVO ONLINE [DIRECT 2022-01] DDD 71,77,79,91",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.21.11.51",
@@ -2039,7 +2039,7 @@
       {
 	  "Name": "VIVO CHIP SEM CADASTRO - 2",
 	  "FLAG": "vivo",
-	  "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+	  "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 	  "SNI": "[app_host]",
 	  "TlsIP": "104.18.6.80",
 	  "ProxyIP": "",
@@ -2049,7 +2049,7 @@
 	  {
 	  "Name": "💚VIVO DDD 21,27,28,61,62,77,96 - 2",
       "FLAG": "vivo",
-      "Payload": "GET ws://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL ws://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "",
       "TlsIP": "beneficios.vivo.com.br",
       "ProxyIP": "172.67.165.43",
@@ -2059,7 +2059,7 @@
 	  {
       "Name": "Vivo 9 NOVA DDD 21",
       "FLAG": "vivo",
-      "Payload": "GET wss://web.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://web.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "web.vivo.com.br",
       "TlsIP": "104.16.122.175",
       "ProxyIP": "",
@@ -2069,7 +2069,7 @@
    {
    "Name": "VIVO - 10 NOVA DDD 21,71,74",
    "FLAG": "vivo",
-      "Payload": "GET wss://support.deezer.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://support.deezer.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.deezer.com",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -2080,7 +2080,7 @@
       {
 	"Name": "🟣VIVO [DDD 68,69,77,79",
 	"FLAG": "vivo.png",
-	"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+	"Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 	"SNI": "",
 	"TlsIP": "",
 	"ProxyIP": "104.18.6.80",
@@ -2090,7 +2090,7 @@
   	{
       "Name": "🟣VIVO ddd 21",
       "FLAG": "vivo",
-      "Payload": "GET wss://vpoweb.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://vpoweb.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vpoweb.vivo.com.br",
       "TlsIP": "104.16.57.6",
       "ProxyIP": "",
@@ -2100,7 +2100,7 @@
     {
       "Name": "🟣VIVO LANCAMENTO 1 DDDS: 11,22,51 ",
       "FLAG": "vivo",
-      "Payload": "GET ws://gedoc.vivo.com.br HTTP/1.1[lf]Host: [app_host][lf]Upgrade: ws[lf][lf]",
+      "Payload": "BASELINE-CONTROL ws://gedoc.vivo.com.br HTTP/1.1[lf]Host: [app_host][lf]Upgrade: ws[lf][lf]",
       "SNI": "gedoc.vivo.com.br",
       "TlsIP": "gedoc.vivo.com.br",
       "ProxyIP": "",
@@ -2110,7 +2110,7 @@
     {
       "Name": "🟣VIVO LANCAMENTO 2 DDDS: 82,51 ",
       "FLAG": "vivo",
-      "Payload": "GET wss://shop.elliberal.com.ar HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://shop.elliberal.com.ar HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "shop.elliberal.com.ar",
       "TlsIP": "172.64.194.2",
       "ProxyIP": "",
@@ -2120,7 +2120,7 @@
     {
       "Name": "🟣VIVO LANCAMENTO 3 DDDS: 11,22,38,51,82 ",
       "FLAG": "vivo",
-      "Payload": "GET wss://vivomusica.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: wss\n\n",
+      "Payload": "BASELINE-CONTROL wss://vivomusica.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: wss\n\n",
       "SNI": "vivomusica.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -2130,7 +2130,7 @@
     {
       "Name": "🟣VIVO LANCAMENTO 4 DDDS: 21,51,82 ",
       "FLAG": "vivo",
-      "Payload": "GET wss://cursofl.formuladelancamento.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://cursofl.formuladelancamento.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "cursofl.formuladelancamento.com.br",
       "TlsIP": "104.24.25.34",
       "ProxyIP": "",
@@ -2140,7 +2140,7 @@
     {
       "Name": "🟣VIVO LANCAMENTO 5 DDDS: 51,82,79 ",
       "FLAG": "vivo",
-      "Payload": "GET wss://cursofl.formuladelancamento.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://cursofl.formuladelancamento.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "cursofl.formuladelancamento.com.br",
       "TlsIP": "104.24.24.34",
       "ProxyIP": "",
@@ -2150,7 +2150,7 @@
     {
       "Name": "🟣VIVO LANCAMENTO 6 DDDS: 51,82 ",
       "FLAG": "vivo",
-      "Payload": "GET wss://support.pokemon.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://support.pokemon.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.pokemon.com",
       "TlsIP": "172.64.130.2",
       "ProxyIP": "",
@@ -2160,7 +2160,7 @@
      {
       "Name": "🟣VIVO LANCAMENTO 7 DDDS: 51,82 ",
       "FLAG": "vivo",
-      "Payload": "GET wss://vivodocdigital.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://vivodocdigital.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vivodocdigital.vivo.com.br",
       "TlsIP": "104.24.10.16",
       "ProxyIP": "",
@@ -2172,7 +2172,7 @@
    {
       "Name": "VIVO FUNCIONAL 1 DDD 21,24,27,28,61,62,71",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
       "TlsIP": "[app_host]",
       "ProxyIP": "172.67.165.43",
@@ -2182,7 +2182,7 @@
 {
       "Name": "VIVO FUNCIONAL[PROXY 03]",
       "FLAG": "vivo",
-      "Payload": "GET \/ HTTP\/1.3[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL \/ HTTP\/1.3[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "v.gdmhost.ga",
       "TlsIP": "v.gdmhost.ga",
       "ProxyIP": "v.gdmhost.ga",
@@ -2193,7 +2193,7 @@
 	{
       "Name": "VIVO  FUNCIONAL[SSL 04]",
       "FLAG": "vivo",
-      "Payload": "GET wss://api.bitso.com/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+      "Payload": "BASELINE-CONTROL wss://api.bitso.com/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
       "SNI": "api.bitso.com",
       "TlsIP": "172.64.195.2",
       "ProxyIP": "",
@@ -2203,7 +2203,7 @@
 	 {
       "Name": "VIVO FUNCIONAL [SSL 08]",
       "FLAG": "vivo",
-      "Payload": "GET wss://www.alura.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+      "Payload": "BASELINE-CONTROL wss://www.alura.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
       "SNI": "www.alura.com.br",
       "TlsIP": "104.24.10.16",
       "ProxyIP": "",
@@ -2213,7 +2213,7 @@
 	{
       "Name": "VIVO FUNCIONAL [SSL 10]",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "172.64.131.2",
       "ProxyIP": "",
@@ -2223,7 +2223,7 @@
 	{
       "Name": "VIVO FUNCIONAL [SSL 11]",
       "FLAG": "vivo",
-      "Payload": "GET wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "portaljud.vivo.com.br",
       "TlsIP": "172.64.131.2",
       "ProxyIP": "",
@@ -2233,7 +2233,7 @@
     {
       "Name": "VIVO FUNCIONAL [SSL 12] DDD 75 E 85",
       "FLAG": "vivo",
-     "Payload": "GET wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+     "Payload": "BASELINE-CONTROL wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vivo360.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
@@ -2243,7 +2243,7 @@
    {
       "Name": "💚VIVO [DIRECT 1] DDD 71",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "172.67.165.43",
@@ -2253,7 +2253,7 @@
     {
       "Name": "🟣VIVO [SSL 2]",
       "FLAG": "vivo",
-      "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -2263,7 +2263,7 @@
     {
       "Name": "🟣VIVO [SSL 3] DDD 91,92",
       "FLAG": "vivo",
-      "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
       "TlsIP": "104.18.12.209",
       "ProxyIP": "",
@@ -2274,7 +2274,7 @@
    {
      "Name": "VIVO 02 DDD 21,27,28",
       "FLAG": "vivo",
-      "Payload": "GET wss://money-staging.infinitepay.io HTTP/1.1[lf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://money-staging.infinitepay.io HTTP/1.1[lf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
       "TlsIP": "money-staging.infinitepay.io",
       "ProxyIP": "104.16.124.175",
@@ -2284,7 +2284,7 @@
     {
       "Name": "VIVO SSL 11",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -2294,7 +2294,7 @@
         {
       "Name": "VIVO TOP 1 PROXY, DDD 27,28,61,62,77",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "vivo1.startnetplus.xyz",
@@ -2304,7 +2304,7 @@
     {
       "Name": "VIVO TOP 2 TLS DDD 27,28,61,62,71,77",
       "FLAG": "vivo",
-      "Payload": "GET wss://vivo1.startnetplus.xyz HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://vivo1.startnetplus.xyz HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "vivo1.startnetplus.xyz",
       "TlsIP": "vivo1.startnetplus.xyz",
       "ProxyIP": "",
@@ -2314,7 +2314,7 @@
     {
       "Name": "VIVO TOP 3 PROXY DDD 61,62,71",
       "FLAG": "vivo",
-      "Payload": "GET wss://vivo8.startnetplus.xyz/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://vivo8.startnetplus.xyz/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "vivo8.startnetplus.xyz",
@@ -2324,7 +2324,7 @@
     {
       "Name": "VIVO TOP 4 TLS DDD 27,28,61,62,71",
       "FLAG": "vivo",
-      "Payload": "GET wss://vivo8.startnetplus.xyz/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://vivo8.startnetplus.xyz/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vivo8.startnetplus.xyz",
       "TlsIP": "vivo8.startnetplus.xyz",
       "ProxyIP": "",
@@ -2334,7 +2334,7 @@
      {
       "Name": "VIVO TOP 5 TLS",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "vivo8.startnetplus.xyz",
       "TlsIP": "vivo8.startnetplus.xyz",
       "ProxyIP": "",
@@ -2344,7 +2344,7 @@
     {
       "Name": "Vivo TOP 06a DDD 71",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "104.21.11.51",
       "ProxyIP": "",
@@ -2354,7 +2354,7 @@
     {
       "Name": "Vivo TOP 06B",
       "FLAG": "vivo",
-      "Payload": "GET wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vivo360.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
@@ -2374,7 +2374,7 @@
      {
       "Name": "VIVO TOP 8 PROXY",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3ipycxzoqfw4k.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "TOP / HTTP/1.1[crlf]Host: d3ipycxzoqfw4k.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "live.vivo.com.br",
@@ -2384,7 +2384,7 @@
      {
       "Name": "VIVO CONECTANDO 2",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.56.6",
@@ -2394,7 +2394,7 @@
     {
       "Name": "VIVO CONECTANDO 2",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.7.80",
@@ -2404,7 +2404,7 @@
     {
       "Name": "VIVO CONECTANDO 2",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.6.80",
@@ -2414,7 +2414,7 @@
     {
       "Name": "VIVO PROXY 01",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.24.10.16",
@@ -2424,7 +2424,7 @@
      {
       "Name": "VIVO PROXY 02",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "172.64.195.2",
@@ -2434,7 +2434,7 @@
     {
       "Name": "VIVO PROXY 03",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.6.80",
@@ -2444,7 +2444,7 @@
     {
       "Name": "VIVO PROXY 04",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.7.80",
@@ -2454,7 +2454,7 @@
     {
       "Name": "VIVO PROXY 05",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.56.6",
@@ -2464,7 +2464,7 @@
     {
       "Name": "VIVO PROXY 06",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.56.6",
@@ -2475,7 +2475,7 @@
       "Name": "VIVO PROXY 07",
       "TYPE": "premium",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.24.10.16",
@@ -2486,7 +2486,7 @@
     {
       "Name": "VIVO TLS 03",
       "FLAG": "vivo",
-      "Payload": "GET wss://cname.vivo.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+      "Payload": "BASELINE-CONTROL wss://cname.vivo.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
       "SNI": "cname.vivo.com.br",
       "TlsIP": "172.64.195.2",
       "ProxyIP": "",
@@ -2496,7 +2496,7 @@
     {
       "Name": "VIVO TLS 04",
       "FLAG": "vivo",
-      "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
       "TlsIP": "172.64.131.2",
       "ProxyIP": "",
@@ -2506,7 +2506,7 @@
     {
       "Name": "VIVO TLS TESTE DDD 61,62",
       "FLAG": "vivo",
-      "Payload": "GET wss://[app_host]/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://[app_host]/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vivo1.startnetplus.xyz",
       "TlsIP": "vivo1.startnetplus.xyz",
       "ProxyIP": "",
@@ -2516,7 +2516,7 @@
     {
       "Name": "VIVO DIRECT 01 DDD 71",
       "FLAG": "vivo",
-      "Payload": "SCONNECT ssl://portaldegovernancadocumental.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]GET http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
+      "Payload": "SCONNECT ssl://portaldegovernancadocumental.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf]BASELINE-CONTROL http://[rotate=www.youtube.com;www.google.com;www.tiktok.com][protocol][crlf]Host: [rotate=www.youtube.com;www.google.com;www.tiktok.com][crlf][crlf]",
       "SNI": "portaldegovernancadocumental.vivo.com.br",
       "TlsIP": "portaldegovernancadocumental.vivo.com.br",
       "ProxyIP": "",
@@ -2526,7 +2526,7 @@
     {
      "Name": "VIVO [DIRECT 3]",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.7.80",
@@ -2536,7 +2536,7 @@
      {
       "Name": "VIVO [DIRECT 4]",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "vigia.vivo.com.br",
@@ -2546,7 +2546,7 @@
     {
       "Name": "VIVO SSL 1",
       "FLAG": "vivo",
-      "Payload": "GET wss://support.pokemon.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://support.pokemon.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.pokemon.com",
       "TlsIP": "172.64.130.2",
       "ProxyIP": "",
@@ -2555,7 +2555,7 @@
    },
    {"Name": "🟣VIVO [07]",
       "FLAG": "vivo",
-      "Payload": "GET wss://web.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://web.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "web.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
@@ -2565,7 +2565,7 @@
     {
       "Name": "VIVO SSL 2",
       "FLAG": "vivo",
-      "Payload": "GET wss://checkout.mediafire.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://checkout.mediafire.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "checkout.mediafire.com",
       "TlsIP": "104.24.11.16",
       "ProxyIP": "",
@@ -2575,7 +2575,7 @@
     {
       "Name": "VIVO SSL 3",
       "FLAG": "vivo",
-      "Payload": "GET wss://onepiece.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://onepiece.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "onepiece.com",
       "TlsIP": "172.64.131.2",
       "ProxyIP": "",
@@ -2585,7 +2585,7 @@
         {
       "Name": "VIVO SSL 4",
       "FLAG": "vivo",
-      "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -2595,7 +2595,7 @@
     {
       "Name": "VIVO SSL 5",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
@@ -2605,7 +2605,7 @@
     {
       "Name": "VIVO SSL 6",
       "FLAG": "vivo",
-      "Payload": "GET wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "portaljud.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -2616,7 +2616,7 @@
     {
       "Name": "💚VIVO [SSL 1]",
       "FLAG": "vivo",
-      "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -2626,7 +2626,7 @@
     {
       "Name": "💚VIVO [SSL 2]",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
@@ -2636,7 +2636,7 @@
     {
       "Name": "💚VIVO [SSL 3]",
       "FLAG": "vivo",
-      "Payload": "GET wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "portaljud.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -2646,7 +2646,7 @@
     {
       "Name": "💚VIVO [SSL 4]",
       "FLAG": "vivo",
-      "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -2656,7 +2656,7 @@
     {
       "Name": "💚VIVO [SSL 5]",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
@@ -2666,7 +2666,7 @@
     {
       "Name": "💚VIVO [SSL 6]",
       "FLAG": "vivo",
-      "Payload": "GET wss://help.pornhub.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://help.pornhub.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "help.pornhub.com",
       "TlsIP": "162.159.135.63",
       "ProxyIP": "",
@@ -2676,7 +2676,7 @@
    {
       "Name": "💚VIVO [SSL 6]a",
       "FLAG": "vivo",
-      "Payload": "GET wss://cname.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://cname.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "cname.vivo.com.br",
       "TlsIP": "162.159.135.63",
       "ProxyIP": "",
@@ -2686,7 +2686,7 @@
    {
       "Name": "💚VIVO [SSL 6]b",
       "FLAG": "vivo",
-      "Payload": "GET wss://cname.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://cname.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "cname.vivo.com.br",
       "TlsIP": "162.159.135.63",
       "ProxyIP": "",
@@ -2696,7 +2696,7 @@
    {
       "Name": "💚VIVO [SSL 6]c",
       "FLAG": "vivo",
-      "Payload": "GET wss://cname.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://cname.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "cname.vivo.com.br",
       "TlsIP": "162.159.135.63",
       "ProxyIP": "",
@@ -2706,7 +2706,7 @@
    {
    "Name": "🟣VIVO money",
       "FLAG": "vivo",
-      "Payload": "GET wss://money-staging.infinitepay.io HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://money-staging.infinitepay.io HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
       "TlsIP": "52.0.26.85",
       "ProxyIP": "",
@@ -2716,7 +2716,7 @@
     {
       "Name": "🟣VIVO portalrecarga",
       "FLAG": "vivo",
-      "Payload": "GET wss://portalrecarga.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://portalrecarga.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "portalrecarga.vivo.com.br",
       "TlsIP": "52.0.26.85",
       "ProxyIP": "",
@@ -2726,7 +2726,7 @@
     {
       "Name": "🟣VIVO space",
       "FLAG": "vivo",
-      "Payload": "GET wss://space-net.space-5g.online HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://space-net.space-5g.online HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "space-net.space-5g.online",
       "TlsIP": "52.0.26.85",
       "ProxyIP": "",
@@ -2736,7 +2736,7 @@
     {
       "Name": "💚VIVO [SSL 7]",
       "FLAG": "vivo",
-      "Payload": "GET wss://support.uptodown.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://support.uptodown.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.uptodown.com",
       "TlsIP": "162.159.136.63",
       "ProxyIP": "",
@@ -2746,7 +2746,7 @@
     {
       "Name": "💚VIVO [SSL 8]",
       "FLAG": "vivo",
-      "Payload": "GET wss://support.pokemon.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://support.pokemon.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.pokemon.com",
       "TlsIP": "172.64.130.2",
       "ProxyIP": "",
@@ -2756,7 +2756,7 @@
     {
       "Name": "💚VIVO [SSL 9]",
       "FLAG": "vivo",
-      "Payload": "GET wss://checkout.mediafire.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://checkout.mediafire.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "checkout.mediafire.com",
       "TlsIP": "104.24.11.16",
       "ProxyIP": "",
@@ -2766,7 +2766,7 @@
     {
       "Name": "💚VIVO [SSL 10]",
       "FLAG": "vivo",
-      "Payload": "GET wss://onepiece.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://onepiece.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "onepiece.com",
       "TlsIP": "172.64.131.2",
       "ProxyIP": "",
@@ -2776,7 +2776,7 @@
     {
       "Name": "OI E VIVO PROXY 01 💜\n ES DDD 27,28",
       "FLAG": "oi",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.56.6",
@@ -2786,7 +2786,7 @@
     {
       "Name": "OI TLS 02",
       "FLAG": "oi",
-      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
+      "Payload": "BASELINE-CONTROL ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
       "SNI": "mobilidade.cloud.caixa.gov.br",
       "TlsIP": "mobilidade.cloud.caixa.gov.br",
       "ProxyIP": "",
@@ -2796,7 +2796,7 @@
        {
       "Name": "🔵TIM 1",
       "FLAG": "tim",
-      "Payload": "GET wss://blog.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://blog.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "blog.alura.com.br",
       "TlsIP": "104.21.84.78",
       "ProxyIP": "",
@@ -2806,7 +2806,7 @@
     {
       "Name": "🔵TIM 2",
       "FLAG": "tim",
-      "Payload": "GET wss://empresas.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://empresas.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "empresas.alura.com.br",
       "TlsIP": "104.18.40.41",
       "ProxyIP": "",
@@ -2816,7 +2816,7 @@
     {
       "Name": "🔵TIM 3",
       "FLAG": "tim",
-      "Payload": "GET wss://www.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://www.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "www.alura.com.br",
       "TlsIP": "104.21.84.78",
       "ProxyIP": "",
@@ -2826,7 +2826,7 @@
   {
       "Name": "🔵TIM 4",
       "FLAG": "tim2.png",
-      "Payload": "GET ws://cdnjs.cloudflare.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL ws://cdnjs.cloudflare.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "cdnjs.cloudflare.com",
       "TlsIP": "104.16.18.94",
       "ProxyIP": "",
@@ -2836,7 +2836,7 @@
       {
       "Name": "🔵TIM 5",
       "FLAG": "tim",
-      "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
       "TlsIP": "104.26.5.175",
       "ProxyIP": "",
@@ -2846,7 +2846,7 @@
     {
       "Name": "🔵TIM 6",
       "FLAG": "tim",
-      "Payload": "GET wss://texugo.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://texugo.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "texugo.alura.com.br",
       "TlsIP": "104.21.84.78",
       "ProxyIP": "",
@@ -2856,7 +2856,7 @@
     {
       "Name": "🔵TIM 7",
       "FLAG": "tim",
-      "Payload": "GET wss://texugo.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://texugo.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "texugo.alura.com.br",
       "TlsIP": "172.67.188.168",
       "ProxyIP": "",
@@ -2866,7 +2866,7 @@
     {
       "Name": "🔵TIM 8",
       "FLAG": "tim",
-      "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
       "TlsIP": "104.26.4.175",
       "ProxyIP": "",
@@ -2876,7 +2876,7 @@
     {
       "Name": "🔵TIM 9",
       "FLAG": "tim",
-      "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
       "TlsIP": "172.67.70.43",
       "ProxyIP": "",
@@ -2886,7 +2886,7 @@
     {
       "Name": "🔵TIM 10",
       "FLAG": "tim",
-      "Payload": "GET wss://materiais.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://materiais.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "materiais.alura.com.br",
       "TlsIP": "104.18.40.41",
       "ProxyIP": "",
@@ -2896,7 +2896,7 @@
 {
       "Name": "🔵TIM 11",
       "FLAG": "tim2",
-      "Payload": "GET ws://emartim.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL ws://emartim.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "emartim.com.br",
       "TlsIP": "104.21.27.243",
       "ProxyIP": "",
@@ -2906,7 +2906,7 @@
     {
       "Name": "🔵TIM 12",
       "FLAG": "tim",
-      "Payload": "GET wss://api-tim.oston.io/ HTTP/1.1[crlf]Host: [app_host]:443[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://api-tim.oston.io/ HTTP/1.1[crlf]Host: [app_host]:443[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "api-tim.oston.io",
       "TlsIP": "api-tim.oston.io",
       "ProxyIP": "",
@@ -2917,7 +2917,7 @@
     {
       "Name": "🟡OI 1",
       "FLAG": "oi",
-      "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "www.hbogo.com.br",
       "TlsIP": "www.hbogo.com.br",
       "ProxyIP": "",
@@ -2927,7 +2927,7 @@
      {
       "Name": "🟡OI 2",
       "FLAG": "oi",
-      "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "www.hbogo.com.br",
       "TlsIP": "104.16.53.91",
       "ProxyIP": "",
@@ -2937,7 +2937,7 @@
      {
    "Name": "🟡OI 3",
    "FLAG": "oi",
-   "Payload": "GET \/ HTTP\/1.3[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+   "Payload": "BASELINE-CONTROL \/ HTTP\/1.3[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
    "SNI": "oii.gdmhost.ga",
    "TlsIP": "oii.gdmhost.ga",
    "ProxyIP": "oii.gdmhost.ga",
@@ -2947,7 +2947,7 @@
      {
    "Name": "🟡OI 4",
    "FLAG": "oi",
-   "Payload": "GET \/ HTTP\/1.3[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+   "Payload": "BASELINE-CONTROL \/ HTTP\/1.3[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
    "SNI": "oii.gdmhost.ga",
    "TlsIP": "oii.gdmhost.ga",
    "ProxyIP": "oii.gdmhost.ga",
@@ -2957,7 +2957,7 @@
      {
       "Name": "🟡OI 5",
       "FLAG": "oi",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "104.16.51.91",
       "ProxyIP": "",
@@ -2967,7 +2967,7 @@
      {
       "Name": "🟡OI 6",
       "FLAG": "oi",
-      "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "www.hbogo.com.br",
       "TlsIP": "104.16.53.91",
       "ProxyIP": "",
@@ -2977,7 +2977,7 @@
      {
       "Name": "🟡OI 7",
       "FLAG": "oi",
-      "Payload": "GET \/ HTTP\/1.3[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL \/ HTTP\/1.3[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "oii.gdmhost.ga",
       "TlsIP": "104.16.56.6",
       "ProxyIP": "104.16.56.6",
@@ -2987,7 +2987,7 @@
     {
       "Name": "🟡OI 8",
       "FLAG": "oi",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.56.6",
@@ -2997,7 +2997,7 @@
     {
       "Name": "🟡OI 9",
       "FLAG": "oi",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.17.127.58",
@@ -3007,7 +3007,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟱𝗚 𝟬𝟭 📡 🟢",
       "FLAG": "vivo",
-      "Payload": "GET wss://[rotate=portaljud.vivo.com.br;support.pokemon.com;unpkg.com;alura.com.br] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+      "Payload": "BASELINE-CONTROL wss://[rotate=portaljud.vivo.com.br;support.pokemon.com;unpkg.com;alura.com.br] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.21.11.51",
@@ -3017,7 +3017,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟱𝗚 𝟬𝟮 📡 🟢",
       "FLAG": "vivo",
-      "Payload": "GET wss://www.vivorio.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://www.vivorio.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "www.vivorio.com.br",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -3027,7 +3027,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟱𝗚 𝟬𝟯 📡 🟢",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.21.11.51",
@@ -3037,7 +3037,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟱𝗚 𝟬𝟰 📡 🟢",
       "FLAG": "vivo",
-      "Payload": "GET wss://backoffice-equipamentos01.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://backoffice-equipamentos01.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "backoffice-equipamentos01.vivo.com.br",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -3047,7 +3047,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟱𝗚 𝟬𝟱 📡 🟢",
       "FLAG": "vivo",
-      "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "unpkg.com",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -3057,7 +3057,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟱𝗚 𝟬𝟲 📡 🟢",
       "FLAG": "vivo",
-      "Payload": "GET wss://beneficios.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://beneficios.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
       "SNI": "beneficios.vivo.com.br",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -3067,7 +3067,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟱𝗚 𝟬𝟳 📡 🟢",
       "FLAG": "vivo",
-      "Payload": "GET ws://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL ws://beneficios.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "",
       "TlsIP": "beneficios.vivo.com.br",
       "ProxyIP": "172.67.165.43",
@@ -3077,7 +3077,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟱𝗚 𝟬𝟴 📡 🟢",
       "FLAG": "vivo",
-      "Payload": "GET wss://belis.sk/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://belis.sk/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "belis.sk",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -3087,7 +3087,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟱𝗚 𝟬𝟵 📡 🟢",
       "FLAG": "vivo",
-      "Payload": "GET wss://rapehun.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://rapehun.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "rapehun.com",
       "TlsIP": "rapehun.com",
       "ProxyIP": "",
@@ -3097,7 +3097,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟬𝟭 𝐎𝐍 📡 🟠",
       "FLAG": "vivo",
-      "Payload": "GET wss://support.deezer.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://support.deezer.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.deezer.com",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -3107,7 +3107,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟬𝟮 𝐎𝐍 📡 🟠",
       "FLAG": "vivo",
-      "Payload": "GET wss://market.ebanx.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://market.ebanx.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "market.ebanx.com",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -3117,7 +3117,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟬𝟯 𝐎𝐍 📡 🟠",
       "FLAG": "vivo",
-      "Payload": "GET wss://corporate.ebanx.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://corporate.ebanx.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "corporate.ebanx.com",
       "TlsIP": "104.21.11.51",
       "ProxyIP": "",
@@ -3127,7 +3127,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟬𝟰 𝐎𝐍 📡 🟠",
       "FLAG": "vivo",
-      "Payload": "GET wss://legado.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://legado.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "legado.vivo.com.br",
       "TlsIP": "104.21.11.51",
       "ProxyIP": "",
@@ -3137,7 +3137,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟬𝟱 𝐎𝐍 📡 🟠",
       "FLAG": "vivo",
-      "Payload": "GET wss://lgpdfront.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://lgpdfront.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "lgpdfront.vivo.com.br",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -3147,7 +3147,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝗘𝗔𝗦𝗬 𝟬𝟭 📡 🟣",
       "FLAG": "vivo",
-      "Payload": "GET wss://live.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://live.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "live.vivo.com.br",
       "TlsIP": "104.16.56.6",
       "ProxyIP": "",
@@ -3157,7 +3157,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝗘𝗔𝗦𝗬 𝟬𝟮 📡 🟣",
       "FLAG": "vivo",
-      "Payload": "GET wss://gedoc.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://gedoc.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "gedoc.vivo.com.br",
       "TlsIP": "104.16.56.6",
       "ProxyIP": "",
@@ -3167,7 +3167,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝗘𝗔𝗦𝗬 𝟬𝟯 📡 🟣",
       "FLAG": "vivo",
-      "Payload": "GET ssl://gedoc.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL ssl://gedoc.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "gedoc.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
@@ -3177,7 +3177,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -3187,7 +3187,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://app.pipefy.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://app.pipefy.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "app.pipefy.com",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -3197,7 +3197,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "portaljud.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -3207,7 +3207,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
@@ -3217,7 +3217,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -3227,7 +3227,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://planos.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://planos.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "planos.vivo.com.br",
       "TlsIP": "172.64.131.2",
       "ProxyIP": "",
@@ -3237,7 +3237,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "104.24.10.16",
       "ProxyIP": "",
@@ -3247,7 +3247,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "104.24.11.16",
       "ProxyIP": "",
@@ -3257,7 +3257,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟭𝟬 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "104.24.24.34",
       "ProxyIP": "",
@@ -3267,7 +3267,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "104.24.25.34",
       "ProxyIP": "",
@@ -3277,7 +3277,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://cse.canva.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://cse.canva.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "cse.canva.com",
       "TlsIP": "104.24.24.34",
       "ProxyIP": "",
@@ -3287,7 +3287,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://edu.bitso.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://edu.bitso.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "edu.bitso.com",
       "TlsIP": "172.64.195.2",
       "ProxyIP": "",
@@ -3297,7 +3297,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo.png",
-      "Payload": "GET wss://cname.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://cname.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "cname.vivo.com.br",
       "TlsIP": "104.24.24.34",
       "ProxyIP": "",
@@ -3307,7 +3307,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://onepiece.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://onepiece.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "onepiece.com",
       "TlsIP": "172.64.131.2",
       "ProxyIP": "",
@@ -3317,7 +3317,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://help.pornhub.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://help.pornhub.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "help.pornhub.com",
       "TlsIP": "162.159.135.63",
       "ProxyIP": "",
@@ -3327,7 +3327,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://support.uptodown.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://support.uptodown.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.uptodown.com",
       "TlsIP": "162.159.136.63",
       "ProxyIP": "",
@@ -3337,7 +3337,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://support.pokemon.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://support.pokemon.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.pokemon.com",
       "TlsIP": "172.64.130.2",
       "ProxyIP": "",
@@ -3347,7 +3347,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://checkout.mediafire.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://checkout.mediafire.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "checkout.mediafire.com",
       "TlsIP": "104.24.11.16",
       "ProxyIP": "",
@@ -3357,7 +3357,7 @@
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟰𝗚 𝟬𝟭 📡 🔴",
       "FLAG": "vivo",
-      "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
       "TlsIP": "172.64.130.2",
       "ProxyIP": "",
@@ -3367,7 +3367,7 @@
     {
       "Name": "🟣VIVO DIRECT 1",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
       "TlsIP": "app_host",
       "ProxyIP": "172.67.165.43",
@@ -3377,7 +3377,7 @@
     {
       "Name": "🟣VIVO DIRECT 2",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
       "TlsIP": "app_host",
       "ProxyIP": "104.21.11.51",
@@ -3387,7 +3387,7 @@
    {
 "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟱𝗚 𝟬8 📡 🟢",
 "FLAG": "vivo",
-"Payload": "GET wss://rapehun.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+"Payload": "BASELINE-CONTROL wss://rapehun.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
 "SNI": "rapehun.com",
 "TlsIP": "rapehun.com",
 "ProxyIP": "",
@@ -3397,7 +3397,7 @@
 {
 "Name": "🟣VIVO 1",
 "FLAG": "vivo",
-"Payload": "GET wss://mycannabisconversation.com HTTP/1.0[crlf]Host: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+"Payload": "BASELINE-CONTROL wss://mycannabisconversation.com HTTP/1.0[crlf]Host: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "[app_host]",
 "ProxyIP": "172.67.165.43",
@@ -3407,7 +3407,7 @@
 {
 "Name": "🟣VIVO 2",
 "FLAG": "vivo",
-"Payload": "GET wss://mycannabisconversation.com HTTP/1.0[crlf]Host: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+"Payload": "BASELINE-CONTROL wss://mycannabisconversation.com HTTP/1.0[crlf]Host: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "mycannabisconversation.com",
 "TlsIP": "172.67.165.43",
 "ProxyIP": "",
@@ -3417,7 +3417,7 @@
     {
       "Name": "🟣VIVO 3",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.21.11.51",
@@ -3427,7 +3427,7 @@
     {
       "Name": "🟣VIVO 4",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "172.67.165.43",
@@ -3437,7 +3437,7 @@
     {
       "Name": "🟣VIVO 5",
       "FLAG": "vivo.png",
-      "Payload": "GET wss://gracegardencounseling.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://gracegardencounseling.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "gracegardencounseling.com",
       "TlsIP": "gracegardencounseling.com",
       "ProxyIP": "",
@@ -3447,7 +3447,7 @@
     {
       "Name": "🟣VIVO 6",
       "FLAG": "vivo",
-      "Payload": "GET wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vivo360.vivo.com.br",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -3457,7 +3457,7 @@
     {
       "Name": "🟣VIVO 7",
       "FLAG": "vivo",
-      "Payload": "GET wss://checkout.mediafire.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://checkout.mediafire.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "checkout.mediafire.com",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -3467,7 +3467,7 @@
     {
       "Name": "🟣VIVO 8",
       "FLAG": "vivo",
-      "Payload": "GET wss://onepiece.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://onepiece.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "onepiece.com",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -3477,7 +3477,7 @@
     {
       "Name": "🟣VIVO 9",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "belis.sk",
@@ -3487,7 +3487,7 @@
       {
       "Name": "🟣VIVO 10",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "czaa.top",
@@ -3497,7 +3497,7 @@
      {
       "Name": "🟣VIVO 11",
       "FLAG": "vivo",
-      "Payload": "GET wss://vpoweb.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://vpoweb.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vpoweb.vivo.com.br",
       "TlsIP": "66811.vip",
       "ProxyIP": "",
@@ -3507,7 +3507,7 @@
    {
       "Name": "🟣VIVO 12",
       "FLAG": "vivo",
-      "Payload": "GET wss://web.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://web.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "web.vivo.com.br",
       "TlsIP": "clattor.com",
       "ProxyIP": "",
@@ -3516,7 +3516,7 @@
     },{
        "Name": "🟣VIVO EMERGÊNCIA 1",
        "FLAG": "vivo",
-          "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "unpkg.com",
           "TlsIP": "172.67.165.43",
           "ProxyIP": "",
@@ -3526,7 +3526,7 @@
       {
        "Name": "🟣VIVO EMERGÊNCIA 2",
        "FLAG": "vivo",
-          "Payload": "GET wss://carrinho-pos-familia.vivo.com.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
           "SNI": "carrinho-pos-familia.vivo.com.br",
           "TlsIP": "172.67.165.43",
           "ProxyIP": "",
@@ -3536,7 +3536,7 @@
        {
          "Name": "🟣VIVO EMERGÊNCIA 3",
           "FLAG": "vivo",
-          "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "carrinho-pos-familia.vivo.com.br",
           "TlsIP": "172.67.165.43",
           "ProxyIP": "",
@@ -3546,7 +3546,7 @@
      {
        "Name": "🟣VIVO EMERGÊNCIA 4",
           "FLAG": "vivo",
-          "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "Payload": "BASELINE-CONTROL wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
           "SNI": "carrinho-pos-familia.vivo.com.br",
           "TlsIP": "172.67.165.43",
           "ProxyIP": "",
@@ -3556,7 +3556,7 @@
       {
        "Name": "🟣VIVO EMERGÊNCIA 5",
        "FLAG": "vivo",
-       "Payload": "GET wss://cdnjs.cloudflare.com [protocol][crlf]Host: [app_host][crlf] Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
+       "Payload": "BASELINE-CONTROL wss://cdnjs.cloudflare.com [protocol][crlf]Host: [app_host][crlf] Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
        "SNI": "cdnjs.cloudflare.com",
        "TlsIP": "172.67.165.43",
        "ProxyIP": "",
@@ -3566,7 +3566,7 @@
       {
        "Name": "🟣VIVO EMERGÊNCIA 6",
        "FLAG": "vivo",
-       "Payload": "GET wss://live.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
+       "Payload": "BASELINE-CONTROL wss://live.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
        "SNI": "live.vivo.com.br",
        "TlsIP": "172.67.165.43",
        "ProxyIP": "",
@@ -3576,7 +3576,7 @@
       {
       "Name": "VIVO 20 [SSL]",
       "FLAG": "vivo",
-      "Payload": "GET wss://compre.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: mentalista[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://compre.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: mentalista[crlf][crlf]",
       "SNI": "compre.vivo.com.br",
       "TlsIP": "compre.vivo.com.br",
       "ProxyIP": "",
@@ -3586,7 +3586,7 @@
     {
       "Name": "VIVO 21 [SSL]",
       "FLAG": "vivo.png.png",
-      "Payload": "GET wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "portaljud.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
@@ -3596,7 +3596,7 @@
     {
       "Name": "🟣VIVO NOVA",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "9566006yy.com",
@@ -3606,7 +3606,7 @@
     {
       "Name": "🟣VIVO NOVA 2",
       "FLAG": "vivo",
-      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Payload": "BASELINE-CONTROL ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "mobilidade.cloud.caixa.gov.br",
       "TlsIP": "9566006yy.com",
       "ProxyIP": "",
@@ -3616,7 +3616,7 @@
     {
       "Name": "🟣VIVO NOVA 3",
       "FLAG": "vivo",
-      "Payload": "GET wss://backoffice-equipamentos01.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://backoffice-equipamentos01.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "backoffice-equipamentos01.vivo.com.br",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -3626,7 +3626,7 @@
    {
      "Name": "🟣VIVO NOVA 4",
      "FLAG": "vivo",
-     "Payload": "GET wss://www.vivorio.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+     "Payload": "BASELINE-CONTROL wss://www.vivorio.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "www.vivorio.com.br",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -3636,7 +3636,7 @@
   {
       "Name": "🟣VIVO NOVA 5 ",
       "FLAG": "vivo",
-      "Payload": "GET wss://equipamentos01.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://equipamentos01.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "equipamentos01.vivo.com.br",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -3646,7 +3646,7 @@
   {
    "Name": "🟣VIVO NOVA 6",
    "FLAG": "vivo",
-      "Payload": "GET wss://support.deezer.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://support.deezer.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.deezer.com",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -3656,7 +3656,7 @@
   {
       "Name": "🟣VIVO NOVA 7",
       "FLAG": "vivo",
-      "Payload": "GET wss://portaljud.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL wss://portaljud.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "portaljud.vivo.com.br",
       "TlsIP": "104.21.11.51",
       "ProxyIP": "",
@@ -3666,7 +3666,7 @@
    {
       "Name": "🟣VIVO NOVA 8",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "vigia.vivo.com.br",
@@ -3676,7 +3676,7 @@
     {
    "Name": "GRINGA 𝟱𝗚",
       "FLAG": "br.png",
-      "Payload": "GET http://[app_host]/ HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Referer: [app_host][crlf]Upgrade: websocket[crlf][crlf][instant_split]CONNECT [host_port]@[app_host] [protocol][crlf][crlf]",
+      "Payload": "BASELINE-CONTROL http://[app_host]/ HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Referer: [app_host][crlf]Upgrade: websocket[crlf][crlf][instant_split]CONNECT [host_port]@[app_host] [protocol][crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "[app_host]",
