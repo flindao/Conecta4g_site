@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.35",
+  "Version": "1.0.36",
   "ReleaseNotes": "ATUALIZACAO DISPONIVEL \n ADICIONADO \n 🔵 𝗧𝗜𝗠 RAPIDO e 💜VIVO🔵TIM❤️CLARO🟡OI  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlSms",
@@ -78,6 +78,16 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
       },
+      {         
+      "Name": "🛟⚓TIM DIRECT⚓🛟 ", 
+      "FLAG": "tim", 
+      "Payload": "PATCH HTTP/1.0 [crlf]Host: map.qq.com[crlf]", 
+      "SNI": "", 
+      "TlsIP": "", 
+      "ProxyIP": "[app_host]", 
+      "ProxyPort": "80", 
+      "Info": "Proxy"
+    },
       {
             "Name": "📱 VIVO PROXY 01 📡💜",
             "FLAG": "vivo",
