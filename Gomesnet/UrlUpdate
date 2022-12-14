@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.36",
+  "Version": "1.0.37",
   "ReleaseNotes": "ATUALIZACAO DISPONIVEL \n ADICIONADO \n 🔵 𝗧𝗜𝗠 RAPIDO e 💜VIVO🔵TIM❤️CLARO🟡OI  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlSms",
@@ -78,16 +78,7 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
       },
-      {         
-      "Name": "🛟⚓TIM DIRECT⚓🛟 ", 
-      "FLAG": "tim", 
-      "Payload": "PATCH HTTP/1.0 [crlf]Host: map.qq.com[crlf]", 
-      "SNI": "", 
-      "TlsIP": "", 
-      "ProxyIP": "[app_host]", 
-      "ProxyPort": "80", 
-      "Info": "Proxy"
-    },
+      
       {
             "Name": "📱 VIVO PROXY 01 📡💜",
             "FLAG": "vivo",
@@ -148,6 +139,66 @@
             "ProxyPort": "443",
             "Info": "Tlsws"
         },
+	{
+      "Name": "💙 TIM FERRARI 💙 (( 01 )) CL1 📲🚀\n ",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d14d9lghgq2j1f.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "99.84.252.79",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+{
+      "Name": "💙 TIM FERRARI 💙 (( 02 )) CL1 📲🚀\n ",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d14d9lghgq2j1f.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+       "SNI": "contratecontrole.tim.com.br",
+      "TlsIP": "contratecontrole.tim.com.br",
+      "ProxyIP": "contratecontrole.tim.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }, 
+{
+      "Name": "💙 TIM FERRARI 💙 (( 03 )) CL1 📲🚀\n ",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d14d9lghgq2j1f.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+       "SNI": "contratecontrole.tim.com.br",
+      "TlsIP": "contratecontrole.tim.com.br",
+      "ProxyIP": "contratecontrole.tim.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "💙 TIM TOP 💙 (( 01 )) CL2 📲🚀\n ",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: db28u1d69r9ps.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "99.84.252.79",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+{
+      "Name": "💙 TIM TOP 💙 (( 02 )) CL2 📲🚀\n ",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: db28u1d69r9ps.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+       "SNI": "contratecontrole.tim.com.br",
+      "TlsIP": "contratecontrole.tim.com.br",
+      "ProxyIP": "contratecontrole.tim.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }, 
+{
+      "Name": "💙 TIM TOP 💙 (( 03 )) CL2 📲🚀\n ",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: db28u1d69r9ps.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+       "SNI": "contratecontrole.tim.com.br",
+      "TlsIP": "contratecontrole.tim.com.br",
+      "ProxyIP": "contratecontrole.tim.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }, 
         {
             "Name": "📱 TIM PROXY 01 📡💙",
             "FLAG": "tim",
