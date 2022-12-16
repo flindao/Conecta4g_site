@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.39",
+  "Version": "1.0.40",
   "ReleaseNotes": "ATUALIZACAO DISPONIVEL \n ADICIONADO \n 🔵 𝗧𝗜𝗠 RAPIDO e 💜VIVO🔵TIM❤️CLARO🟡OI  \n",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/UrlSms",
@@ -72,8 +72,8 @@
   {
       "Name": "📱 VIVO FERRARI \n ",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d14d9lghgq2j1f.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "d14d9lghgq2j1f.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d32yowrt5u9tkk.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "d32yowrt5u9tkk.cloudfront.net",
       "TlsIP": "",
       "ProxyIP": "planosvivointernet.com.br",
       "ProxyPort": "80",
@@ -82,7 +82,7 @@
 {
             "Name": "📱 VIVO FERRARI 2 \n ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:d14d9lghgq2j1f.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d32yowrt5u9tkk.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "108.139.166.122",
             "ProxyIP": "108.139.166.122",
@@ -93,7 +93,7 @@
         {
             "Name": "📱 VIVO FERRARI 3 \n ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: d14d9lghgq2j1f.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: d32yowrt5u9tkk.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "recarga.vivo.com.br",
             "TlsIP": "recarga.vivo.com.br",
             "ProxyIP": "recarga.vivo.com.br",
@@ -104,7 +104,7 @@
         {
             "Name": "📱 VIVO FERRARI 4 \n ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:d14d9lghgq2j1f.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d32yowrt5u9tkk.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "52.85.213.21",
             "ProxyIP": "52.85.213.21",
@@ -114,7 +114,7 @@
 {
             "Name": "📱 VIVO FERRARI 5 \n ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:d14d9lghgq2j1f.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d32yowrt5u9tkk.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "108.139.166.122",
             "ProxyIP": "108.139.166.122",
@@ -124,8 +124,8 @@
 {
       "Name": "📱 VIVO FERRARI 6 \n ",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d14d9lghgq2j1f.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "d14d9lghgq2j1f.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d32yowrt5u9tkk.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "d32yowrt5u9tkk.cloudfront.net",
       "TlsIP": "",
       "ProxyIP": "planosvivointernet.com.br",
       "ProxyPort": "80",
@@ -198,7 +198,7 @@
 	{
       "Name": "💙 TIM FERRARI 💙 (( 01 )) CL1 📲🚀\n ",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d14d9lghgq2j1f.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d32yowrt5u9tkk.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "99.84.252.79",
@@ -208,7 +208,7 @@
 {
       "Name": "💙 TIM FERRARI 💙 (( 02 )) CL1 📲🚀\n ",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d14d9lghgq2j1f.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d32yowrt5u9tkk.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "contratecontrole.tim.com.br",
       "TlsIP": "contratecontrole.tim.com.br",
       "ProxyIP": "contratecontrole.tim.com.br",
@@ -218,7 +218,7 @@
 {
       "Name": "💙 TIM FERRARI 💙 (( 03 )) CL1 📲🚀\n ",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d14d9lghgq2j1f.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d32yowrt5u9tkk.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "contratecontrole.tim.com.br",
       "TlsIP": "contratecontrole.tim.com.br",
       "ProxyIP": "contratecontrole.tim.com.br",
