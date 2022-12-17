@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.24",
+  "Version": "1.0.25",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL \n  \n  ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
@@ -43,12 +43,12 @@
     }
   ],
   "Servers": [
-        {
-      "Name": " [ SERVIDOR ] \n ",
+       {
+      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.25 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "br1.startnetplus.xyz",
-      "CheckUser": "http://152.67.54.26:5454/checkUser",
+      "ServerIP": "cl1.startnetplus.xyz",
+      "CheckUser": "http://209.14.69.124:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -59,7 +59,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br5.startnetplus.xyz",
-      "CheckUser": "http://15.235.35.95:5454/checkUser",
+      "CheckUser": "http://209.14.69.124:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -79,8 +79,7 @@
       "Info": "Tlsws"
     },
   
-    }, 
-    {
+{
       "Name": "💙 TIM FERRARI 💙 (( 01 )) CL1 📲🚀\n ",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: d2y1plfj1yrk6c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
@@ -368,9 +367,7 @@
             "ProxyIP": "boaesporte.sga.bet",
             "ProxyPort": "80",
             "Info": "Proxy"
-        }
-	
-	
-        
+        }   
+	        
   ]
 }
