@@ -1,7 +1,7 @@
 {
-"Version": "1.0.145",
+"Version": "1.0.146",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n •••••••••••••••••••••••••••••••••••••••••••••••••\n
-🔰 V: 1.0.145 Horas: 12:00 18/12/2022 🔰\n
+🔰 V: 1.0.146 Horas: 12:00 18/12/2022 🔰\n
 •••••••••••••••••••••••••••••••••••••••••••••••••\n
 ⚠️ MURAL DE AVISOS: NOVA PAYLOAD VIVO EASY E NORMAL, e TIM DIRECT 🟢⚠️
 •••••••••••••••••••••••••••••••••••••••••••••••••\n
@@ -72,7 +72,16 @@ entre contato com seu revendedor
      }	
   ],
   "Networks": [
-
+{
+      "Name": "💜VIVO TOP",
+      "FLAG": "vivo",
+      "Payload": "GET-MATRIX wss://sonicvpn.xyz/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "sonicvpn.xyz",
+      "TlsIP": "support.deezer.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
 	  {
       "Name": "☞🛟𝐕𝐈𝐕O NORMAL⚓━ 𝐎𝐍 🟢",
       "FLAG": "vivo.png",
