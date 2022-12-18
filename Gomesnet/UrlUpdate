@@ -1,7 +1,7 @@
 {
-"Version": "1.0.41",
+"Version": "1.0.42",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n •••••••••••••••••••••••••••••••••••••••••••••••••\n
-🔰 V: 1.0.41 Horas: 19:41 18/12/2022 🔰\n
+🔰 V: 1.0.42 Horas: 19:41 18/12/2022 🔰\n
 •••••••••••••••••••••••••••••••••••••••••••••••••\n
 ⚠️ MURAL DE AVISOS: NOVA PAYLOAD VIVO EASY E NORMAL, e TIM DIRECT 🟢⚠️
 ••••••••••••••••••••\n
@@ -97,8 +97,18 @@ entre contato com seu revendedor
 {
       "Name": "💜VIVO TOP",
       "FLAG": "vivo",
-      "Payload": "GET-MATRIX wss://sonicvpn.xyz/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "sonicvpn.xyz",
+      "Payload": "GET-MATRIX wss://eu.raricknew.online/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "eu.raricknew.online",
+      "TlsIP": "support.deezer.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "💜VIVO TOP 2 ",
+      "FLAG": "vivo",
+      "Payload": "GET-MATRIX wss://sonic.raricknew.online/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "sonic.raricknew.online",
       "TlsIP": "support.deezer.com",
       "ProxyIP": "",
       "ProxyPort": "443",
