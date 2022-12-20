@@ -1,7 +1,7 @@
 {
-"Version": "1.0.147",
+"Version": "1.0.148",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n •••••••••••••••••••••••••••••••••••••••••••••••••\n
-🔰 V: 1.0.147 Horas: 16:22 18/12/2022 🔰\n
+🔰 V: 1.0.148 Horas: 12:52 20/12/2022 🔰\n
 •••••••••••••••••••••••••••••••••••••••••••••••••\n
 ⚠️ MURAL DE AVISOS: NOVA PAYLOAD VIVO EASY E NORMAL, e TIM DIRECT 🟢⚠️
 ••••••••••••••••••••\n
@@ -294,7 +294,16 @@ entre contato com seu revendedor
       "ProxyPort": "80",
       "Info": "Proxy"
      },    
-       
+    {
+           "Name": "TIM 💙 TOP",
+           "FLAG": "tim",
+           "Payload": "GET / HTTP/1.1[crlf]Host: sonicvpn.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+           "SNI": "sonicvpn.xyz",
+           "TlsIP": "songbird.cardinalcommerce.com",
+           "ProxyIP": "songbird.cardinalcommerce.com",
+            "ProxyPort": "443",
+           "Info": " Proxy"
+           },   
  
 	{
       "Name": "💙 TIM AJATO 01",
