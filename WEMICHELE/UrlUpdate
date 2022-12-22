@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.25",
+  "Version": "1.0.26",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL \n  \n  ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
@@ -85,7 +85,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2y1plfj1yrk6c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "99.84.252.79",
+      "ProxyIP": "108.158.124.45",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -115,7 +115,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d20wcbb76awx6x.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "99.84.252.79",
+      "ProxyIP": "108.158.124.45",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -146,7 +146,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2y1plfj1yrk6c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "99.84.252.79",
+      "ProxyIP": "108.158.124.45",
       "ProxyPort": "80",
       "Info": "Proxy"
     },  
@@ -167,7 +167,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2y1plfj1yrk6c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
-       "ProxyIP": "99.84.208.19",
+       "ProxyIP": "108.158.124.45",
       "ProxyPort": "80",
       "Info": "Proxy"
     }, 
@@ -177,7 +177,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2y1plfj1yrk6c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
-       "ProxyIP": "99.84.252.105",
+       "ProxyIP": "108.158.124.45",
       "ProxyPort": "80",
       "Info": "Proxy"
     }, 
@@ -187,7 +187,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2y1plfj1yrk6c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
-       "ProxyIP": "99.84.252.116",
+       "ProxyIP": "108.158.124.45",
       "ProxyPort": "80",
       "Info": "Proxy"
     }, 
@@ -197,7 +197,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2y1plfj1yrk6c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
-       "ProxyIP": "99.84.252.128",
+       "ProxyIP": "108.158.124.45",
       "ProxyPort": "80",
       "Info": "Proxy"
     }, 
