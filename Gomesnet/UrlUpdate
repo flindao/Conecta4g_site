@@ -1,7 +1,7 @@
 {
-"Version": "1.0.44",
+"Version": "1.0.45",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n •••••••••••••••••••••••••••••••••••••••••••••••••\n
-🔰 V: 1.0.44 Horas: 23:01 21/12/2022 🔰\n
+🔰 V: 1.0.45 Horas: 23:30 21/12/2022 🔰\n
 •••••••••••••••••••••••••••••••••••••••••••••••••\n
 ⚠️ MURAL DE AVISOS: NOVA PAYLOAD VIVO EASY E NORMAL, e TIM DIRECT 🟢⚠️
 ••••••••••••••••••••\n
@@ -58,7 +58,7 @@ entre contato com seu revendedor
   ],
   "Servers": [
     {
-      "Name": "SERVIDOR 1 | PLUS",
+      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.45",
       "TYPE": "premium ",
       "FLAG": "br.png",
       "ServerIP": "eu.raricknew.online",
@@ -69,7 +69,7 @@ entre contato com seu revendedor
       "PASS": ""
     },
     {
-      "Name": "SERVIDOR 2 | PLUS",
+      "Name": "SERVIDOR 2 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.45",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sonic.raricknew.online",
@@ -358,7 +358,7 @@ entre contato com seu revendedor
       "ProxyIP": "108.158.124.45",
       "ProxyPort": "80",
       "Info": "Proxy"
-    },
+        },
 {
       "Name": "💙 TIM TOP 💙 (( 02 )) CL2 📲🚀\n ",
       "FLAG": "tim",
