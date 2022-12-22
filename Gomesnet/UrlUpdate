@@ -1,7 +1,7 @@
 {
-"Version": "1.0.42",
+"Version": "1.0.43",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n •••••••••••••••••••••••••••••••••••••••••••••••••\n
-🔰 V: 1.0.42 Horas: 19:41 18/12/2022 🔰\n
+🔰 V: 1.0.43 Horas: 22:46 21/12/2022 🔰\n
 •••••••••••••••••••••••••••••••••••••••••••••••••\n
 ⚠️ MURAL DE AVISOS: NOVA PAYLOAD VIVO EASY E NORMAL, e TIM DIRECT 🟢⚠️
 ••••••••••••••••••••\n
@@ -325,7 +325,7 @@ entre contato com seu revendedor
       "Payload": "GET / HTTP/1.1[crlf]Host: d32yowrt5u9tkk.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "99.84.252.79",
+      "ProxyIP": "108.158.124.45",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -355,7 +355,7 @@ entre contato com seu revendedor
       "Payload": "GET / HTTP/1.1[crlf]Host: d3r3667emruulb.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "99.84.252.79",
+      "ProxyIP": "108.158.124.45",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
