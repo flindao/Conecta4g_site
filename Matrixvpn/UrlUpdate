@@ -1,7 +1,7 @@
 {
-"Version": "1.0.151",
+"Version": "1.0.152",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n •••••••••••••••••••••••••••••••••••••••••••••••••\n
-🔰 V: 1.0.151 Horas: 22:18 21/12/2022 🔰\n
+🔰 V: 1.0.152 Horas: 11:16 22/12/2022 🔰\n
 •••••••••••••••••••••••••••••••••••••••••••••••••\n
 ⚠️ MURAL DE AVISOS: NOVA PAYLOAD VIVO EASY E NORMAL, e TIM DIRECT 🟢⚠️
 ••••••••••••••••••••\n
@@ -322,7 +322,7 @@ entre contato com seu revendedor
       "Payload": "GET / HTTP/1.1[crlf]Host: d1lnfo9u3fpz2b.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
-       "ProxyIP": "108.158.124.45",
+       "ProxyIP": "13.227.124.40",
       "ProxyPort": "80",
       "Info": "Proxy"
     }, 
@@ -342,7 +342,7 @@ entre contato com seu revendedor
       "Payload": "GET / HTTP/1.1[crlf]Host: d1lnfo9u3fpz2b.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
-       "ProxyIP": "108.158.124.45",
+       "ProxyIP": "13.227.124.40",
       "ProxyPort": "80",
       "Info": "Proxy"
     }, 
@@ -385,7 +385,7 @@ entre contato com seu revendedor
       "Payload": "GET / HTTP/1.1[crlf]Host: dniwabaur3z03.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
-       "ProxyIP": "108.158.124.45",
+       "ProxyIP": "13.227.124.40",
       "ProxyPort": "80",
       "Info": "Proxy"
     }, 
@@ -405,7 +405,7 @@ entre contato com seu revendedor
       "Payload": "GET / HTTP/1.1[crlf]Host: dniwabaur3z03.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-       "ProxyIP": "108.158.124.45",
+       "ProxyIP": "13.227.124.40",
       "ProxyPort": "80",
       "Info": "Proxy"
  
