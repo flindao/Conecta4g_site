@@ -1,9 +1,9 @@
 {
-"Version": "1.0.154",
+"Version": "1.0.155",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.154 Horas: 14:10 24/12/2022 🔰\n
+🔰 V: 1.0.155 Horas: 14:28 24/12/2022 🔰\n
 ••••\n
-⚠️ MURAL DE AVISOS: VIVO AJATO ATUALIZADO,  🟢⚠️
+⚠️ MURAL DE AVISOS: NOVA PAYLOAD VIVO EASY E NORMAL, e TIM DIRECT 🟢⚠️
 ••••••••••••••••••••\n
 🚀uma dica; recomendados
 ter 2 chips, caso uma rede caia 
@@ -293,73 +293,11 @@ entre contato com seu revendedor
       "ProxyIP": "[app_host]",
       "ProxyPort": "80",
       "Info": "Proxy"
-     },    
-     
-  {
-      "Name": "💙 TIM FERRARI 💙 (( 01 )) CL1 📲🚀\n ",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2y1plfj1yrk6c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "108.158.124.45",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-{
-      "Name": "💙 TIM FERRARI 💙 (( 02 )) CL1 📲🚀\n ",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2y1plfj1yrk6c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-       "SNI": "contratecontrole.tim.com.br",
-      "TlsIP": "contratecontrole.tim.com.br",
-      "ProxyIP": "contratecontrole.tim.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    }, 
-{
-      "Name": "💙 TIM FERRARI 💙 (( 01 )) CL1 📲🚀\n ",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2y1plfj1yrk6c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "13.227.124.40",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-  {
-      "Name": "💙 TIM TOP 💙 (( 01 )) CL2 📲🚀\n ",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d19vqd7tngysw0.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "108.158.124.45",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-{
-      "Name": "💙 TIM TOP 💙 (( 02 )) CL2 📲🚀\n ",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d19vqd7tngysw0.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-       "SNI": "contratecontrole.tim.com.br",
-      "TlsIP": "contratecontrole.tim.com.br",
-      "ProxyIP": "contratecontrole.tim.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    }, 
-{
-      "Name": "💙 TIM TOP 💙 (( 01 )) CL2 📲🚀\n ",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d19vqd7tngysw0.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "13.227.124.40",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-	
+     }, 
 {
       "Name": "💙 TIM AJATO 01",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2y1plfj1yrk6c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d34zjtmrevs7ay.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.158.124.45",
@@ -369,7 +307,7 @@ entre contato com seu revendedor
     {
       "Name": "💙 TIM AJATO 02",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2y1plfj1yrk6c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d34zjtmrevs7ay.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "contratecontrole.tim.com.br",
       "TlsIP": "contratecontrole.tim.com.br",
       "ProxyIP": "contratecontrole.tim.com.br",
@@ -380,7 +318,7 @@ entre contato com seu revendedor
     {
       "Name": "💙 TIM AJATO 03",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2y1plfj1yrk6c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d34zjtmrevs7ay.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
        "ProxyIP": "108.158.124.45",
@@ -390,7 +328,7 @@ entre contato com seu revendedor
      {
       "Name": "💙 TIM AJATO 04",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2y1plfj1yrk6c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d34zjtmrevs7ay.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
        "ProxyIP": "13.227.124.40",
@@ -400,7 +338,7 @@ entre contato com seu revendedor
     {
       "Name": "💙 TIM AJATO 05",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2y1plfj1yrk6c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d34zjtmrevs7ay.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
        "ProxyIP": "108.158.124.45",
@@ -410,7 +348,7 @@ entre contato com seu revendedor
     {
       "Name": "💙 TIM AJATO 06",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2y1plfj1yrk6c.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d34zjtmrevs7ay.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
       "TlsIP": "",
        "ProxyIP": "13.227.124.40",
@@ -418,6 +356,40 @@ entre contato com seu revendedor
       "Info": "Proxy"
     
  
-    }  
+    },  	 
+     
+  {
+      "Name": "💙 TIM FOGUETE 💙 (( 01 )) CL1 📲🚀\n ",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dniwabaur3z03.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "108.158.124.45",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+{
+      "Name": "💙 TIM FOGUETE 💙 (( 02 )) CL1 📲🚀\n ",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dniwabaur3z03.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+       "SNI": "contratecontrole.tim.com.br",
+      "TlsIP": "contratecontrole.tim.com.br",
+      "ProxyIP": "contratecontrole.tim.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }, 
+{
+      "Name": "💙 TIM FOGUETE 💙 (( 01 )) CL1 📲🚀\n ",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dniwabaur3z03.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "13.227.124.40",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }
+  
+	
+
   ]
 }
