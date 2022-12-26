@@ -1,7 +1,7 @@
 {
-"Version": "1.0.157",
+"Version": "1.0.158",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.157 Horas: 19:57 25/12/2022 🔰\n
+🔰 V: 1.0.158 Horas: 19:57 25/12/2022 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: NOVA PAYLOAD VIVO EASY E NORMAL, e TIM DIRECT 🟢⚠️
 ••••••••••••••••••••\n
@@ -156,11 +156,11 @@ entre contato com seu revendedor
 
 "FLAG": "vivo", 
 
-"Payload": "payload: GET / HTTP/1.1[crlf]Host: [rotate=d34zjtmrevs7ay.cloudfront.net; d3frc33jaaviub.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d34zjtmrevs7ay.cloudfront.net; dniwabaur3z03.cloudfront.net; d3frc33jaaviub.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 
 "SNI": "", 
 
-"TlsIP": "", 
+"TlsIP": "108.139.166.122", 
 
 "ProxyIP": "108.139.166.122", 
 
