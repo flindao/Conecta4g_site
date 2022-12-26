@@ -1,7 +1,7 @@
 {
-"Version": "1.0.158",
+"Version": "1.0.159",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.158 Horas: 19:57 25/12/2022 🔰\n
+🔰 V: 1.0.159 Horas: 23:59 25/12/2022 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: NOVA PAYLOAD VIVO EASY E NORMAL, e TIM DIRECT 🟢⚠️
 ••••••••••••••••••••\n
@@ -133,7 +133,7 @@ entre contato com seu revendedor
     },
  { 
 
-"Name": "💜VIVO NORMAL ROTATE 📡💜", 
+"Name": "💜VIVO NORMAL 📡💜", 
 
 "FLAG": "vivo", 
 
@@ -152,11 +152,11 @@ entre contato com seu revendedor
 },
  { 
 
-"Name": "💜VIVO ROTATE 02 📡💜", 
+"Name": "💜VIVO TOP 02 📡💜", 
 
 "FLAG": "vivo", 
 
-"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d34zjtmrevs7ay.cloudfront.net; dniwabaur3z03.cloudfront.net; d3frc33jaaviub.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d34zjtmrevs7ay.cloudfront.net; d3frc33jaaviub.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 
 "SNI": "", 
 
@@ -166,8 +166,7 @@ entre contato com seu revendedor
 
 "ProxyPort": "80", 
 
-"Info": "Proxy" 
-
+"Info": "Proxy"
 },
     
 {
