@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.215",
+  "Version": "1.0.216",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -122,6 +122,16 @@
         "SNI": "",
         "TlsIP": "",
         "ProxyIP": "104.18.28.182",
+        "ProxyPort": "80",
+        "Info": "Proxy"
+   },
+   {
+        "Name": "💙TIM 2 💙",
+        "FLAG": "tim",
+        "Payload": "GET- /?/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+        "SNI": "",
+        "TlsIP": "",
+        "ProxyIP": "104.16.51.111",
         "ProxyPort": "80",
         "Info": "Proxy"
    },
