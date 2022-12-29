@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.213",
+  "Version": "1.0.212",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONIVEIS \n ADICIONADO  TIM 25 \n TODOS DDD 鉁岋笍 \n 0508 e \n 📱 VIVO 29 📡 💜\n DDD 27",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlUpdateteste",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/UrlSmsteste",
@@ -115,16 +115,6 @@
     }
   ],
   "Networks": [
-{
-Name": "TIM PEGANDO",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf]GET- / HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.51.111",
-      "ProxyPort": "80",
-      "Info": "Proxy
- },
 {
             "Name": "📱 VIVO PROXY 01 📡💜",
             "FLAG": "vivo",
