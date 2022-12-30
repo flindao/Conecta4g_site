@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.29",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL - APENAS VIVO AJATO \n  \n  ",
+  "Version": "1.0.30",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL - NOVO SERVIDOR TIM \n  E PRIMEIRA OPCAO APENAS PARA TIM\n  ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
   "EmailFeedback": "",
@@ -54,6 +54,17 @@
       "USER": "",
       "PASS": ""
     },
+     {
+      "Name": "SERVIDOR TIM",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "t.startnetplus.xyz",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },   
 {
       "Name": " [ Suporte - Emergencia ] \n ",
       "TYPE": "premium",
@@ -68,6 +79,16 @@
      
   ],
   "Networks": [
+  {
+    "Name": "🔵TIM [DIRECT]",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: br1.startnetplus.xyz[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "t.startnetplus.xyz",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Direct"
+  },
   {
       "Name": "🔵TIM 💜VIVO",
        "FLAG": "tim",
