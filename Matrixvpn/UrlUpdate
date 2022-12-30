@@ -1,9 +1,9 @@
 {
-"Version": "1.0.161",
+"Version": "1.0.162",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.161 Horas: 11:35 30/12/2022 🔰\n
+🔰 V: 1.0.162 Horas: 20:28 30/12/2022 🔰\n
 ••••\n
-⚠️ MURAL DE AVISOS: NOVA PAYLOAD VIVO EASY E NORMAL, e TIM DIRECT 🟢⚠️
+⚠️ MURAL DE AVISOS: SERVIDOR TIM E PRIMEIRA OPCAO 🟢⚠️
 ••••••••••••••••••••\n
  Qualquer dificuldade para conectar,
 entre contato com seu revendedor
@@ -60,9 +60,30 @@ entre contato com seu revendedor
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-     }	
+     },	
+      {
+      "Name": "SERVIDOR TIM",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "apptest.c6bank.app",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
   ],
   "Networks": [
+{
+    "Name": "🔵TIM REFORM.WS.05 [DIRECT]",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: sonicvpn.xyz[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "104.16.53.111",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Direct"
+  },
 {
       "Name": "VIVO PLUS",
       "FLAG": "vivo",
