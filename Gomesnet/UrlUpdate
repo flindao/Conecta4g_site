@@ -1,7 +1,7 @@
 {
-"Version": "1.0.47",
+"Version": "1.0.48",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.47 Horas: 00:50 30/12/2022 🔰\n
+🔰 V: 1.0.48 Horas: 00:50 30/12/2022 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: NOVA PAYLOAD VIVO EASY E NORMAL, e TIM DIRECT 🟢⚠️
 ••••••••••••••••••••\n
@@ -176,8 +176,8 @@ entre contato com seu revendedor
  {
       "Name": "📱 VIVO FERRARI \n ",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3oa28ljvuyifq.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "d3oa28ljvuyifq.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: djz10gbmkbdwb.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "djz10gbmkbdwb.cloudfront.net",
       "TlsIP": "",
       "ProxyIP": "planosvivointernet.com.br",
       "ProxyPort": "80",
@@ -186,7 +186,7 @@ entre contato com seu revendedor
 {
             "Name": "📱 VIVO FERRARI 2 \n ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:d3oa28ljvuyifq.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:djz10gbmkbdwb.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "108.139.166.122",
             "ProxyIP": "108.139.166.122",
@@ -197,7 +197,7 @@ entre contato com seu revendedor
         {
             "Name": "📱 VIVO FERRARI 3 \n ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: d3oa28ljvuyifq.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: djz10gbmkbdwb.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "recarga.vivo.com.br",
             "TlsIP": "recarga.vivo.com.br",
             "ProxyIP": "recarga.vivo.com.br",
@@ -208,7 +208,7 @@ entre contato com seu revendedor
         {
             "Name": "📱 VIVO FERRARI 4 \n ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:d3oa28ljvuyifq.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:djz10gbmkbdwb.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "52.85.213.21",
             "ProxyIP": "52.85.213.21",
@@ -218,7 +218,7 @@ entre contato com seu revendedor
 {
             "Name": "📱 VIVO FERRARI 5 \n ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:d3oa28ljvuyifq.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:djz10gbmkbdwb.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "108.139.166.122",
             "ProxyIP": "108.139.166.122",
@@ -228,8 +228,8 @@ entre contato com seu revendedor
 {
       "Name": "📱 VIVO FERRARI 6 \n ",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3oa28ljvuyifq.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "d3oa28ljvuyifq.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: djz10gbmkbdwb.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "djz10gbmkbdwb.cloudfront.net",
       "TlsIP": "",
       "ProxyIP": "planosvivointernet.com.br",
       "ProxyPort": "80",
@@ -322,7 +322,7 @@ entre contato com seu revendedor
 	{
       "Name": "💙 TIM FERRARI 💙 (( 01 )) CL1 📲🚀\n ",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3oa28ljvuyifq.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: djz10gbmkbdwb.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.158.124.45",
@@ -332,7 +332,7 @@ entre contato com seu revendedor
 {
       "Name": "💙 TIM FERRARI 💙 (( 02 )) CL1 📲🚀\n ",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3oa28ljvuyifq.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: djz10gbmkbdwb.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "contratecontrole.tim.com.br",
       "TlsIP": "contratecontrole.tim.com.br",
       "ProxyIP": "contratecontrole.tim.com.br",
@@ -342,7 +342,7 @@ entre contato com seu revendedor
 {
       "Name": "💙 TIM FERRARI 💙 (( 03 )) CL1 📲🚀\n ",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3oa28ljvuyifq.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: djz10gbmkbdwb.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "contratecontrole.tim.com.br",
       "TlsIP": "contratecontrole.tim.com.br",
       "ProxyIP": "contratecontrole.tim.com.br",
