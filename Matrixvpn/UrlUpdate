@@ -1,7 +1,7 @@
 {
-"Version": "1.0.163",
+"Version": "1.0.164",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.163 Horas: 20:28 30/12/2022 🔰\n
+🔰 V: 1.0.164 Horas: 18:37 03/01/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: SERVIDOR TIM E PRIMEIRA OPCAO 🟢⚠️
 ••••••••••••••••••••\n
@@ -54,23 +54,12 @@ entre contato com seu revendedor
       "Name": "SONIC VPN | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "sonicvpn.xyz",
+      "ServerIP": "apptest.c6bank.app",
       "CheckUser": "http://209.14.137.27:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
-      "PASS": ""
-     },	
-      {
-      "Name": "SERVIDOR TIM",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "apptest.c6bank.app",
-      "CheckUser": "",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+      "PASS": ""    
     }
   ],
   "Networks": [
