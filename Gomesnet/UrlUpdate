@@ -1,7 +1,7 @@
 {
-"Version": "1.0.50",
+"Version": "1.0.51",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.50 Horas: 12:29 05/01/2023 🔰\n
+🔰 V: 1.0.51 Horas: 17:16 07/01/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: SERVIDOR TIM E PRIMEIRA OPCAO 🟢⚠️
 ••••\n
@@ -39,18 +39,7 @@ entre contato com seu revendedor
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    },
-	{
-      "Name": "SERVIDOR TIM",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "apptest.c6bank.app",
-      "CheckUser": "",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    }
+      }
    
     
   ],
