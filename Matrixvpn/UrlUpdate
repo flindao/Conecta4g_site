@@ -1,9 +1,9 @@
 {
-"Version": "1.0.166",
+"Version": "1.0.167",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.166 Horas: 19:58 04/01/2023 🔰\n
+🔰 V: 1.0.167 Horas: 01:40 07/01/2023 🔰\n
 ••••\n
-⚠️ MURAL DE AVISOS: ATUALIZADO VIVO FOGUETE 🟢⚠️
+⚠️ MURAL DE AVISOS: ATUALIZADO VIVO EASY  🟢⚠️
 ••••••••••••••••••••\n
  Qualquer dificuldade para conectar,
 entre contato com seu revendedor
@@ -171,6 +171,26 @@ entre contato com seu revendedor
 
 "Info": "Proxy"
 },
+ {
+      "Name": "╰┈☞🟢𝐕𝐈𝐕𝐎 PLANO EASY 4G🟢",
+      "FLAG": "vivo",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "104.18.7.80",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+       {
+      "Name": "╰┈☞💫𝐕𝐈𝐕𝐎 EASY NOVO💫",
+      "FLAG": "vivo",
+      "Payload": "GET /? - wss://sigitm.vivo.com.br/ HTTP/1.0 [lf]Host: [app_host][lf]Upgrade: Websocket[lf][protocol][lf][lf]",
+      "SNI": "",
+      "TlsIP": "sigitm.vivo.com.br",
+      "ProxyIP": "sigitm.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
     
 {
       "Name": "📱 VIVO AJATO 01",
