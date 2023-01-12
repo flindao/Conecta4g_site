@@ -334,7 +334,7 @@ entre contato com seu revendedor
 
 	"Name": "💜VIVO galho 📡💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d29651hk0lwbcc.cloudfront.net; d29651hk0lwbcc.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d29651hk0lwbcc.cloudfront.net; d1ok7fbrxug82u.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "108.139.166.122", 
 	"ProxyIP": "108.139.166.122", 
