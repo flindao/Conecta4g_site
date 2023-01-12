@@ -1,7 +1,7 @@
 {
-"Version": "1.0.173",
+"Version": "1.0.174",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.173 Horas: 20:30 11/01/2023 🔰\n
+🔰 V: 1.0.174 Horas: 20:30 12/01/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: ATUALIZADO CONEXOES TIM  🟢⚠️
 ••••••••••••••••••••\n
@@ -185,7 +185,7 @@ entre contato com seu revendedor
 
 "FLAG": "vivo", 
 
-"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d29651hk0lwbcc.cloudfront.net; d29651hk0lwbcc.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d29651hk0lwbcc.cloudfront.net; d1ok7fbrxug82u.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 
 "SNI": "", 
 
