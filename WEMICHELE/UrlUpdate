@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.32",
+  "Version": "1.0.33",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL - NOVO SERVIDOR TIM \n  E PRIMEIRA OPCAO APENAS PARA TIM\n  ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
@@ -44,7 +44,7 @@
   ],
   "Servers": [
        {
-      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.29 ]",
+      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.32 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "cl1.startnetplus.xyz",
