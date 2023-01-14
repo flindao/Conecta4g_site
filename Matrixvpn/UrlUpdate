@@ -1,5 +1,5 @@
 {
-"Version": "1.0.178",
+"Version": "1.0.179",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
 🔰 V: 1.0.178 Horas: 13:37 14/01/2023 🔰\n
 ••••\n
@@ -90,6 +90,16 @@ entre contato com seu revendedor
       "ProxyPort": "80",
       "Info": "Proxy"
   },
+  	{
+"Name": "💙TIM ✅ 📡 🔴\n R1", 
+"FLAG": "tim", 
+"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=api.sandbox.c6bank.com.br;apptest.c6bank.app;c6bank.com.br;support.deezer.com;fly218.com;rapehun.com][crlf]Expect: 100-continue[lf][lf][split][lf][lf]ACL /Chessmind/ HTTP/1.1[lf]Host: [app_host][lf]Expect: 100-continue[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]", 
+"SNI": "", 
+"TlsIP": "adaptador.sonicvpn.xyz", 
+"ProxyIP": "adaptador.sonicvpn.xyz", 
+"ProxyPort": "80", 
+"Info": "Proxy" 
+},
 {
       "Name": "VIVO PLUS",
       "FLAG": "vivo",
