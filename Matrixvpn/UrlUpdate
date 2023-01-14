@@ -1,7 +1,7 @@
 {
-"Version": "1.0.174",
+"Version": "1.0.175",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.174 Horas: 20:30 12/01/2023 🔰\n
+🔰 V: 1.0.175 Horas: 23:37 13/01/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: ATUALIZADO CONEXOES TIM  🟢⚠️
 ••••••••••••••••••••\n
@@ -185,7 +185,7 @@ entre contato com seu revendedor
 
 "FLAG": "vivo", 
 
-"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d29651hk0lwbcc.cloudfront.net; d1ok7fbrxug82u.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d1ok7fbrxug82u.cloudfront.net; d1ok7fbrxug82u.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 
 "SNI": "", 
 
@@ -222,8 +222,8 @@ entre contato com seu revendedor
 	{
       "Name": "📱 VIVO FOGUETE 01 🚀 \n",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d29651hk0lwbcc.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "d29651hk0lwbcc.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1ok7fbrxug82u.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "d1ok7fbrxug82u.cloudfront.net",
       "TlsIP": "",
       "ProxyIP": "planosvivointernet.com.br",
       "ProxyPort": "80",
@@ -232,7 +232,7 @@ entre contato com seu revendedor
     {
             "Name": "📱 VIVO FOGUETE 02",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:d29651hk0lwbcc.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d1ok7fbrxug82u.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "108.139.166.122",
             "ProxyIP": "108.139.166.122",
@@ -242,7 +242,7 @@ entre contato com seu revendedor
 	 {
             "Name": "📱 VIVO FOGUETE 03",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: d29651hk0lwbcc.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: d1ok7fbrxug82u.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "recarga.vivo.com.br",
             "TlsIP": "recarga.vivo.com.br",
             "ProxyIP": "recarga.vivo.com.br",
@@ -252,7 +252,7 @@ entre contato com seu revendedor
     {
       "Name": "📱 VIVO FOGUETE 04",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d29651hk0lwbcc.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1ok7fbrxug82u.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "52.85.213.21",
       "ProxyIP": "52.85.213.21",
@@ -262,7 +262,7 @@ entre contato com seu revendedor
     {
       "Name": "📱 VIVO FOGUETE 05",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d29651hk0lwbcc.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1ok7fbrxug82u.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "sgr.tatix.com.br",
       "TlsIP": "sgr.tatix.com.br",
       "ProxyIP": "sgr.tatix.com.br",
@@ -272,7 +272,7 @@ entre contato com seu revendedor
      {
       "Name": "📱 VIVO FOGUETE 06",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d29651hk0lwbcc.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1ok7fbrxug82u.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "boaesporte.sga.bet",
       "TlsIP": "boaesporte.sga.bet",
       "ProxyIP": "boaesporte.sga.bet",
@@ -282,7 +282,7 @@ entre contato com seu revendedor
     {
       "Name": "📱 VIVO FOGUETE 07",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d29651hk0lwbcc.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1ok7fbrxug82u.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "108.139.166.83",
       "ProxyIP": "108.139.166.83",
@@ -292,7 +292,7 @@ entre contato com seu revendedor
      {
       "Name": "📱 VIVO FOGUETE 08",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d29651hk0lwbcc.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1ok7fbrxug82u.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "108.139.166.55",
       "ProxyIP": "108.139.166.55",
@@ -302,7 +302,7 @@ entre contato com seu revendedor
      {
       "Name": "📱 VIVO FOGUETE 09",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d29651hk0lwbcc.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1ok7fbrxug82u.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "108.139.166.86",
       "ProxyIP": "108.139.166.86",
@@ -334,7 +334,7 @@ entre contato com seu revendedor
 
 	"Name": "💜VIVO galho 📡💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d29651hk0lwbcc.cloudfront.net; d1ok7fbrxug82u.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d1ok7fbrxug82u.cloudfront.net; d1ok7fbrxug82u.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "108.139.166.122", 
 	"ProxyIP": "108.139.166.122", 
