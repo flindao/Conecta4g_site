@@ -1,7 +1,7 @@
 {
-"Version": "1.0.53",
+"Version": "1.0.54",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.53 Horas: 22:49 16/01/2023 🔰\n
+🔰 V: 1.0.54 Horas: 22:49 16/01/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: SERVIDOR TIM E PRIMEIRA OPCAO 🟢⚠️
 ••••\n
@@ -19,7 +19,7 @@ entre contato com seu revendedor
   "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400;7600;7400;7100;7700;7800;7900",
   "Servers": [
     {
-      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.53",
+      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.54",
       "TYPE": "premium ",
       "FLAG": "br.png",
       "ServerIP": "eu.raricknew.online",
@@ -30,11 +30,11 @@ entre contato com seu revendedor
       "PASS": ""
     },
     {
-      "Name": "SERVIDOR 2 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.53",
+      "Name": "SERVIDOR 2 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.54",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sonic.raricknew.online",
-      "CheckUser": "http://193.123.108.238:5454/checkUser",
+      "CheckUser": "http://216.238.109.22:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -248,19 +248,19 @@ entre contato com seu revendedor
       "Info": "Tlsws"
     },
  {
-      "Name": "📱 VIVO FERRARI \n ",
+      "Name": "📱 VIVO FERRARI \n SERVIDOR 1 ",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: djz10gbmkbdwb.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "djz10gbmkbdwb.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: drx2ggqdc066m.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "drx2ggqdc066m.cloudfront.net",
       "TlsIP": "",
       "ProxyIP": "planosvivointernet.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
 {
-            "Name": "📱 VIVO FERRARI 2 \n ",
+            "Name": "📱 VIVO FERRARI 2 \n SERVIDOR 1  ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:djz10gbmkbdwb.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:drx2ggqdc066m.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "108.139.166.122",
             "ProxyIP": "108.139.166.122",
@@ -269,9 +269,9 @@ entre contato com seu revendedor
         },
        
         {
-            "Name": "📱 VIVO FERRARI 3 \n ",
+            "Name": "📱 VIVO FERRARI 3 \n  SERVIDOR 1 ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: djz10gbmkbdwb.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: drx2ggqdc066m.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "recarga.vivo.com.br",
             "TlsIP": "recarga.vivo.com.br",
             "ProxyIP": "recarga.vivo.com.br",
@@ -280,9 +280,9 @@ entre contato com seu revendedor
         },
                
         {
-            "Name": "📱 VIVO FERRARI 4 \n ",
+            "Name": "📱 VIVO FERRARI 4 \n SERVIDOR 1 ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:djz10gbmkbdwb.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:drx2ggqdc066m.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "52.85.213.21",
             "ProxyIP": "52.85.213.21",
@@ -290,9 +290,9 @@ entre contato com seu revendedor
             "Info": "Proxy"
       },
 {
-            "Name": "📱 VIVO FERRARI 5 \n ",
+            "Name": "📱 VIVO FERRARI 5 \n SERVIDOR 1 ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:djz10gbmkbdwb.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:drx2ggqdc066m.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "108.139.166.122",
             "ProxyIP": "108.139.166.122",
@@ -300,10 +300,10 @@ entre contato com seu revendedor
             "Info": "Proxy"
         },
 {
-      "Name": "📱 VIVO FERRARI 6 \n ",
+      "Name": "📱 VIVO FERRARI 6 \n SERVIDOR 1 ",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: djz10gbmkbdwb.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "djz10gbmkbdwb.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: drx2ggqdc066m.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "drx2ggqdc066m.cloudfront.net",
       "TlsIP": "",
       "ProxyIP": "planosvivointernet.com.br",
       "ProxyPort": "80",
@@ -313,8 +313,8 @@ entre contato com seu revendedor
 {
       "Name": "📱 VIVO AJATO 01",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3dxfsya09lbcn.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "d3dxfsya09lbcn.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2ggqkihtg2cej.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "d2ggqkihtg2cej.cloudfront.net",
       "TlsIP": "",
       "ProxyIP": "planosvivointernet.com.br",
       "ProxyPort": "80",
@@ -324,7 +324,7 @@ entre contato com seu revendedor
     {
             "Name": "📱 VIVO AJATO 02",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:d3dxfsya09lbcn.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d2ggqkihtg2cej.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "108.139.166.122",
             "ProxyIP": "108.139.166.122",
@@ -334,7 +334,7 @@ entre contato com seu revendedor
         {
             "Name": "📱 VIVO AJATO 03",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: d3dxfsya09lbcn.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: d2ggqkihtg2cej.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "recarga.vivo.com.br",
             "TlsIP": "recarga.vivo.com.br",
             "ProxyIP": "recarga.vivo.com.br",
@@ -345,7 +345,7 @@ entre contato com seu revendedor
         {
             "Name": "📱 VIVO AJATO 04",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:d3dxfsya09lbcn.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d2ggqkihtg2cej.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "52.85.213.21",
             "ProxyIP": "52.85.213.21",
@@ -355,7 +355,7 @@ entre contato com seu revendedor
 	 {
             "Name": "📱 VIVO AJATO 05",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:d3dxfsya09lbcn.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d2ggqkihtg2cej.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "sgr.tatix.com.br",
             "TlsIP": "sgr.tatix.com.br",
             "ProxyIP": "sgr.tatix.com.br",
@@ -365,7 +365,7 @@ entre contato com seu revendedor
 	{
             "Name": "📱 VIVO AJATO 06",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:d3dxfsya09lbcn.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d2ggqkihtg2cej.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "boaesporte.sga.bet",
             "TlsIP": "boaesporte.sga.bet",
             "ProxyIP": "boaesporte.sga.bet",
