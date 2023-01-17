@@ -1,7 +1,7 @@
 {
-"Version": "1.0.51",
+"Version": "1.0.52",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.51 Horas: 17:16 07/01/2023 🔰\n
+🔰 V: 1.0.52 Horas: 22:49 16/01/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: SERVIDOR TIM E PRIMEIRA OPCAO 🟢⚠️
 ••••\n
@@ -19,7 +19,7 @@ entre contato com seu revendedor
   "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400;7600;7400;7100;7700;7800;7900",
   "Servers": [
     {
-      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.50",
+      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.52",
       "TYPE": "premium ",
       "FLAG": "br.png",
       "ServerIP": "eu.raricknew.online",
@@ -30,7 +30,7 @@ entre contato com seu revendedor
       "PASS": ""
     },
     {
-      "Name": "SERVIDOR 2 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.50",
+      "Name": "SERVIDOR 2 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.52",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sonic.raricknew.online",
@@ -44,147 +44,209 @@ entre contato com seu revendedor
     
   ],
   "Networks": [
- {
-    "Name": "🔵TIM 01 [DIRECT]",
+ 	{
+"Name": "💙TIM ✅ 📡 🔴\n R1", 
+"FLAG": "tim", 
+"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=www.c6bank.app;bam.nr-data.net;api.sandbox.c6bank.com.br;apptest.c6bank.app;c6bank.com.br;support.deezer.com;fly218.com;rapehun.com][crlf]Expect: 100-continue[lf][lf][split][lf][lf]ACL /Chessmind/ HTTP/1.1[lf]Host: [app_host][lf]Expect: 100-continue[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]", 
+"SNI": "", 
+"TlsIP": "adaptador.sonicvpn.xyz", 
+"ProxyIP": "adaptador.sonicvpn.xyz", 
+"ProxyPort": "80", 
+"Info": "Proxy" 
+},
+{
+"Name": "💙TIM ✅ 📡 🔴\n R2", 
+"FLAG": "tim", 
+"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=bam.nr-data.net;www.c6bank.app;api.sandbox.c6bank.com.br;apptest.c6bank.app;c6bank.com.br;support.deezer.com;fly218.com;rapehun.com][crlf]Expect: 100-continue[lf][lf][split][lf][lf]ACL /Chessmind/ HTTP/1.1[lf]Host: [app_host][lf]Expect: 100-continue[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]", 
+"SNI": "", 
+"TlsIP": "t.startnetplus.xyz", 
+"ProxyIP": "t.startnetplus.xyz", 
+"ProxyPort": "80", 
+"Info": "Proxy" 
+},
+
+   {
+    "Name": "🔵TIM E VIVO EASY,CONTROLE 01 ✅\n[DIRECT]",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: eu.raricknew.online[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "104.16.53.111",
+      "TlsIP": "t.startnetplus.xyz",
       "ProxyIP": "",
       "ProxyPort": "80",
       "Info": "Direct"
   },
-  {
-    "Name": "🔵TIM 02 [DIRECT]",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: sonic.raricknew.online[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "104.16.53.111",
-      "ProxyIP": "",
-      "ProxyPort": "80",
-      "Info": "Direct"
-  },
-   {
-    "Name": "TIM E VIVO 1",
+   
+{
+    "Name": "🔵TIM E VIVO EASY,CONTROLE 02 ✅\n",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.19.239.25",
+      "ProxyIP": "t.startnetplus.xyz",
       "ProxyPort": "80",
       "Info": "Proxy"
   },
 {
-    "Name": "TIM E VIVO 2",
+    "Name": "🔵TIM E VIVO EASY,CONTROLE 03 ✅\n",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.16.53.111",
+      "ProxyIP": "t.startnetplus.xyz",
       "ProxyPort": "80",
       "Info": "Proxy"
   },
 {
-    "Name": "TIM E VIVO 3",
+    "Name": "🔵TIM E VIVO EASY,CONTROLE 04 ✅\n",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: www.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.16.53.111",
+      "ProxyIP": "t.startnetplus.xyz",
       "ProxyPort": "80",
       "Info": "Proxy"
   },
- 
- {
-      "Name": "VIVO PLUS",
-      "FLAG": "vivo",
-      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.18.6.80",
-      "ProxyPort": "80",
+
+  {         
+      "Name": "🛟⚓TIM DIRECT⚓🛟 ", 
+      "FLAG": "tim", 
+      "Payload": "PATCH HTTP/1.0 [crlf]Host: map.qq.com[crlf]", 
+      "SNI": "", 
+      "TlsIP": "", 
+      "ProxyIP": "[app_host]", 
+      "ProxyPort": "80", 
       "Info": "Proxy"
     },
-
-{
-      "Name": "💜VIVO TOP",
+	
+    {
+      "Name": "🛟⚓TIM DIRECT 2⚓🛟",
+      "FLAG": "tim",
+      "Payload": "HTTP/ [crlf][crlf]|[crlf]",
+      "SNI":"",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+   
+   
+	{
+      "Name": "💜VIVO PRE \n ✅ MULT ST",
       "FLAG": "vivo",
       "Payload": "GET-MATRIX wss://eu.raricknew.online/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "eu.raricknew.online",
-      "TlsIP": "support.deezer.com",
+      "TlsIP": "adapitvivo.sonicvpn.xyz",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-    },
-    {
-      "Name": "💜VIVO TOP 2 ",
+    },	
+	{
+      "Name": "💜VIVO PRE \n ✅ MULT ST 02",
       "FLAG": "vivo",
       "Payload": "GET-MATRIX wss://sonic.raricknew.online/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "sonic.raricknew.online",
-      "TlsIP": "support.deezer.com",
+      "TlsIP": "adapitvivo.sonicvpn.xyz",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-    },
-	  {
-      "Name": "☞🛟𝐕𝐈𝐕O NORMAL⚓━ 𝐎𝐍 🟢",
-      "FLAG": "vivo.png",
-      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.53.111",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-      {
-      "Name": "☞🛟𝐕𝐈𝐕O NORMAL 2⚓━ 𝐎𝐍 🟢",
-      "FLAG": "vivo.png",
-      "Payload": "GET /? - wss://support.deezer.com/ HTTP/1.0 [lf]Host: [app_host][lf]Upgrade: Websocket[lf][protocol][lf][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "support.deezer.com",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-      {
-      "Name": "☞🛟𝐕𝐈𝐕O NORMAL 3⚓━ 𝐎𝐍 🟢",
-      "FLAG": "vivo.png",
-      "Payload": "GET /? - wss://www.help.tinder.com/ HTTP/1.0 [lf]Host: [app_host][lf]Upgrade: Websocket[lf][protocol][lf][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "www.help.tinder.com",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-         {
-      "Name": "☞🛟𝐕𝐈𝐕O NORMAL 4⚓━ 𝐎𝐍 🟢",
-      "FLAG": "vivo.png",
-      "Payload": "GET /? - wss://servicedesk.resultadosdigitais.com.br/ HTTP/1.0 [lf]Host: [app_host][lf]Upgrade: Websocket[lf][protocol][lf][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "servicedesk.resultadosdigitais.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
+    },	
+ {
+"Name": "💜VIVO PRE \n R1 ✅ ", 
+"FLAG": "vivo", 
+"Payload": "BASE-LINE wss://[rotate=ffsupportbd.garena.com;support.giphy.com;[app_host];support.deezer.com;atendimento.descomplica.com.br;atendimento.descomplica.com.br;support.counterpath.com;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", 
+"SNI": "", 
+"TlsIP": "adapitvivo.sonicvpn.xyz", 
+"ProxyIP": "adapitvivo.sonicvpn.xyz", 
+"ProxyPort": "80", 
+"Info": "Proxy" 
+},
+ 
  { 
 
-"Name": "💜VIVO NORMAL ROTATE 📡💜", 
+"Name": "💜VIVO PRE \n ✅ R2 📡💜", 
 
 "FLAG": "vivo", 
 
-"Payload": "BASE-LINE wss://[rotate=gracegardencounseling.com;bam.nr-data.net;[app_host];vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", 
+"Payload": "BASE-LINE wss://[rotate=atendimento.descomplica.com.br;vivoid.vivo.com.br;support.deezer.com;atendimento.descomplica.com.br;[app_host];melhorplano.net;vivo360.vivo.com.br;selectra.net.br;gprs.digitel.com.ve] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", 
 
 "SNI": "", 
 
 "TlsIP": "", 
 
-"ProxyIP": "104.16.51.111", 
+"ProxyIP": "adapitvivo.sonicvpn.xyz", 
 
 "ProxyPort": "80", 
 
 "Info": "Proxy" 
 
 },
+{
+    "Name": "💜VIVO PRE \n ✅ R3💜",
+      "FLAG": "vivo",
+      "Payload": "GET-MATRIX HTTP://sonicvpn.xyz HTTP/
+1.3[crlf] Host:
+[rotate=support.deezer.com;atendimento.descomplica.com.br;atendimento.descomplica.com.br;[app_host];ffsupportbd.garena.com;support.giphy.com;support.counterpath.com;vps.sonicvpn.xyz]
+[crlf]Upgrade: Websocket [crlf][crlf][lf][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "adapitvivo.sonicvpn.xyz",
+      "ProxyPort": "443",
+      "Info": "Proxy"
+  },
+{
+    "Name": "💜VIVO PRE \n ✅ R4",
+      "FLAG": "vivo",
+      "Payload": "BASE-LINE wss://[rotate=support.deezer.com;atendimento.descomplica.com.br;atendimento.descomplica.com.br;[app_host];ffsupportbd.garena.com;support.giphy.com;support.counterpath.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "adapitvivo.sonicvpn.xyz",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+  },
+ 
+ 
+	  {
+"Name": "📱𝗩𝗜𝗩𝗢 EASY,CONTROLE 01 ✅ 📡 🔴\n R1", 
+"FLAG": "vivo", 
+"Payload": "BASE-LINE wss://[rotate=[app_host];sigitm.vivo.com.br;vigia.vivo.com.br;gracegardencounseling.com;veasy.startnetplus.xyz;[app_host];vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", 
+"SNI": "", 
+"TlsIP": "", 
+"ProxyIP": "veasy.startnetplus.xyz", 
+"ProxyPort": "80", 
+"Info": "Proxy" 
+},
+{
+"Name": "📱𝗩𝗜𝗩𝗢 EASY,CONTROLE 02 ✅ 📡 🔴\n R2", 
+"FLAG": "vivo", 
+"Payload": "BASE-LINE wss://[rotate=[app_host];sigitm.vivo.com.br;vigia.vivo.com.br;gracegardencounseling.com;veasy.startnetplus.xyz;[app_host];vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", 
+"SNI": "", 
+"TlsIP": "veasy.startnetplus.xyz", 
+"ProxyIP": "veasy.startnetplus.xyz", 
+"ProxyPort": "80", 
+"Info": "Proxy" 
+},
+
+	{
+    "Name": "📱𝗩𝗜𝗩𝗢 EASY,CONTROLE 03 📡 🔴\n ✅",
+      "FLAG": "vivo",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "adapiteasy.sonicvpn.xyz",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }, 
+ 
+	{
+      "Name": "📱𝗩𝗜𝗩𝗢 EASY,CONTROLE 04 📡 🔴\n ✅",
+      "FLAG": "vivo",
+      "Payload": "GET-MATRIX wss://eu.raricknew.online/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "veasy.startnetplus.xyz",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
  {
       "Name": "📱 VIVO FERRARI \n ",
       "FLAG": "vivo",
