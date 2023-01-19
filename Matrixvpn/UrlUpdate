@@ -1,7 +1,7 @@
 {
-"Version": "1.0.182",
+"Version": "1.0.183",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.182 Horas: 14:50 19/01/2023 🔰\n
+🔰 V: 1.0.183 Horas: 14:50 19/01/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: ATUALIZADO CONEXOES TIM  🟢⚠️
 ••••••••••••••••••••\n
@@ -154,24 +154,6 @@ entre contato com seu revendedor
 
 },
 
- { 
-
-"Name": "💜VIVO TOP 02 📡💜", 
-
-"FLAG": "vivo", 
-
-"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=dqnadun0nxl3s.cloudfront.net; d23jnljlqgdeow.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
-
-"SNI": "", 
-
-"TlsIP": "108.139.166.122", 
-
-"ProxyIP": "108.139.166.122", 
-
-"ProxyPort": "80", 
-
-"Info": "Proxy"
-},
    
 
 	{
