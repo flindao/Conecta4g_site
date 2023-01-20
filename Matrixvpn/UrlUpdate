@@ -1,9 +1,9 @@
 {
-"Version": "1.0.183",
+"Version": "1.0.184",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.183 Horas: 14:50 19/01/2023 🔰\n
+🔰 V: 1.0.184 Horas: 13:30 20/01/2023 🔰\n
 ••••\n
-⚠️ MURAL DE AVISOS: ATUALIZADO CONEXOES TIM  🟢⚠️
+⚠️ MURAL DE AVISOS: ATUALIZADO CONEXOES VIVO  🟢⚠️
 ••••••••••••••••••••\n
  Qualquer dificuldade para conectar,
 entre contato com seu revendedor
@@ -159,8 +159,8 @@ entre contato com seu revendedor
 	{
       "Name": "📱 VIVO FOGUETE 01 🚀 \n",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dqnadun0nxl3s.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "dqnadun0nxl3s.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d23jnljlqgdeow.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "d23jnljlqgdeow.cloudfront.net",
       "TlsIP": "",
       "ProxyIP": "planosvivointernet.com.br",
       "ProxyPort": "80",
@@ -169,7 +169,7 @@ entre contato com seu revendedor
     {
             "Name": "📱 VIVO FOGUETE 02",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:dqnadun0nxl3s.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:d23jnljlqgdeow.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "108.139.166.122",
             "ProxyIP": "108.139.166.122",
@@ -179,7 +179,7 @@ entre contato com seu revendedor
 	 {
             "Name": "📱 VIVO FOGUETE 03",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: dqnadun0nxl3s.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: d23jnljlqgdeow.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "recarga.vivo.com.br",
             "TlsIP": "recarga.vivo.com.br",
             "ProxyIP": "recarga.vivo.com.br",
@@ -189,7 +189,7 @@ entre contato com seu revendedor
     {
       "Name": "📱 VIVO FOGUETE 04",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dqnadun0nxl3s.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d23jnljlqgdeow.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "52.85.213.21",
       "ProxyIP": "52.85.213.21",
@@ -199,7 +199,7 @@ entre contato com seu revendedor
     {
       "Name": "📱 VIVO FOGUETE 05",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dqnadun0nxl3s.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d23jnljlqgdeow.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "sgr.tatix.com.br",
       "TlsIP": "sgr.tatix.com.br",
       "ProxyIP": "sgr.tatix.com.br",
@@ -209,7 +209,7 @@ entre contato com seu revendedor
      {
       "Name": "📱 VIVO FOGUETE 06",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dqnadun0nxl3s.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d23jnljlqgdeow.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "boaesporte.sga.bet",
       "TlsIP": "boaesporte.sga.bet",
       "ProxyIP": "boaesporte.sga.bet",
@@ -219,7 +219,7 @@ entre contato com seu revendedor
     {
       "Name": "📱 VIVO FOGUETE 07",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dqnadun0nxl3s.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d23jnljlqgdeow.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "108.139.166.83",
       "ProxyIP": "108.139.166.83",
@@ -229,7 +229,7 @@ entre contato com seu revendedor
      {
       "Name": "📱 VIVO FOGUETE 08",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dqnadun0nxl3s.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d23jnljlqgdeow.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "108.139.166.55",
       "ProxyIP": "108.139.166.55",
@@ -239,7 +239,7 @@ entre contato com seu revendedor
      {
       "Name": "📱 VIVO FOGUETE 09",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dqnadun0nxl3s.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d23jnljlqgdeow.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "108.139.166.86",
       "ProxyIP": "108.139.166.86",
@@ -271,7 +271,7 @@ entre contato com seu revendedor
 
 	"Name": "💜VIVO LENTO DE MAIS!!! 📡💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=dqnadun0nxl3s.cloudfront.net; d23jnljlqgdeow.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d23jnljlqgdeow.cloudfront.net; d23jnljlqgdeow.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "108.139.166.122", 
 	"ProxyIP": "108.139.166.122", 
