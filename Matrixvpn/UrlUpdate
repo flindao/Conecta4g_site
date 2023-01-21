@@ -1,7 +1,7 @@
 {
-"Version": "1.0.184",
+"Version": "1.0.185",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.184 Horas: 13:30 20/01/2023 🔰\n
+🔰 V: 1.0.185 Horas: 00:50 21/01/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: ATUALIZADO CONEXOES VIVO  🟢⚠️
 ••••••••••••••••••••\n
@@ -271,7 +271,7 @@ entre contato com seu revendedor
 
 	"Name": "💜VIVO LENTO DE MAIS!!! 📡💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d23jnljlqgdeow.cloudfront.net; d23jnljlqgdeow.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d23jnljlqgdeow.cloudfront.net; d8d39wnlozpf.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "108.139.166.122", 
 	"ProxyIP": "108.139.166.122", 
