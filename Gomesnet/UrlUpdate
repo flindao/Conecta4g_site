@@ -1,7 +1,7 @@
 {
-"Version": "1.0.54",
+"Version": "1.0.55",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.54 Horas: 22:49 16/01/2023 🔰\n
+🔰 V: 1.0.55 Horas: 16:13 21/01/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: SERVIDOR TIM E PRIMEIRA OPCAO 🟢⚠️
 ••••\n
@@ -19,10 +19,10 @@ entre contato com seu revendedor
   "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400;7600;7400;7100;7700;7800;7900",
   "Servers": [
     {
-      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.54",
+      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.55",
       "TYPE": "premium ",
       "FLAG": "br.png",
-      "ServerIP": "eu.raricknew.online",
+      "ServerIP": "gomes1.rarickv2ray.shop",
       "CheckUser": "http://152.67.63.177:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -30,10 +30,10 @@ entre contato com seu revendedor
       "PASS": ""
     },
     {
-      "Name": "SERVIDOR 2 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.54",
+      "Name": "SERVIDOR 2 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.55",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "sonic.raricknew.online",
+      "ServerIP": "gomes2.rarickv2ray.shop",
       "CheckUser": "http://216.238.109.22:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -68,7 +68,7 @@ entre contato com seu revendedor
    {
     "Name": "🔵TIM E VIVO EASY,CONTROLE 01 ✅\n[DIRECT]",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: eu.raricknew.online[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: gomes1.rarickv2ray.shop[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
       "SNI": "",
       "TlsIP": "t.startnetplus.xyz",
       "ProxyIP": "",
@@ -133,8 +133,8 @@ entre contato com seu revendedor
 	{
       "Name": "💜VIVO PRE \n ✅ MULT ST",
       "FLAG": "vivo",
-      "Payload": "GET-MATRIX wss://eu.raricknew.online/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "eu.raricknew.online",
+      "Payload": "GET-MATRIX wss://gomes1.rarickv2ray.shop/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "gomes1.rarickv2ray.shop",
       "TlsIP": "adapitvivo.sonicvpn.xyz",
       "ProxyIP": "",
       "ProxyPort": "443",
@@ -143,8 +143,8 @@ entre contato com seu revendedor
 	{
       "Name": "💜VIVO PRE \n ✅ MULT ST 02",
       "FLAG": "vivo",
-      "Payload": "GET-MATRIX wss://sonic.raricknew.online/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "sonic.raricknew.online",
+      "Payload": "GET-MATRIX wss://gomes2.rarickv2ray.shop/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "gomes2.rarickv2ray.shop",
       "TlsIP": "adapitvivo.sonicvpn.xyz",
       "ProxyIP": "",
       "ProxyPort": "443",
@@ -240,7 +240,7 @@ entre contato com seu revendedor
 	{
       "Name": "📱𝗩𝗜𝗩𝗢 EASY,CONTROLE 04 📡 🔴\n ✅",
       "FLAG": "vivo",
-      "Payload": "GET-MATRIX wss://eu.raricknew.online/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET-MATRIX wss://gomes1.rarickv2ray.shop/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "veasy.startnetplus.xyz",
       "ProxyIP": "",
