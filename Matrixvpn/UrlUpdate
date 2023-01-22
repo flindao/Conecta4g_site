@@ -1,9 +1,9 @@
 {
-"Version": "1.0.187",
+"Version": "1.0.188",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.187 Horas: 00:50 21/01/2023 🔰\n
+🔰 V: 1.0.188 Horas: 00:50 21/01/2023 🔰\n
 ••••\n
-⚠️ MURAL DE AVISOS: ATUALIZADO CONEXOES VIVO  🟢⚠️
+⚠️ MURAL DE AVISOS: ATUALIZADO TIM   🟢⚠️
 ••••••••••••••••••••\n
  Qualquer dificuldade para conectar,
 entre contato com seu revendedor
@@ -29,6 +29,38 @@ entre contato com seu revendedor
     }
   ],
   "Networks": [
+
+{
+            "Name": "TIM RAPIDO 01",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[crlf]Host: cdn.c6bank.com.br[crlf]Expect: 100-MATRIXPLAY[crlf][crlf][split][crlf][crlf]ACL /MATRIXPLAY/ HTTP/1.1[crlf]Host: sonicvpn.xyz[crlf]Expect: 100-MATRIXPLAY[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf] MATRIXPLAY[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.19.239.25",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+		{
+            "Name": "TIM RAPIDO 02",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[crlf]Host: cdn.c6bank.com.br[crlf]Expect: 100-TOPSPEED[crlf][crlf][split][crlf][crlf]ACL /TOPSPEED/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-TOPSPEED[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]TOPSPEED[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "adaptador.sonicvpn.xyz",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+		
+		{
+            "Name": "TIM RAPIDO 03",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[crlf]Host: cdn.c6bank.com.br[crlf]Expect: 100-TOPSPEED[crlf][crlf][split][crlf][crlf]GET-TOPSPEED /TOPSPEED/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-TOPSPEED[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]TOPSPEED[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.19.239.25",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
 
    {
     "Name": "TIM 1",
