@@ -1,7 +1,7 @@
 {
-"Version": "1.0.55",
+"Version": "1.0.56",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.55 Horas: 16:13 21/01/2023 🔰\n
+🔰 V: 1.0.56 Horas: 16:13 21/01/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: SERVIDOR TIM E PRIMEIRA OPCAO 🟢⚠️
 ••••\n
@@ -44,7 +44,127 @@ entre contato com seu revendedor
     
   ],
   "Networks": [
- 	{
+ 	 {
+      "Name": "TIM 1 EXPIRADO 💜",
+      "FLAG": "tim",
+	  "Payload": "MERGE indexer10.sjc.northshore.akamai.com HTTP/2.0[crlf]Host: indexer10.sjc.northshore.akamai.com [crlf]Connection: upgrade, Keep-Alive-Status 101[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)@mateuscmf[crlf]Referer: http://www.google.com[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 2 EXPIRADO 💜",
+      "FLAG": "tim",
+      "Payload": "PROPPATCH www.reddit.com HTTP/1.0[crlf]Host: www.reddit.com[crlf]",
+      "SNI": "api.onesignal.com",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name":"TIM 3 EXPIRADO 💜",
+      "FLAG": "tim",
+      "Payload":"ACL HTTP/2[crlf]Host: plus.google.com[crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+    {
+      "Name": "TIM 4 EXPIRADO 💜",
+      "FLAG": "tim",
+      "Payload": "PROPFIND m.youtube.com.br HTTP/1.1[crlf]Host: m.youtube.com.br[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 5 EXPIRADO 💜",
+      "FLAG": "tim", 
+      "Payload": "ACL HTTP/1.1[lf]Host: google.es[lf]",
+      "SNI": "[app_host]",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+    {
+      "Name": "TIM 6 EXPIRADO 💜",
+      "FLAG": "tim",
+      "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net [protocol][crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 7 EXPIRADO 💜",
+      "FLAG": "tim",
+      "Payload": "MERGE mobile.adobe.com HTTP/1.1[crlf]Host: mobile.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
+      "SNI": "",
+      "TlsIP": "mobile.adobe.com",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 8 EXPIRADO 💜",
+      "FLAG": "tim",
+      "Payload": "MERGE buzzfeed.com HTTP/1.1[crlf]Host: buzzfeed.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
+      "SNI": "",
+      "TlsIP": "buzzfeed.com",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 9 EXPIRADO 💜",
+      "FLAG": "tim",
+      "Payload": "MERGE triggercampaign.adobe.com HTTP/1.1[crlf]Host: triggercampaign.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
+      "SNI": "",
+      "TlsIP": "triggercampaign.adobe.com",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 10 EXPIRADO ️💜",
+      "FLAG": "tim",
+      "Payload": "MERGE mobile.google.com HTTP/1.1[crlf]Host: mobile.google.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
+      "SNI": "",
+      "TlsIP": "mobile.google.com",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 11 EXPIRADO ️💜",
+      "FLAG": "tim",
+      "Payload": "MERGE campaign.adobe.com HTTP/1.1[crlf]Host: campaign.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
+      "SNI": "",
+      "TlsIP": "campaign.adobe.com",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+	"Name": "TIM 12 EXPIRADO ️💜",
+      "FLAG": "tim",
+      "Payload": "MERGE summit.adobe.com HTTP/1.1[crlf]Host: summit.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
+      "SNI": "",
+      "TlsIP": "summit.adobe.com",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+	{
 "Name": "💙TIM ✅ 📡 🔴\n R1", 
 "FLAG": "tim", 
 "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=www.c6bank.app;bam.nr-data.net;api.sandbox.c6bank.com.br;apptest.c6bank.app;c6bank.com.br;support.deezer.com;fly218.com;rapehun.com][crlf]Expect: 100-continue[lf][lf][split][lf][lf]ACL /Chessmind/ HTTP/1.1[lf]Host: [app_host][lf]Expect: 100-continue[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]", 
