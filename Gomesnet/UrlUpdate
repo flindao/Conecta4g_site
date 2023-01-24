@@ -1,7 +1,7 @@
 {
-"Version": "1.0.59",
+"Version": "1.0.60",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.59 Horas: 18:50 24/01/2023 🔰\n
+🔰 V: 1.0.60 Horas: 18:50 24/01/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: SERVIDOR TIM E PRIMEIRA OPCAO 🟢⚠️
 ••••\n
@@ -19,7 +19,7 @@ entre contato com seu revendedor
   "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400;7600;7400;7100;7700;7800;7900",
   "Servers": [
     {
-      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.59",
+      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.60",
       "TYPE": "premium ",
       "FLAG": "br.png",
       "ServerIP": "gomes1.rarickv2ray.shop",
@@ -34,7 +34,38 @@ entre contato com seu revendedor
     
   ],
   "Networks": [
- 	
+ 	{
+            "Name": "TIM RAPIDO 01",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[crlf]Host: cdn.c6bank.com.br[crlf]Expect: 100-MATRIXPLAY[crlf][crlf][split][crlf][crlf]ACL /MATRIXPLAY/ HTTP/1.1[crlf]Host: gomes1.rarickv2ray.shop[crlf]Expect: 100-MATRIXPLAY[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf] MATRIXPLAY[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.19.239.25",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+		{
+            "Name": "TIM RAPIDO 02",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[crlf]Host: cdn.c6bank.com.br[crlf]Expect: 100-TOPSPEED[crlf][crlf][split][crlf][crlf]ACL /TOPSPEED/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-TOPSPEED[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]TOPSPEED[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "adaptador.sonicvpn.xyz",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+		
+		{
+            "Name": "TIM RAPIDO 03",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[crlf]Host: cdn.c6bank.com.br[crlf]Expect: 100-MATRIXPLAY[crlf][crlf][split][crlf][crlf]GET-MATRIXPLAY /MATRIXPLAY/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-MATRIXPLAY[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]MATRIXPLAY[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.19.239.25",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+
 
 	{
 "Name": "💙TIM ✅ 📡 🔴\n R1", 
