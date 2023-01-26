@@ -1,7 +1,7 @@
 {
-"Version": "1.0.194",
+"Version": "1.0.195",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.194 Horas: 23:30 24/01/2023 🔰\n
+🔰 V: 1.0.195 Horas: 23:30 24/01/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: ATUALIZADO TIM   🟢⚠️
 ••••••••••••••••••••\n
@@ -121,7 +121,7 @@ entre contato com seu revendedor
  {  
 	"Name": "💜VIVO AJATO 💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d3lm8z7aqcbh5q.cloudfront.net; d8d39wnlozpf.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d3lm8z7aqcbh5q.cloudfront.net; d1s96j8quwx1hv.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "ft.sonicvpn.xyz", 
 	"ProxyIP": "ft.sonicvpn.xyz", 
@@ -134,7 +134,7 @@ entre contato com seu revendedor
 
 	"Name": "💜VIVO LENTO DE MAIS!!! 📡💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d8d39wnlozpf.cloudfront.net; d3lm8z7aqcbh5q.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d8d39wnlozpf.cloudfront.net; d1s96j8quwx1hv.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "ft.sonicvpn.xyz", 
 	"ProxyIP": "ft.sonicvpn.xyz", 
