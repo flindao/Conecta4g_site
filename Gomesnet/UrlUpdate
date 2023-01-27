@@ -1,7 +1,7 @@
 {
-"Version": "1.0.61",
+"Version": "1.0.62",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.61 Horas: 22:16 26/01/2023 🔰\n
+🔰 V: 1.0.62 Horas: 22:16 26/01/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: ORGANIZADAS TODAS OPCOES 🟢⚠️
 ••••\n
@@ -19,7 +19,7 @@ entre contato com seu revendedor
   "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400;7600;7400;7100;7700;7800;7900",
   "Servers": [
     {
-      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.61",
+      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.62",
       "TYPE": "premium ",
       "FLAG": "br.png",
       "ServerIP": "gomes1.rarickv2ray.shop",
@@ -90,6 +90,37 @@ entre contato com seu revendedor
 "ProxyIP": "adapitvivo.sonicvpn.xyz", 
 "ProxyPort": "80", 
 "Info": "Proxy" 
+},
+{
+"Name": "💜VIVO EASY,CONTROLE 02 ✅ 📡 🔴\n R2", 
+"FLAG": "vivo", 
+"Payload": "BASE-LINE wss://[rotate=[app_host];sigitm.vivo.com.br;vigia.vivo.com.br;gracegardencounseling.com;veasy.startnetplus.xyz;[app_host];vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", 
+"SNI": "", 
+"TlsIP": "veasy.startnetplus.xyz", 
+"ProxyIP": "veasy.startnetplus.xyz", 
+"ProxyPort": "80", 
+"Info": "Proxy" 
+},
+
+
+ { 
+
+"Name": "💜VIVO NORMAL ROTATE 📡💜", 
+
+"FLAG": "vivo", 
+
+"Payload": "BASE-LINE wss://[rotate=gracegardencounseling.com;bam.nr-data.net;[app_host];vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", 
+
+"SNI": "", 
+
+"TlsIP": "", 
+
+"ProxyIP": "104.16.51.111", 
+
+"ProxyPort": "80", 
+
+"Info": "Proxy" 
+
 },
  
  {  
