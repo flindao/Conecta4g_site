@@ -1,7 +1,7 @@
 {
-"Version": "1.0.64",
+"Version": "1.0.65",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.64 Horas: 12:16 27/01/2023 🔰\n
+🔰 V: 1.0.65 Horas: 16:11 28/01/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: ORGANIZADAS TODAS OPCOES 🟢⚠️
 ••••\n
@@ -16,10 +16,48 @@ entre contato com seu revendedor
   "UrlContato": "http://painel.gomes.sonicvpn.xyz/",
   "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Gomesnet/termos.html",
   "CheckUser": "true",
-  "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400;7600;7400;7100;7700;7800;7900",
+  "UdpPort": "7294;7295;7296;7200;7297;7298;7299;7300;7400;7500;7600;7700;7100",
+    "Udp": [
+    {
+      "Porta": "7294"
+    },
+	{
+      "Porta": "7300"
+    },
+	{
+      "Porta": "7100"
+    },
+	{
+      "Porta": "7295"
+    },
+	{
+      "Porta": "7296"
+    },
+	{
+      "Porta": "7297"
+    },
+	{
+      "Porta": "7298"
+    },
+	{
+      "Porta": "7299"
+    },
+    {
+      "Porta": "7400"
+    },
+    {
+      "Porta": "7500"
+    },
+    {
+      "Porta": "7600"
+    },
+    {
+      "Porta": "7700"
+    }
+ ],
   "Servers": [
     {
-      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.64",
+      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.65",
       "TYPE": "premium ",
       "FLAG": "br.png",
       "ServerIP": "gomes1.rarickv2ray.shop",
