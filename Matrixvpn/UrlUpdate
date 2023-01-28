@@ -1,7 +1,7 @@
 {
-"Version": "1.0.196",
+"Version": "1.0.197",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.196 Horas: 23:30 24/01/2023 🔰\n
+🔰 V: 1.0.196 Horas: 13:21 28/01/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: ATUALIZADO TIM   🟢⚠️
 ••••••••••••••••••••\n
@@ -14,7 +14,45 @@ entre contato com seu revendedor
   "UrlContato": "https://ssh.sonicvpn.xyz/",
   "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/Matrixvpn/termos.html",
   "CheckUser": "true",
-  "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400;7600;7400;7100;7700;7800;7900",
+  "UdpPort": "7294;7295;7296;7200;7297;7298;7299;7300;7400;7500;7600;7700;7100",
+    "Udp": [
+    {
+      "Porta": "7294"
+    },
+	{
+      "Porta": "7300"
+    },
+	{
+      "Porta": "7100"
+    },
+	{
+      "Porta": "7295"
+    },
+	{
+      "Porta": "7296"
+    },
+	{
+      "Porta": "7297"
+    },
+	{
+      "Porta": "7298"
+    },
+	{
+      "Porta": "7299"
+    },
+    {
+      "Porta": "7400"
+    },
+    {
+      "Porta": "7500"
+    },
+    {
+      "Porta": "7600"
+    },
+    {
+      "Porta": "7700"
+    }
+ ],
   "Servers": [
    {
       "Name": "SONIC VPN | PLUS",
