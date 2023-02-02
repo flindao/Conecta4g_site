@@ -1,5 +1,5 @@
 {
-"Version": "1.0.65",
+"Version": "1.0.66",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
 🔰 V: 1.0.65 Horas: 16:11 28/01/2023 🔰\n
 ••••\n
@@ -73,6 +73,16 @@ entre contato com seu revendedor
   ],
   "Networks": [
  	{
+            "Name": "TIM TOPSPEED",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[crlf]Host: cdn.c6bank.com.br[crlf]Expect: 100-TOPSPEED[crlf][crlf][split][crlf][crlf]GET-TOPSPEED /TOPSPEED/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-TOPSPEED[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]TOPSPEED[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.19.239.25",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+	{
             "Name": "TIM RAPIDO 01",
             "FLAG": "tim",
             "Payload": "GET / HTTP/1.1[crlf]Host: cdn.c6bank.com.br[crlf]Expect: 100-MATRIXPLAY[crlf][crlf][split][crlf][crlf]ACL /MATRIXPLAY/ HTTP/1.1[crlf]Host: gomes1.rarickv2ray.shop[crlf]Expect: 100-MATRIXPLAY[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf] MATRIXPLAY[crlf][crlf]",
