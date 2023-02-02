@@ -1,7 +1,7 @@
 {
-"Version": "1.0.199",
+"Version": "1.0.200",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.199 Horas: 11:55 01/02/2023 🔰\n
+🔰 V: 1.0.200 Horas: 18:22 02/02/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: ATUALIZADO TIM   🟢⚠️
 ••••••••••••••••••••\n
@@ -172,7 +172,7 @@ entre contato com seu revendedor
 
 	"Name": "💜VIVO LENTO DE MAIS!!! 📡💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d8d39wnlozpf.cloudfront.net;d2zs52sws7or58.cloudfront.net ;d23lfel9wvfjaw.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d8d39wnlozpf.cloudfront.net;d2zs52sws7or58.cloudfront.net ;d1d718lyn4508p.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "ft.sonicvpn.xyz", 
 	"ProxyIP": "ft.sonicvpn.xyz", 
