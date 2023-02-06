@@ -1,7 +1,7 @@
 {
-"Version": "1.0.68",
+"Version": "1.0.69",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.68 Horas: 21:11 05/02/2023 🔰\n
+🔰 V: 1.0.69 Horas: 21:11 05/02/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: ORGANIZADAS TODAS OPCOES 🟢⚠️
 ••••\n
@@ -159,6 +159,19 @@ entre contato com seu revendedor
 
 },
 {
+    "Name": "💜VIVO PRE \n ✅ R3💜",
+      "FLAG": "vivo",
+      "Payload": "GET-MATRIX HTTP://gomes1.rarickv2ray.shop HTTP/
+1.3[crlf] Host:
+[rotate=support.deezer.com;atendimento.descomplica.com.br;atendimento.descomplica.com.br;[app_host];ffsupportbd.garena.com;support.giphy.com;support.counterpath.com;vps.sonicvpn.xyz]
+[crlf]Upgrade: Websocket [crlf][crlf][lf][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "adapitvivo.sonicvpn.xyz",
+      "ProxyPort": "443",
+      "Info": "Proxy"
+  },
+{
 "Name": "💜VIVO EASY,CONTROLE 02 ✅ 📡 🔴\n R2", 
 "FLAG": "vivo", 
 "Payload": "BASE-LINE wss://[rotate=[app_host];sigitm.vivo.com.br;vigia.vivo.com.br;gracegardencounseling.com;veasy.startnetplus.xyz;[app_host];vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", 
@@ -193,7 +206,7 @@ entre contato com seu revendedor
  {  
 	"Name": "💜VIVO AJATO 💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=dnk3die8nt311.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d25smw1dsyv271.cloudfront.net;dao3a2o4z83to.cloudfront.net;dnk3die8nt311.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "ft.sonicvpn.xyz", 
 	"ProxyIP": "ft.sonicvpn.xyz", 
@@ -206,7 +219,7 @@ entre contato com seu revendedor
 
 	"Name": "💜VIVO LENTO DE MAIS!!! 📡💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=dnk3die8nt311.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d25smw1dsyv271.cloudfront.net;dao3a2o4z83to.cloudfront.net;dnk3die8nt311.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "ft.sonicvpn.xyz", 
 	"ProxyIP": "ft.sonicvpn.xyz", 
