@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.36",
+  "Version": "1.0.37",
   "ReleaseNotes": "REORGANIZADAS TODAS OPCOES\n \n  ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
@@ -80,7 +80,16 @@
   ],
   "Networks": [
  
-
+{
+      "Name": "🔵TIM B1",
+      "FLAG": "tim",
+      "Payload": "BCOPY / HTTP/1.1[crlf]Host: ajax.opera-mini.net[lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },	
 {
             "Name": "TIM 01",
             "FLAG": "tim",
