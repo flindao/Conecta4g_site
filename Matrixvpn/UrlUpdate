@@ -1,7 +1,7 @@
 {
-"Version": "1.0.203",
+"Version": "1.0.204",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.203 Horas: 11:31 06/02/2023 🔰\n
+🔰 V: 1.0.204 Horas: 11:31 06/02/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: ATUALIZADO TIM   🟢⚠️
 ••••••••••••••••••••\n
@@ -70,7 +70,7 @@ entre contato com seu revendedor
 
 
 		{
-            "Name": "TIM E VIVO PRE 01",
+            "Name": "💙TIM 1",
             "FLAG": "tim",
             "Payload": "GET / HTTP/1.1[crlf]Host: cdn.c6bank.com.br[crlf]Expect: 100-TOPSPEED[crlf][crlf][split][crlf][crlf]ACL /TOPSPEED/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-TOPSPEED[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]TOPSPEED[crlf][crlf]",
             "SNI": "",
@@ -81,7 +81,7 @@ entre contato com seu revendedor
         },
 	
 {
-    "Name": "TIM E VIVO PRE 02",
+    "Name": "💙TIM 2",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: www.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
       "SNI": "",
@@ -91,7 +91,7 @@ entre contato com seu revendedor
       "Info": "Proxy"
   },
   {
-            "Name": "TIM 3",
+            "Name": "💙TIM 3",
             "FLAG": "tim",
             "Payload": "GET / HTTP/1.1[crlf]Host: pre-onboarding-h.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- /?/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
             "SNI": "",
@@ -102,7 +102,7 @@ entre contato com seu revendedor
         },
  
   	{
-"Name": "💙TIM E VIVO PRE✅ 📡 🔴\n R1", 
+"Name": "💙TIM \n R1", 
 "FLAG": "tim", 
 "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=www.c6bank.app;cdn.c6bank.com.br;api.sandbox.c6bank.com.br;apptest.c6bank.app;c6bank.com.br;support.deezer.com;fly218.com;rapehun.com][crlf]Expect: 100-continue[lf][lf][split][lf][lf]ACL /Chessmind/ HTTP/1.1[lf]Host: [app_host][lf]Expect: 100-continue[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]", 
 "SNI": "", 
@@ -113,7 +113,7 @@ entre contato com seu revendedor
 },
 
 {
-      "Name": "VIVO PLUS 01 \n EASY,CONTROLE",
+      "Name": "💜VIVO PLUS 01 \n EASY,CONTROLE",
       "FLAG": "vivo",
       "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -123,7 +123,7 @@ entre contato com seu revendedor
       "Info": "Proxy"
     },
  {
-"Name": "VIVO PLUS 02 \n ✅ 📡 🔴\n R1 EASY,CONTROLE", 
+"Name": "💜VIVO PLUS 02 \n ✅ 📡 🔴\n R1 EASY,CONTROLE", 
 "FLAG": "vivo", 
 "Payload": "BASE-LINE wss://[rotate=[app_host];sigitm.vivo.com.br;vigia.vivo.com.br;gracegardencounseling.com;veasy.startnetplus.xyz;[app_host];vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", 
 "SNI": "", 
