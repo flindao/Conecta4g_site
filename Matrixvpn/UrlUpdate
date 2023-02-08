@@ -1,7 +1,7 @@
 {
-"Version": "1.0.204",
+"Version": "1.0.205",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.204 Horas: 11:31 06/02/2023 🔰\n
+🔰 V: 1.0.205 Horas: 11:31 08/02/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: ATUALIZADO TIM   🟢⚠️
 ••••••••••••••••••••\n
@@ -169,7 +169,7 @@ entre contato com seu revendedor
  {  
 	"Name": "💜VIVO AJATO 💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d1m0semnq8ywrc.cloudfront.net;d23lfel9wvfjaw.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d3jdq86hv43jv6.cloudfront.net;d23lfel9wvfjaw.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "ft.sonicvpn.xyz", 
 	"ProxyIP": "ft.sonicvpn.xyz", 
