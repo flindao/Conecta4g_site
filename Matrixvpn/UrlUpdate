@@ -1,7 +1,7 @@
 {
-"Version": "1.0.206",
+"Version": "1.0.207",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.206 Horas: 11:31 06/02/2023 🔰\n
+🔰 V: 1.0.207 Horas: 14:03 10/02/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: ATUALIZADO TIM   🟢⚠️
 ••••••••••••••••••••\n
@@ -100,6 +100,18 @@ entre contato com seu revendedor
             "ProxyPort": "80",
             "Info": "Proxy"
         },
+		{
+            "Name": "💙TIM 4",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.3[crlf]Host:landing.stoodi.com.br[crlf]Expect: 100-continue[lf][lf][split][lf][lf]PUT- // HTTP/1.3[lf]Host: [app_host][lf]Expect: 100-continue[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf]Sec-Websocket-Version:  13[crlf]Sec-WebSocket-Extensions: permessage-deflate, superspeed[crlf]Proxy-Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.16.53.111",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+		
+		
  
   	{
 "Name": "💙TIM \n R1", 
