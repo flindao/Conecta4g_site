@@ -1,7 +1,7 @@
 {
-"Version": "1.0.70",
+"Version": "1.0.71",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.70 Horas: 21:11 05/02/2023 🔰\n
+🔰 V: 1.0.71 Horas: 14:15 11/02/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: ORGANIZADAS TODAS OPCOES 🟢⚠️
 ••••\n
@@ -57,7 +57,7 @@ entre contato com seu revendedor
  ],
   "Servers": [
     {
-      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.65",
+      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.71",
       "TYPE": "premium ",
       "FLAG": "br.png",
       "ServerIP": "gomes1.rarickv2ray.shop",
@@ -72,18 +72,28 @@ entre contato com seu revendedor
     
   ],
   "Networks": [
- 	{
-            "Name": "TIM E VIVO PRE 01",
+{
+            "Name": "💙TIM 1",
             "FLAG": "tim",
-            "Payload": "GET / HTTP/1.1[crlf]Host: cdn.c6bank.com.br[crlf]Expect: 100-TOPSPEED[crlf][crlf][split][crlf][crlf]ACL /TOPSPEED/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-TOPSPEED[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]TOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: pre-onboarding-h.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- /?/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "t.startnetplus.xyz",
+            "ProxyIP": "pre-onboarding-h.c6bank.app",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
 		{
-            "Name": "TIM E VIVO PRE - B",
+            "Name": "💙TIM E VIVO 1",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.3[crlf]Host:landing.stoodi.com.br[crlf]Expect: 100-continue[lf][lf][split][lf][lf]PUT- // HTTP/1.3[lf]Host: [app_host][lf]Expect: 100-continue[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf]Sec-Websocket-Version:  13[crlf]Sec-WebSocket-Extensions: permessage-deflate, superspeed[crlf]Proxy-Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.16.53.111",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+		{
+            "Name": "💙TIM E VIVO 2",
             "FLAG": "tim",
             "Payload": "GET / HTTP/1.1[crlf]Host: cdn.c6bank.com.br[crlf]Expect: 100-TOPSPEED[crlf][crlf][split][crlf][crlf]ACL /TOPSPEED/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-TOPSPEED[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]TOPSPEED[crlf][crlf]",
             "SNI": "",
@@ -92,17 +102,38 @@ entre contato com seu revendedor
             "ProxyPort": "80",
             "Info": "Proxy"
         },
-		
-{
-    "Name": "TIM E VIVO PRE 02",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: www.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "adaptador.sonicvpn.xyz",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-  },
+			
+		{
+			"Name": "💙TIM E VIVO 3",
+			"FLAG": "tim",
+			"Payload": "GET / HTTP/1.1[crlf]Host: www.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+			"SNI": "",
+			"TlsIP": "",
+			"ProxyIP": "adaptador.sonicvpn.xyz",
+			"ProxyPort": "80",
+			"Info": "Proxy"
+		},
+		{
+            "Name": "💙TIM E VIVO 4",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[crlf]Host: cdn.c6bank.com.br[crlf]Expect: 100-TOPSPEED[crlf][crlf][split][crlf][crlf]ACL /TOPSPEED/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-TOPSPEED[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]TOPSPEED[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "t.startnetplus.xyz",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+  
+		{
+			"Name": "🔵TIM 01",
+			"FLAG": "tim",
+			"Payload": "BCOPY / HTTP/1.1[crlf]Host: ajax.opera-mini.net[lf]",
+			"SNI": "",
+			"TlsIP": "",
+			"ProxyIP": "[app_host]",
+			"ProxyPort": "80",
+			"Info": "Proxy"
+		},	
 {
     "Name": "🔵TIM E VIVO EASY,CONTROLE 01 ✅\n[DIRECT]",
       "FLAG": "tim",
