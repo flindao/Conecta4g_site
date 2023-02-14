@@ -1,7 +1,7 @@
 {
-"Version": "1.0.71",
+"Version": "1.0.73",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.0.71 Horas: 14:15 11/02/2023 🔰\n
+🔰 V: 1.0.73 Horas: 22:51 13/02/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: ORGANIZADAS TODAS OPCOES 🟢⚠️
 ••••\n
@@ -57,7 +57,7 @@ entre contato com seu revendedor
  ],
   "Servers": [
     {
-      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.71",
+      "Name": "SERVIDOR 1 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.73",
       "TYPE": "premium ",
       "FLAG": "br.png",
       "ServerIP": "gomes1.rarickv2ray.shop",
@@ -267,7 +267,7 @@ entre contato com seu revendedor
  {  
 	"Name": "💜VIVO AJATO 💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d25smw1dsyv271.cloudfront.net;dao3a2o4z83to.cloudfront.net;dnk3die8nt311.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d16zucc8i8xes2.cloudfront.net;dao3a2o4z83to.cloudfront.net;dnk3die8nt311.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "ft.sonicvpn.xyz", 
 	"ProxyIP": "ft.sonicvpn.xyz", 
@@ -280,7 +280,7 @@ entre contato com seu revendedor
 
 	"Name": "💜VIVO LENTO DE MAIS!!! 📡💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d25smw1dsyv271.cloudfront.net;dao3a2o4z83to.cloudfront.net;dnk3die8nt311.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d16zucc8i8xes2.cloudfront.net;dao3a2o4z83to.cloudfront.net;dnk3die8nt311.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "ft.sonicvpn.xyz", 
 	"ProxyIP": "ft.sonicvpn.xyz", 
