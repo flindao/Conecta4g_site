@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.38",
+  "Version": "1.0.39",
   "ReleaseNotes": "REORGANIZADAS TODAS OPCOES\n \n  ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
@@ -7,12 +7,11 @@
   "UrlContato": "http://painel.startnetplus.xyz/painel4g/",
   "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/termos.html",
   "CheckUser": "true",
-  "Udp": [
-    {
-      "Porta": "7300"
-    },
+  "UdpPort": "7295;7296;7200;7297;7298;7299;7300;7400;7500",
+    "Udp": [
+    
 	{
-      "Porta": "7100"
+      "Porta": "7300"
     },
 	{
       "Porta": "7295"
@@ -34,14 +33,8 @@
     },
     {
       "Porta": "7500"
-    },
-    {
-      "Porta": "7600"
-    },
-    {
-      "Porta": "7700"
-    }
-  ],
+       }
+ ],
   "Servers": [
        {
       "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.38 ]",
@@ -260,16 +253,18 @@
       "ProxyPort": "80",
       "Info": "Proxy"
   },
- {  
-	"Name": "💜VIVO GERAL 💜", 
-	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d2iqvje33aula7.cloudfront.net;dl69fhjefqqmw.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+  
+  {
+    "Name": "💜VIVO PRE \n ✅ R5",
+    "FLAG": "vivo", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d1d1j48ik5fsb7.cloudfront.net;d2j109c23l7zhp.cloudfront.net;d1nu046q0i20ge.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "ft.sonicvpn.xyz", 
 	"ProxyIP": "ft.sonicvpn.xyz", 
 	"ProxyPort": "80", 
 	"Info": "Proxy"
-    },
+  },
+ 
  
 	  {
 "Name": "💜VIVO EASY,CONTROLE 01 ✅ 📡 🔴\n R1 AGUARDAR CONECTAR", 
@@ -323,11 +318,21 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+	{  
+	"Name": "💜VIVO GERAL 💜", 
+	"FLAG": "vivo", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=dtlb8zl2zvc55.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"SNI": "", 
+	"TlsIP": "ft.sonicvpn.xyz", 
+	"ProxyIP": "ft.sonicvpn.xyz", 
+	"ProxyPort": "80", 
+	"Info": "Proxy"
+    },
 
  {  
 	"Name": "💜VIVO AJATO 💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d1d1j48ik5fsb7.cloudfront.net;d2j109c23l7zhp.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=dtlb8zl2zvc55.cloudfront.net;dtlb8zl2zvc55.cloudfront.net;dtlb8zl2zvc55.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "ft.sonicvpn.xyz", 
 	"ProxyIP": "ft.sonicvpn.xyz", 
