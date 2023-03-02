@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.39",
+  "Version": "1.0.40",
   "ReleaseNotes": "REORGANIZADAS TODAS OPCOES\n \n  ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
@@ -41,7 +41,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.startnetplus.xyz",
-      "CheckUser": "http://186.233.118.181:5454/checkUser",
+      "CheckUser": "http://209.14.69.237:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -53,6 +53,27 @@
   ],
   "Networks": [
  
+{
+            "Name": "CLARO 19/02/23",
+            "FLAG": "claro",
+            "Payload": "GET / HTTP/1.1[crlf]Host: d391380e8xlfhn.cloudfront.net[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf]TOPSPEED[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "108.158.134.75",
+            "ProxyIP": "52.85.34.50",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+{
+      "Name": "CLARO 11/02/23",
+      "FLAG": "claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d391380e8xlfhn.cloudfront.net[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf]TOPSPEED[crlf][crlf]",
+      "SNI": "52.85.34.50",
+      "TlsIP": "108.158.153.57",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+
 {
             "Name": "💙TIM 1",
             "FLAG": "tim",
@@ -159,6 +180,56 @@
 "ProxyIP": "t.startnetplus.xyz", 
 "ProxyPort": "80", 
 "Info": "Proxy" 
+},
+{
+      "Name": "💙TIM SALDO EXPIRADO",
+      "FLAG": "tim",
+      "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
+   {
+      "Name": "💙TIM EXPIRADO 1 (NOVO)",
+      "FLAG": "tim",
+      "Payload": "MERGE ok.ru HTTP/1.1[crlf]Host: ok.ru[crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Referer: http://www.google.com[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "💙TIM EXPIRADO 2 (NOVO)",
+      "FLAG": "tim",
+      "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "💙TIM EXPIRADO 3 (NOVO)",
+      "FLAG": "tim",
+      "Payload": "MERGE plus.google.com HTTP/1.1[crlf]Host: plus.google.com[crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Referer: http://www.google.com[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+	{ 
+       "Name":"💙TIM 4 ATIVE O IPV4🔵", 
+       "FLAG":"tim", 
+       "Payload":"ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf]", 
+       "SNI":"", 
+       "TlsIP":"[app_host]", 
+       "ProxyIP":"[app_host]", 
+       "ProxyPort":"80", 
+       "Info":"Proxy" 
 },
  {
       "Name": "💜VIVO TOP",
@@ -321,7 +392,7 @@
 	{  
 	"Name": "💜VIVO GERAL 💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=dtlb8zl2zvc55.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d391380e8xlfhn.cloudfront.net;d2j109c23l7zhp.cloudfront.net;dtlb8zl2zvc55.cloudfront.net;d3ixupiv2z614u.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "ft.sonicvpn.xyz", 
 	"ProxyIP": "ft.sonicvpn.xyz", 
@@ -332,7 +403,7 @@
  {  
 	"Name": "💜VIVO AJATO 💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=dtlb8zl2zvc55.cloudfront.net;dtlb8zl2zvc55.cloudfront.net;dtlb8zl2zvc55.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=dtlb8zl2zvc55.cloudfront.net;d3ixupiv2z614u.cloudfront.net;d391380e8xlfhn.cloudfront.net;d2j109c23l7zhp.cloudfront.net;dtlb8zl2zvc55.cloudfront.net;d2j109c23l7zhp.cloudfront.net;d2j109c23l7zhp.cloudfront.net;d3pxxwnd2mdo61.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "ft.sonicvpn.xyz", 
 	"ProxyIP": "ft.sonicvpn.xyz", 
