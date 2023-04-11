@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.44",
-  "ReleaseNotes": "VERSAO 1.0.44 \n \n  ",
+  "Version": "1.0.45",
+  "ReleaseNotes": "VERSAO 1.0.45 \n \n  ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
   "EmailFeedback": "",
@@ -52,6 +52,26 @@
      
   ],
   "Networks": [
+ {
+            "Name": "💙TIM GOLD 01",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[lf]Host: mobile.hom.c6bank.app[lf]:[lf][split][lf]GET- / HTTP/1.1[lf] Host:br1.startnetplus.xyz[lf]Upgrade: ws[lf]User-Agent: yes[lf][lf]",
+            "SNI": "",
+            "TlsIP": "104.19.239.25",
+            "ProxyIP": "104.19.239.25",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+      },
+	  {
+            "Name": "💙TIM GOLD 02",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[lf]Host: mobile.hom.c6bank.app[lf]:[lf][split][lf]GET- / HTTP/1.1[lf] Host:br1.startnetplus.xyz[lf]Upgrade: ws[lf]User-Agent: yes[lf][lf]",
+            "SNI": "",
+            "TlsIP": "104.16.53.111",
+            "ProxyIP": "104.16.53.111",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
 {
       "Name": "💙TIM EXTRA 01",
       "FLAG": "vivo",
