@@ -1,10 +1,10 @@
 {
-  "Version": "1.0.45",
-  "ReleaseNotes": "VERSAO 1.0.45 \n \n  ",
+  "Version": "1.0.46",
+  "ReleaseNotes": "VERSAO 1.0.46 \n \n  ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
   "EmailFeedback": "",
-  "UrlContato": "http://painel.startnetplus.xyz/painel4g/",
+  "UrlContato": "http://painel.startnetplus.xyz",
   "UrlTermos": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/termos.html",
   "CheckUser": "true",
   "UdpPort": "7295;7296;7200;7297;7298;7299;7300;7400;7500",
@@ -37,7 +37,7 @@
  ],
   "Servers": [
        {
-      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.44 ]",
+      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.46 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.startnetplus.xyz",
@@ -52,6 +52,26 @@
      
   ],
   "Networks": [
+ {
+      "Name": "💙TIM E VIVO NEW",
+      "FLAG": "tim",
+      "Payload": "CONNECT / HTTP/1.1[crlf]Host: www.c6bank.com.br[crlf][crlf][split]- / HTTP/1.1[crlf]Host: sonicvpn.xyz[crlf]Upgrade: Websocket[crlf]Date: TS[crlf]User-Agent: (PAYLOAD É TUDO IGUAL NÉ?) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf]@MATRIX[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.51.111",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
+{
+      "Name": "💙TIM E VIVO NEW 02",
+      "FLAG": "tim",
+      "Payload": "CONNECT / HTTP/1.1[crlf]Host: www.c6bank.com.br[crlf][crlf][split]- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Date: TS[crlf]User-Agent: (PAYLOAD É TUDO IGUAL NÉ?) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf]@MATRIX[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.51.111",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
  {
             "Name": "💙TIM GOLD 01",
             "FLAG": "tim",
@@ -200,66 +220,388 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     }, 
-{
-      "Name": "💜VIVO TOP 02",
-      "FLAG": "vivo",
-      "Payload": "GET-MATRIX wss://br5.startnetplus.xyz/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "br5.startnetplus.xyz",
-      "TlsIP": "support.deezer.com",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    }, 	
-	{
-      "Name": "💜VIVO PRE \n ✅ MULT ST",
-      "FLAG": "vivo",
-      "Payload": "GET-MATRIX wss://br1.startnetplus.xyz/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "br1.startnetplus.xyz",
-      "TlsIP": "adapitvivo.sonicvpn.xyz",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },	
-	{
-      "Name": "💜VIVO PRE \n ✅ MULT ST 02",
-      "FLAG": "vivo",
-      "Payload": "GET-MATRIX wss://br5.startnetplus.xyz/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "br5.startnetplus.xyz",
-      "TlsIP": "adapitvivo.sonicvpn.xyz",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },	
- {
-"Name": "💜VIVO PRE \n R1 ✅ ", 
-"FLAG": "vivo", 
-"Payload": "BASE-LINE wss://[rotate=ffsupportbd.garena.com;support.giphy.com;[app_host];support.deezer.com;atendimento.descomplica.com.br;atendimento.descomplica.com.br;support.counterpath.com;fly218.com;rapehun.com] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", 
-"SNI": "", 
-"TlsIP": "adapitvivo.sonicvpn.xyz", 
-"ProxyIP": "adapitvivo.sonicvpn.xyz", 
-"ProxyPort": "80", 
-"Info": "Proxy" 
-},
- 
- { 
 
-"Name": "💜VIVO PRE \n ✅ R2 📡💜", 
-
-"FLAG": "vivo", 
-
-"Payload": "BASE-LINE wss://[rotate=atendimento.descomplica.com.br;vivoid.vivo.com.br;support.deezer.com;atendimento.descomplica.com.br;[app_host];melhorplano.net;vivo360.vivo.com.br;selectra.net.br;gprs.digitel.com.ve] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", 
-
-"SNI": "", 
-
-"TlsIP": "", 
-
-"ProxyIP": "adapitvivo.sonicvpn.xyz", 
-
-"ProxyPort": "80", 
-
-"Info": "Proxy" 
-
-}
+{         
+      "Name": "💜VIVO PRE E EASY 01 IPV4 \n ✅ D ", 
+      "FLAG": "tim", 
+      "Payload": "GET / HTTP/1.1[crlf]Host: sonicvpn.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+      "SNI": "", 
+      "TlsIP": "", 
+      "ProxyIP": "[app_host]", 
+      "ProxyPort": "80", 
+      "Info": "Direct"
+  },
+		{  
+		"Name": "💜VIVO PRE E EASY 02 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "vipre.startnetplus.xyz", 
+		"ProxyIP": "vipre.startnetplus.xyz", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 03 IPV4/IPV6 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "::ffff:6812:729", 
+		"ProxyIP": "::ffff:6812:729", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 03 IPV4/IPV6 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "::ffff:6812:629", 
+		"ProxyIP": "::ffff:6812:629", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 04 IPV4/IPV6 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "::ffff:6812:fb0", 
+		"ProxyIP": "::ffff:6812:fb0", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 05 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.18.5.161", 
+		"ProxyIP": "104.18.5.161", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 06 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "172.65.226.233", 
+		"ProxyIP": "172.65.226.233", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 07 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "177.79.247.15", 
+		"ProxyIP": "177.79.247.15", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 08 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "162.159.136.63", 
+		"ProxyIP": "162.159.136.63", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 09 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.18.14.176", 
+		"ProxyIP": "104.18.14.176", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 10 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.18.4.161", 
+		"ProxyIP": "104.18.4.161", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 11 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "162.159.135.63", 
+		"ProxyIP": "162.159.135.63", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 12 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "162.159.138.6", 
+		"ProxyIP": "162.159.138.6", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 13 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.17.84.127", 
+		"ProxyIP": "104.17.84.127", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 14 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.18.249.37", 
+		"ProxyIP": "104.18.249.37", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 15 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.18.3.245", 
+		"ProxyIP": "104.18.3.245", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 16 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.18.11.171", 
+		"ProxyIP": "104.18.11.171", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 17 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.18.17.178", 
+		"ProxyIP": "104.18.17.178", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 18 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.18.2.245", 
+		"ProxyIP": "104.18.2.245", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 19 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.18.10.171", 
+		"ProxyIP": "104.18.10.171", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 20 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.26.0.102", 
+		"ProxyIP": "104.26.0.102", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 21 IPV4 \n ✅ AGUARDAR CONECTARV", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "172.67.74.187", 
+		"ProxyIP": "172.67.74.187", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 22 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "172.67.74.187", 
+		"ProxyIP": "172.67.74.187", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 23 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.18.18.156", 
+		"ProxyIP": "104.18.18.156", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 24 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.17.123.180", 
+		"ProxyIP": "104.17.123.180", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 25 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.17.201.60", 
+		"ProxyIP": "104.17.201.60", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 26 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.17.200.60", 
+		"ProxyIP": "104.17.200.60", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 27 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.21.61.2", 
+		"ProxyIP": "104.21.61.2", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 28 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "172.67.204.79", 
+		"ProxyIP": "172.67.204.79", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 29 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.16.83.103", 
+		"ProxyIP": "104.16.83.103", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 30 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.16.170.253", 
+		"ProxyIP": "104.16.170.253", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 31 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.17.115.180", 
+		"ProxyIP": "104.17.115.180", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 32 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "162.159.129.11", 
+		"ProxyIP": "162.159.129.11", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 33 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "104.21.2.148", 
+		"ProxyIP": "104.21.2.148", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 34 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "172.67.129.82", 
+		"ProxyIP": "172.67.129.82", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{  
+		"Name": "💜VIVO PRE E EASY 35 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "177.79.247.15", 
+		"ProxyIP": "177.79.247.15", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+					
+		{  
+		"Name": "💜VIVO PRE E EASY 35 IPV4 \n ✅ AGUARDAR CONECTAR", 
+		"FLAG": "vivo", 
+		"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+		"SNI": "", 
+		"TlsIP": "telecineplay.com.br", 
+		"ProxyIP": "telecineplay.com.br", 
+		"ProxyPort": "80", 
+		"Info": "Proxy"
+		},
+		{
+					"Name": "💚VIVO CLOUD IPV4 \n ✅ AGUARDAR CONECTAR",
+					"FLAG": "vivo",
+					"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d2tduu47nutobt.cloudfront.net;dvalxri0lsxxz.cloudfront.net;d8dar0dyu4hnz.cloudfront.net;d255n8eldtg4zg.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+					"SNI": "",
+					"TlsIP": "",
+					"ProxyIP": "telecineplay.com.br",
+					"ProxyPort": "80",
+					"Info": "Proxy"
+				}
 
 	
 
