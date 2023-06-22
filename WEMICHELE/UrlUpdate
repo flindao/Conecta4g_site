@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.46",
-  "ReleaseNotes": "VERSAO 1.0.46 \n \n  ",
+  "Version": "1.0.47",
+  "ReleaseNotes": "VERSAO 1.0.47 \n \n  ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
   "EmailFeedback": "",
@@ -37,7 +37,7 @@
  ],
   "Servers": [
        {
-      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.46 ]",
+      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.47 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.startnetplus.xyz",
@@ -592,6 +592,16 @@
 		"ProxyPort": "80", 
 		"Info": "Proxy"
 		},
+		{  
+	"Name": "💜VIVO CLOUD 💜", 
+	"FLAG": "vivo", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d35j4hcespat7j.cloudfront.net;dvalxri0lsxxz.cloudfront.net;d8dar0dyu4hnz.cloudfront.net;d255n8eldtg4zg.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"SNI": "", 
+	"TlsIP": "13.33.131.6", 
+	"ProxyIP": "13.33.131.6", 
+	"ProxyPort": "80", 
+	"Info": "Proxy"
+    },
 		{
 					"Name": "💚VIVO CLOUD IPV4 \n ✅ AGUARDAR CONECTAR",
 					"FLAG": "vivo",
