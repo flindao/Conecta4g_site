@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.48",
-  "ReleaseNotes": "VERSAO 1.0.48 \n \n  ",
+  "Version": "1.0.49",
+  "ReleaseNotes": "VERSAO 1.0.49 \n \n  ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
   "EmailFeedback": "",
@@ -37,7 +37,7 @@
  ],
   "Servers": [
        {
-      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.48 ]",
+      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.49 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.startnetplus.xyz",
@@ -52,6 +52,49 @@
      
   ],
   "Networks": [
+ 
+ {
+      "Name": "VIVO Delay",
+      "FLAG": "vivo",
+      "Payload": "[delay_split][crlf]GET / HTTP/1.1[lf]Host: vivo.com.br[lf]Upgrade: websocket[lf",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+	
+	{
+      "Name": "VIVO Delay 02",
+      "FLAG": "vivo",
+      "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: br2.startnetplus.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+	{
+      "Name": "VIVO Delay 03",
+      "FLAG": "vivo",
+      "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+		
+	{
+      "Name": "VIVO Delay 04 SRV 2",
+      "FLAG": "vivo",
+      "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: br2.startnetplus.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "br2.startnetplus.xyz",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
  {
       "Name": "💙TIM NEW",
       "FLAG": "tim",
@@ -171,7 +214,7 @@
 {  
 	"Name": "💜VIVO DDD 91 em diante💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=dso6dkufpwbut.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d299w7i0in8hk8.cloudfront.net;f44p056z2111088qo4.speedup.mobi][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "108.158.122.5", 
 	"ProxyIP": "108.158.122.5", 
@@ -182,7 +225,7 @@
 	 { 
     "Name": "️💜VIVO DDD 91 em diante 05💜",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [random=dso6dkufpwbut.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [random=d299w7i0in8hk8.cloudfront.net;f44p056z2111088qo4.speedup.mobi][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.139.182.102",
@@ -194,7 +237,7 @@
 	 {  
 	"Name": "💜VIVO CLOUD 💜", 
 	"FLAG": "vivo", 
-	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=dso6dkufpwbut.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+	"Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d299w7i0in8hk8.cloudfront.net;f44p056z2111088qo4.speedup.mobi][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
 	"SNI": "", 
 	"TlsIP": "13.33.131.6", 
 	"ProxyIP": "13.33.131.6", 
@@ -205,7 +248,7 @@
 		{
             "Name": "💚VIVO CLOUD IPV4 15",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=dso6dkufpwbut.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d299w7i0in8hk8.cloudfront.net;f44p056z2111088qo4.speedup.mobi][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "13.33.131.6",
@@ -216,7 +259,7 @@
 		{
             "Name": "💚VIVO CLOUD IPV4 16",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=dso6dkufpwbut.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d299w7i0in8hk8.cloudfront.net;f44p056z2111088qo4.speedup.mobi][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "99.84.31.33",
