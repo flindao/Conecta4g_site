@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.49",
+  "Version": "1.0.50",
   "ReleaseNotes": "VERSAO 1.0.49 \n \n  ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
@@ -37,7 +37,7 @@
  ],
   "Servers": [
        {
-      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.49 ]",
+      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.50 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.startnetplus.xyz",
@@ -53,8 +53,8 @@
   ],
   "Networks": [
  
- {
-      "Name": "VIVO Delay",
+{
+      "Name": "💚VIVO Delay ddds - \n 11,87",
       "FLAG": "vivo",
       "Payload": "[delay_split][crlf]GET / HTTP/1.1[lf]Host: vivo.com.br[lf]Upgrade: websocket[lf",
       "SNI": "",
@@ -65,7 +65,7 @@
     },
 	
 	{
-      "Name": "VIVO Delay 02",
+      "Name": "💚VIVO Delay 02 ddds - \n 11,13,27,87",
       "FLAG": "vivo",
       "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: br2.startnetplus.xyz[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -75,7 +75,7 @@
       "Info": "Proxy"
     },
 	{
-      "Name": "VIVO Delay 03",
+      "Name": "💚VIVO Delay 03 ddds - \n 11,13,27,87",
       "FLAG": "vivo",
       "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -86,7 +86,7 @@
     },
 		
 	{
-      "Name": "VIVO Delay 04 SRV 2",
+      "Name": "💚VIVO Delay 04 ddds - \n 11,13,27,87",
       "FLAG": "vivo",
       "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: br2.startnetplus.xyz[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -95,6 +95,57 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+	{
+      "Name": "💚VIVO Delay 05 ddds - \n 11,13,27,87",
+      "FLAG": "vivo",
+      "Payload": "[delay_split]ACL STARTNET/ HTTP/1.1[crlf]Host: br1.startnetplus.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "br1.startnetplus.xyz",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+	
+	{
+      "Name": "💚VIVO Delay 06 ddds - \n 11,13,87",
+      "FLAG": "vivo",
+      "Payload": "[delay_split][crlf]GET / HTTP/1.1[lf]Host: br1.startnetplus.xyz[lf]Upgrade: websocket[lf",
+      "SNI": "",
+      "TlsIP": "[app_host]",
+      "ProxyIP": "br1.startnetplus.xyz",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+	{
+      "Name": "💚VIVO Delay 07 ddds - \n 11,13,87,91",
+      "FLAG": "vivo",
+      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br[lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "br1.startnetplus.xyz",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+	{
+      "Name": "💚VIVO Delay 08 ddds - \n 13,87,91",
+      "FLAG": "vivo",
+      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br[lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+	{ 
+"Name": "💚VIVO Delay 09 ddds \n 51 VIVO SECURITY ✅ PRÉ[12] ", 
+"FLAG": "vivo", 
+"Payload": "[delay_split]HEAD / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade:[crlf][crlf]", 
+"SNI": "", 
+"TlsIP": "", 
+"ProxyIP": "[app_host]", 
+"ProxyPort": "80", 
+"Info": "Proxy" 
+},
  {
       "Name": "💙TIM NEW",
       "FLAG": "tim",
