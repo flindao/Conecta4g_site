@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.55",
-  "ReleaseNotes": "VERSAO 1.0.55 \n \n  ",
+  "Version": "1.0.56",
+  "ReleaseNotes": "VERSAO 1.0.56 \n \n  ",
   "UrlUpdate": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/flindao/Conecta4g_site/main/WEMICHELE/UrlSms",
   "EmailFeedback": "",
@@ -37,7 +37,7 @@
  ],
   "Servers": [
        {
-      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.55 ]",
+      "Name": " [ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗮𝘁𝘂𝗮𝗹 1.0.56 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.startnetplus.xyz",
@@ -288,7 +288,7 @@
 	{
             "Name": "💜VIVO CLOUD 01 \n 💚VIVO CLOUD GERAL",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d4sk5o15lkd0g.cloudfront.net;k588v69b98yl672148.speedup.mobi;9239682t9w6rru3291.speedup.mobi;c978d2mr1910606z42.speedup.mobi;414gd89786792ug60z.speedup.mobi;drtb01exsjv9j.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=cdn1.affa.website;cdn2.affa.website;cdn3.affa.website;cdn4.affa.website][crlf]backend:backend89[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "r.sonicvpn.xyz",
@@ -308,7 +308,7 @@
 	{
             "Name": "💚VIVO CLOUD 03 \n 💚VIVO CLOUD IPV6 01",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d4sk5o15lkd0g.cloudfront.net;k588v69b98yl672148.speedup.mobi;9239682t9w6rru3291.speedup.mobi;c978d2mr1910606z42.speedup.mobi;414gd89786792ug60z.speedup.mobi;drtb01exsjv9j.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=cdn1.affa.website;cdn2.affa.website;cdn3.affa.website;cdn4.affa.website][crlf]backend:backend89[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "65.8.214.21",
@@ -318,7 +318,7 @@
         {
             "Name": "💚VIVO CLOUD 04 \n 💚VIVO CLOUD IPV4 02",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d4sk5o15lkd0g.cloudfront.net;k588v69b98yl672148.speedup.mobi;9239682t9w6rru3291.speedup.mobi;c978d2mr1910606z42.speedup.mobi;414gd89786792ug60z.speedup.mobi;drtb01exsjv9j.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=cdn1.affa.website;cdn2.affa.website;cdn3.affa.website;cdn4.affa.website][crlf]backend:backend89[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "65.8.214.92",
@@ -328,7 +328,7 @@
 		{
             "Name": "💚VIVO CLOUD 05 DDD \n 27,71 💚VIVO CLOUD 19",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d4sk5o15lkd0g.cloudfront.net;k588v69b98yl672148.speedup.mobi;9239682t9w6rru3291.speedup.mobi;c978d2mr1910606z42.speedup.mobi;414gd89786792ug60z.speedup.mobi;drtb01exsjv9j.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=cdn1.affa.website;cdn2.affa.website;cdn3.affa.website;cdn4.affa.website][crlf]backend:backend89[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "52.85.213.8",
@@ -339,7 +339,7 @@
         {
             "Name": "💚VIVO CLOUD 06 \n 💚VIVO CLOUD IPV4 05",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d4sk5o15lkd0g.cloudfront.net;k588v69b98yl672148.speedup.mobi;9239682t9w6rru3291.speedup.mobi;c978d2mr1910606z42.speedup.mobi;414gd89786792ug60z.speedup.mobi;drtb01exsjv9j.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=cdn1.affa.website;cdn2.affa.website;cdn3.affa.website;cdn4.affa.website][crlf]backend:backend89[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "18.161.200.32",
@@ -351,7 +351,7 @@
         {
             "Name": "💚VIVO CLOUD 07 \n 💚VIVO CLOUD IPV4 07",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d4sk5o15lkd0g.cloudfront.net;k588v69b98yl672148.speedup.mobi;9239682t9w6rru3291.speedup.mobi;c978d2mr1910606z42.speedup.mobi;414gd89786792ug60z.speedup.mobi;drtb01exsjv9j.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=cdn1.affa.website;cdn2.affa.website;cdn3.affa.website;cdn4.affa.website][crlf]backend:backend89[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "65.8.214.10",
@@ -362,7 +362,7 @@
         {
             "Name": "💚VIVO CLOUD 08 DDD \n 27,71 💚VIVO CLOUD IPV4 09",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d4sk5o15lkd0g.cloudfront.net;k588v69b98yl672148.speedup.mobi;9239682t9w6rru3291.speedup.mobi;c978d2mr1910606z42.speedup.mobi;414gd89786792ug60z.speedup.mobi;drtb01exsjv9j.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=cdn1.affa.website;cdn2.affa.website;cdn3.affa.website;cdn4.affa.website][crlf]backend:backend89[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "108.158.122.48",
@@ -373,7 +373,7 @@
 		{
             "Name": "💚VIVO CLOUD 09 \n 💚VIVO CLOUD IPV4 11",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d4sk5o15lkd0g.cloudfront.net;k588v69b98yl672148.speedup.mobi;9239682t9w6rru3291.speedup.mobi;c978d2mr1910606z42.speedup.mobi;414gd89786792ug60z.speedup.mobi;drtb01exsjv9j.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=cdn1.affa.website;cdn2.affa.website;cdn3.affa.website;cdn4.affa.website][crlf]backend:backend89[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "108.139.119.129",
@@ -383,7 +383,7 @@
 		{
             "Name": "💚VIVO CLOUD 10 DDD \n 19,91,92,93,94,95,99 💚VIVO CLOUD IPV4 12",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d4sk5o15lkd0g.cloudfront.net;k588v69b98yl672148.speedup.mobi;9239682t9w6rru3291.speedup.mobi;c978d2mr1910606z42.speedup.mobi;414gd89786792ug60z.speedup.mobi;drtb01exsjv9j.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=cdn1.affa.website;cdn2.affa.website;cdn3.affa.website;cdn4.affa.website][crlf]backend:backend89[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "108.139.113.33",
@@ -394,7 +394,7 @@
 		{
             "Name": "💚VIVO CLOUD 11 DDD \n  27,71 💚VIVO CLOUD IPV4 14",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d4sk5o15lkd0g.cloudfront.net;k588v69b98yl672148.speedup.mobi;9239682t9w6rru3291.speedup.mobi;c978d2mr1910606z42.speedup.mobi;414gd89786792ug60z.speedup.mobi;drtb01exsjv9j.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=cdn1.affa.website;cdn2.affa.website;cdn3.affa.website;cdn4.affa.website][crlf]backend:backend89[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "108.139.113.30",
@@ -404,7 +404,7 @@
 		{
             "Name": "💚VIVO CLOUD 12 DDD \n 27,71 💚VIVO CLOUD IPV4 15",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d4sk5o15lkd0g.cloudfront.net;k588v69b98yl672148.speedup.mobi;9239682t9w6rru3291.speedup.mobi;c978d2mr1910606z42.speedup.mobi;414gd89786792ug60z.speedup.mobi;drtb01exsjv9j.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=cdn1.affa.website;cdn2.affa.website;cdn3.affa.website;cdn4.affa.website][crlf]backend:backend89[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "13.33.131.6",
@@ -414,7 +414,7 @@
 		{
             "Name": "💚VIVO CLOUD 13 DDD 27,71 \n 💚VIVO CLOUD IPV4 16 ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d4sk5o15lkd0g.cloudfront.net;k588v69b98yl672148.speedup.mobi;9239682t9w6rru3291.speedup.mobi;c978d2mr1910606z42.speedup.mobi;414gd89786792ug60z.speedup.mobi;drtb01exsjv9j.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=cdn1.affa.website;cdn2.affa.website;cdn3.affa.website;cdn4.affa.website][crlf]backend:backend89[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "99.84.31.33",
@@ -424,7 +424,7 @@
 		{
             "Name": "💚VIVO CLOUD 14 DDD \n 27 💚VIVO CLOUD 17 ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d4sk5o15lkd0g.cloudfront.net;k588v69b98yl672148.speedup.mobi;9239682t9w6rru3291.speedup.mobi;c978d2mr1910606z42.speedup.mobi;414gd89786792ug60z.speedup.mobi;drtb01exsjv9j.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=cdn1.affa.website;cdn2.affa.website;cdn3.affa.website;cdn4.affa.website][crlf]backend:backend89[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "52.85.213.68",
@@ -444,7 +444,7 @@
 	{
             "Name": "💚VIVO CLOUD 16 \n 💚VIVO LIVE 01",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d4sk5o15lkd0g.cloudfront.net;k588v69b98yl672148.speedup.mobi;9239682t9w6rru3291.speedup.mobi;c978d2mr1910606z42.speedup.mobi;414gd89786792ug60z.speedup.mobi;drtb01exsjv9j.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=cdn1.affa.website;cdn2.affa.website;cdn3.affa.website;cdn4.affa.website][crlf]backend:backend89[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "cdnssl.clicktale.net",
             "ProxyIP": "cdnssl.clicktale.net",
